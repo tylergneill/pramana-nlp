@@ -1,0 +1,256 @@
+top 200 words by frequency
+
+1	iti
+2	na
+3	ca
+4	api
+5	eva
+6	tad
+7	tvāt
+8	tat
+9	hi
+10	ādi
+11	tu
+12	tvam
+13	tathā
+14	artha
+15	vā
+16	syāt
+17	evam
+18	āha
+19	tva
+20	tatra
+21	asti
+22	yadi
+23	kim
+24	arthaḥ
+25	tasya
+26	yathā
+27	sa
+28	ced
+29	sva
+30	yat
+31	atas
+32	etat
+33	katham
+34	ayam
+35	bhavati
+36	atra
+37	tasmāt
+38	vat
+39	tā
+40	uktam
+41	eka
+42	tatas
+43	atha
+44	rūpa
+45	śabda
+46	tvena
+47	jñāna
+48	tve
+49	asya
+50	nanu
+51	kārya
+52	abhāvāt
+53	punar
+54	idam
+55	kāraṇa
+56	tadā
+57	artham
+58	dharma
+59	viṣaya
+60	ucyate
+61	pramāṇa
+62	antara
+63	tena
+64	hetu
+65	jñānam
+66	tayā
+67	sarva
+68	tāvat
+69	yaḥ
+70	anyathā
+71	sati
+72	hetuḥ
+73	viśeṣa
+74	pratyakṣa
+75	bhāvaḥ
+76	saḥ
+77	sādhya
+78	śabdaḥ
+79	ātma
+80	sā
+81	vastu
+82	para
+83	bhāva
+84	ādeḥ
+85	pūrva
+86	kriyā
+87	tarhi
+88	bheda
+89	abhāvaḥ
+90	karma
+91	bhavet
+92	abhāva
+93	ādīnām
+94	kāraṇam
+95	indriya
+96	iva
+97	anya
+98	ityādi
+99	bhedaḥ
+100	sādhana
+101	pramāṇam
+102	kāla
+103	guṇa
+104	lakṣaṇa
+105	sāmānya
+106	a
+107	deśa
+108	nāma
+109	pakṣa
+110	anena
+111	ādayaḥ
+112	kutas
+113	yatas
+114	te
+115	svabhāva
+116	iha
+117	ghaṭa
+118	rūpam
+119	nitya
+120	kaḥ
+121	anumānam
+122	viśeṣaḥ
+123	antaram
+124	lakṣaṇam
+125	mātra
+126	asau
+127	kvacid
+128	ādau
+129	mātram
+130	buddhi
+131	teṣām
+132	dravya
+133	puruṣa
+134	sukha
+135	doṣaḥ
+136	prasaṅgāt
+137	anumāna
+138	siddhiḥ
+139	vākya
+140	sat
+141	ākāra
+142	yatra
+143	abhāve
+144	kaścid
+145	asat
+146	antareṇa
+147	phala
+148	hetoḥ
+149	yuktam
+150	sādhanam
+151	prasaṅgaḥ
+152	kāryam
+153	darśanāt
+154	yena
+155	ādiṣu
+156	dharmaḥ
+157	yasya
+158	anitya
+159	aneka
+160	pratyaya
+161	viṣayaḥ
+162	grahaṇam
+163	yadā
+164	duḥkha
+165	arthasya
+166	sambandhaḥ
+167	pratyakṣam
+168	ātmā
+169	anyat
+170	anyatra
+171	samāna
+172	buddhiḥ
+173	arthe
+174	śarīra
+175	saha
+176	āśraya
+177	iyam
+178	svarūpa
+179	ukta
+180	anvaya
+181	jāti
+182	doṣa
+183	khalu
+184	tām
+185	ekam
+186	sāmānyam
+187	śabdasya
+188	virodhaḥ
+189	tvasya
+190	prāk
+191	sarvam
+192	anyaḥ
+193	pravṛtti
+194	siddham
+195	kiñcid
+196	darśana
+197	tattva
+198	jñānasya
+199	viruddha
+200	phalam
+
+****
+
+for stopwords to exclude during LDA modeling
+
+start with top 15
+1	iti
+2	na
+3	ca
+4	api
+5	eva
+6	tad
+7	tvāt
+8	tat
+9	hi
+10	ādi
+11	tu
+12	tvam
+13	tathā
+14	artha
+15	vā
+
+from this list, remove 3 relatively interesting words
+tvam, tathā, artha
+
+leaving the remaining 12 to be excluded during LDA modeling
+
+iti, na, ca, api, eva, tad, tvāt, tat, hi, ādi, tu, vā
+
+****
+
+for words to exclude during manual interpretation of phi data
+
+from original top 200 list
+
+stopword 12 are already gone
+
+iti, na, ca, api, eva, tad, tvāt, tat, hi, ādi, tu, vā
+
+also exclude the following 72 from the top 200
+
+tvam, tathā, syāt, evam, āha, tva, tatra, asti, yadi, kim, tasya, yathā, sa, ced, sva, yat, atas, etat, katham, ayam, bhavati, atra, tasmāt, vat, tā, uktam, tatas, atha, tvena, tve, asya, nanu, punar, idam, tadā, ucyate, tena, tayā, tāvat, yaḥ, sati, saḥ, sā, ādeḥ, tarhi, ādīnām, iva, ityādi, a, anena, ādayaḥ, kutas, yatas, te, iha, kaḥ, asau, kvacid, ādau, teṣām, yatra, kaścid, yena, ādiṣu, yasya, yadā, iyam, ukta, khalu, tām, tvasya, kiñcid
+
+i.e., allow the remaining 118 content words
+
+artha, arthaḥ, eka, rūpa, śabda, jñāna, kārya, abhāvāt, kāraṇa, artham, dharma, viṣaya, pramāṇa, antara, hetu, jñānam, sarva, anyathā, hetuḥ, viśeṣa, pratyakṣa, bhāvaḥ, sādhya, śabdaḥ, ātma, vastu, para, bhāva, pūrva, kriyā, bheda, abhāvaḥ, karma, bhavet, abhāva, kāraṇam, indriya, anya, bhedaḥ, sādhana, pramāṇam, kāla, guṇa, lakṣaṇa, sāmānya, deśa, nāma, pakṣa, svabhāva, ghaṭa, rūpam, nitya, anumānam, viśeṣaḥ, antaram, lakṣaṇam, mātra, mātram, buddhi, dravya, puruṣa, sukha, doṣaḥ, prasaṅgāt, anumāna, siddhiḥ, vākya, sat, ākāra, abhāve, asat, antareṇa, phala, hetoḥ, yuktam, sādhanam, prasaṅgaḥ, kāryam, darśanāt, dharmaḥ, anitya, aneka, pratyaya, viṣayaḥ, grahaṇam, duḥkha, arthasya, sambandhaḥ, pratyakṣam, ātmā, anyat, anyatra, samāna, buddhiḥ, arthe, śarīra, saha, āśraya, svarūpa, anvaya, jāti, doṣa, ekam, sāmānyam, śabdasya, virodhaḥ, prāk, sarvam, anyaḥ, pravṛtti, siddham, darśana, tattva, jñānasya, viruddha, phalam
+
+also consider as stopwords the following 10 additional function words that would subsequently show up in the topic top terms (relevance λ = 0.8)
+
+ādikam, astu, bhavet, eṣa, ete, kintu, tam, tayoḥ, yasmāt, ye
+
+i.e., in addition to 12 already gone when modeling, exclude the following 82 while interpreting
+
+tvam, tathā, syāt, evam, āha, tva, tatra, asti, yadi, kim, tasya, yathā, sa, ced, yat, atas, etat, katham, ayam, bhavati, atra, tasmāt, vat, tā, uktam, tatas, atha, tvena, tve, asya, nanu, punar, idam, tadā, ucyate, tena, tayā, tāvat, yaḥ, sati, saḥ, sā, ādeḥ, tarhi, ādīnām, iva, ityādi, anena, ādayaḥ, kutas, yatas, te, iha, kaḥ, asau, kvacid, ādau, teṣām, yatra, kaścid, yena, ādiṣu, yasya, yadā, iyam, ukta, khalu, tām, tvasya, kiñcid, ādikam, astu, bhavet, eṣa, ete, kintu, tam, tayoḥ, yasmāt, ye
