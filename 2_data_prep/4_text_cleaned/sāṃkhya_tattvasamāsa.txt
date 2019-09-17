@@ -1,0 +1,109 @@
+{TS}
+
+[1]
+
+aṣṭau prakṛtayaḥ || 1 ||
+ṣoḍaśa vikārāḥ || 2 ||
+puruṣaḥ || 3 ||
+traiguṇyam || 4 ||
+saṃcaraḥ || 5 ||
+pratisaṃcaraḥ || 6 ||
+adhyātmam adhibhūtam adhidaivataṃ ca || 7 ||
+pañcābhibuddhayaḥ || 8 ||
+pañca karmayonayaḥ || 9 ||
+pañca vāyavaḥ || 10 ||
+pañca karmātmānaḥ || 11 ||
+pañcaparvāvidyā || 12 ||
+aṣṭāviṃśatidhāśaktiḥ || 13 ||
+navadhā tuṣṭiḥ || 14 ||
+aṣṭadhā siddhiḥ || 15 ||
+daśa mūlikārthāḥ || 16 ||
+anugrahasargaḥ || 17 ||
+caturdaśavidho bhūtasargaḥ || 18 ||
+trividho bandhaḥ || 19 ||
+trividho mokṣaḥ || 20 ||
+trividhaṃ pramāṇam || 21 ||
+trividhaṃ duḥkham || 22 ||
+etat paramparayā yāthātathyam || 23 ||
+etat sarvaṃ jñātvā kṛtakṛtyaḥ syāt || 24 ||
+na punastrividhena duḥkhenābhibhūyate || 25 ||
+
+[2]
+
+aṣṭau prakṛtayaḥ || 1 ||
+ṣoḍaśa vikārāḥ || 2 ||
+puruṣaḥ || 3 ||
+traiguṇyam || 4 ||
+saṃcaraḥ || 5 ||
+pratisaṃcaraḥ || 6 ||
+adhyātmam || 7 ||
+adhibhūtam || 8 ||
+adhidaivam || 9 ||
+pañcābhibuddhayaḥ || 10 ||
+pañca karmayonayaḥ || 11 ||
+pañca vāyavaḥ || 12 ||
+pañca karmātmānaḥ || 13 ||
+pañcaparvāvidyā || 14 ||
+aṣṭaviṃśatidhāśaktiḥ || 15 ||
+navadhā tuṣṭiḥ || 16 ||
+aṣṭadhā siddhiḥ || 17 ||
+daśa mūlikārthāḥ || 18 ||
+anugrahasargaḥ || 19 ||
+caturdaśavidho bhūtasargaḥ || 20 ||
+trividho bandhaḥ || 21 ||
+trividho mokṣaḥ || 22 ||
+trividhaṃ pramāṇam || 23 ||
+trividhaṃ duḥkham || 24 ||
+etatparaṃ yāthārthyaṃ etajjñātvā kṛtakṛtyaḥ syānna punastrividhaduḥkhenābhibhūyate || 25 ||
+
+[3]
+
+aṣṭau prakṛtayaḥ || 1 ||
+ṣoḍaśa vikārāḥ || 2 ||
+puruṣaḥ || 3 ||
+traiguṇyam || 4 ||
+saṃcaraḥ || 5 || pratisaṃcaraḥ || 6 ||
+adhyātmam || 7 || adhibhūtam || 8 || adhidaivam || 9 ||
+pañcābhibuddhayaḥ || 10 ||
+pañca karmayonayaḥ || 11 ||
+pañca vāyavaḥ || 12 ||
+pañca karmātmānaḥ || 13 ||
+pañcaparvāvidyā || 14 ||
+aṣṭaviṃśatidhāśaktiḥ || 15 ||
+navadhā tuṣṭiḥ || 16 || aṣṭadhā siddhiḥ || 17 ||
+daśa mūlikārthāḥ || 18 ||
+anugrahasargaḥ || 19 ||
+caturdaśavidho bhūtasargaḥ || 20 ||
+trividho bandhaḥ || 21 ||
+trividho mokṣaḥ || 22 ||
+trividhaṃ pramāṇam || 23 ||
+
+[4]
+
+aṣṭau prakṛtayaḥ | 1.1 |
+ṣoḍaśa vikārāḥ | 1.2 |
+puruṣaḥ | 1.3 |
+traiguṇyaṃ | 1.4 |
+saṃcaraḥ | 1.5 |
+pratisaṃcaraḥ | 1.6 |
+adhyātmam | 1.7 |
+adhibhūtam | 1.8 |
+adhidaivatam | 1.9 |
+pañcābhibuddhayaḥ | 2.1 |
+pañca karmayonayaḥ | 2.2 |
+pañca vāyavaḥ | 2.3 |
+pañca karmātmānaḥ | 2.4 |
+pañcaparvāvidyā | 2.5 |
+aṣṭāviṃśatidhāśaktiḥ | 2.6 |
+navadhā tuṣṭiḥ | 2.7 |
+aṣṭadhā siddhiḥ | 2.8 |
+daśa mūlikārthāḥ | 2.9 |
+anugrahaḥ sargaḥ | 2.10 |
+caturdaśavidho bhūtasargaḥ | 2.11 |
+trividho bandhaḥ | 2.12 |
+trividho mokṣaḥ | 2.13 |
+trividhaṃ pramāṇaṃ | 2.14 |
+trividhaṃ duḥkhaṃ | 2.15 |
+etatparaṃ yāthātathyaṃ | 2.16 |
+etatjñātvā kṛtakṛtyaḥ syāt | 2.17 |
+nāsau punaḥ trividhena duḥkhenābhibhūyate nābhibhīyate | 2.18 |

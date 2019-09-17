@@ -1,0 +1,17 @@
+Structural Summary
+
+In this file of Jñānaśrimitra's Nibandhāvali are contained the twelve smaller texts, each with its own <div>, numbered 1–12. However, some of these <div> elements have no content of their own but instead defer to further nested <div> elements, namely: 1.1–1.4, 7.1–7.3, 11.1–11.6, 12.1–12.4. In one case, the nesting goes yet another level down: 7.4.1–7.4.3. This poses no major obstacle, however, to generating document candidates; material is simply iteratively bubbled up from lower levels to higher levels, extracting structural information along the way, until ultimately it can be processed all together.
+
+Basically, then, the desired natural-language text is reconstituted from highest-level <p> and <lg> elements, and document identifiers are created for each of these from the text number, subsection number (where applicable), and number of paragraph (or verse). The topic <div> elements for the twelve texts are used as natural boundaries for document grouping, as are numbers for subsections where they exist.
+
+
+Other Notable Encoding Issues
+
+1) Inconsistencies found with <lb break="no"/>, including issues with hyphen.
+
+2) Some in-line notes encoded only with the formatting element <span>, which otherwise used for material to be accepted as part of the text, rather than with <note> tags, e.g. ... <span rend="k2">प्र० वा० ३. १९०</span>. (The difference between "k1" and "k2" remains somewhat mysterious.) Similarly, material that is surely a footnote "स्वोपज्ञवृत्त्यनुसारी पाठः" ends up in-line. This material must therefore be carefully distinguished after the transform as not part of the natural-language flow of the text itself. Extensive revision of the source xml would be required.
+
+3) The <div> element for subsection 7.4.3 "तृतीयः खण्डः" lacked an @n attribute, which was fixed for the "modified" file ultimately transformed.
+
+
+(many further details recorded elsewhere)

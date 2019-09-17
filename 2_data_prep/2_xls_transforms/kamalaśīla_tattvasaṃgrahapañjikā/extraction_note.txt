@@ -1,0 +1,23 @@
+Structural Summary
+
+In this file of Kamalaśīla's Tattvasaṃgrahapañjikā on Śāntarakṣita's Tattvasaṅgraha, the base-text is encoded in <quote> elements, reflecting the printing of E. Krishnamacharya's 1926 Baroda edition. Although Kamalaśīla himself did not quote the base-text in this way, but rather in an abbreviated manner (encoded here with <q type="lemma"> elements), this material  of Śāntarakṣita, featuring nowhere else in the corpus, was simply extracted as part of Kamalaśīla's commentary. In the future, it might make sense to separately extract the full text of the Tattvasaṃgraha, as well.
+
+For finding the desired natural-language text, the <editorialDecl> is very helpful (here quoted in full):
+
+"The Tattvasaṅgrahapañjikā has been structured in three (sometimes four), div-levels:
+	2 main parts encoded as: div n="..." type="part" subtype="bhaga".
+	26 chapters encoded as: div n="... " type="chapter".
+	Following Krishnamacharya's edition, chapters 7 and 19 have been furthermore divided in subchapters, encoded as: div n="...-..." type="subchapter", etc. 
+	The lowest div-level encloses a verse and its corresponding commentary (or a group of verses that is commented in the same passage). In this case the div-number refers to the verses it encloses, e.g. div n="1_2_3_4_5_6."
+
+Document candidates were generated from <p> and <lg> elements below the lowest <div> level, with identifier labels based on the parent <div> elements' @n and @xml:id attributes and the child node's enumeration relative to these.
+
+Chapters and subchapters were used for document grouping.
+
+
+Other Notable Encoding Issues
+
+(none)
+
+
+(many further details recorded elsewhere)
