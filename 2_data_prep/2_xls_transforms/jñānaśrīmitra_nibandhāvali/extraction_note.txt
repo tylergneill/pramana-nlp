@@ -7,7 +7,7 @@ Basically, then, the desired natural-language text is reconstituted from highest
 
 Other Notable Encoding Issues
 
-1) Inconsistencies found with <lb break="no"/>, including issues with hyphen.
+1) Inconsistencies found with <lb break="no"/>.
 
 2) Some in-line notes encoded only with the formatting element <span>, which otherwise used for material to be accepted as part of the text, rather than with <note> tags, e.g. ... <span rend="k2">प्र० वा० ३. १९०</span>. (The difference between "k1" and "k2" remains somewhat mysterious.) Similarly, material that is surely a footnote "स्वोपज्ञवृत्त्यनुसारी पाठः" ends up in-line. This material must therefore be carefully distinguished after the transform as not part of the natural-language flow of the text itself. Extensive revision of the source xml would be required.
 

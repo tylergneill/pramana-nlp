@@ -1,0 +1,16 @@
+Structural Summary
+
+In this file of Patañjali's Yogaśāstra, both the Yogaśūtras and the Bhāṣya (encoded here with <quote> elements) are treated as one continuous text by the same author.
+
+The desired natural-language text is found at the bottom of a two-tier <div> structure. The first-tier <div> encodes the 4 chapters (pādas), as well as an introduction (maṅgala). The second-tier <div> encodes a logical section of sūtra with bhāṣya, the numbering of which can be obtained from the @xml:id attribute of the respective child <quote type="base-text"> element (or equivalently, from the text of the corresponding child <label> element following each sūtra).
+
+Document candidates were generated almost exclusively from <p> elements and their identifiers generated based on the sūtra section numbering mentioned above plus the sequential occurrence of the element within the parent <div>.
+
+For document grouping, the four simple chapter (pāda) headings were used.
+
+
+Other Notable Encoding Issues
+
+1) Introductory (avataraṇa) material for a given sūtra section has been placed within the preceding <div> rather that within the one which follows and with which it shares a closer logical (and most likely semantic) connection, e.g., "<p>tasya lakṣaṇābhidhitsayedaṃ sūtraṃ pravavṛte ---</p>" in 1.1 rather than in 1.2. (Cp., e.g., Vātsyāyana's Nyāyabhāṣya.) This could potentially be changed in the original file, but the necessity of this may be a matter of interpretation, depending on the NLP goal at hand.
+
+(many further details recorded elsewhere)

@@ -1,0 +1,17 @@
+Structural Summary
+
+In this file of Vācaspatimiśra's Tattvavaiśāradī (TV) on Patañjali's Yogasūtras (YS) the base-text is encoded in <quote> elements, reflecting the printing of Āgāśe's and Hari's 1904 Pune (Ānandāśrama) edition. Although Vācaspati himself did not quote the base-text in full in this way, but rather in an abbreviated manner (not encoded here), this material of Patañjali was simply extracted as part of Vācaspatimiśra's text. In the future, it may be better to exclude this YS material and focus on the TV material, since the YS text is already found elsewhere in the corpus. Alternatively, it might be useful to extract this material so as to be able to compare it to other versions.
+
+The desired natural-language text is found at the bottom of a two-tier <div> structure. The first-tier <div> encodes the 4 chapters (pādas). The second-tier <div> encodes a logical section of sūtra (or sūtras) with commentary, the numbering of which can be most easily obtained from the @n attribute of the <div> itself (e.g., <div n="3.27-31"> contains <quote n="3.27">, <quote n="3.28">, etc.)
+
+Document candidates were generated primarily from <p> and secondarily but equally from YS <quote> elements, with identifiers based on the parent <div> element's @n attribute, plus the element's sequential occurrence within the <div>.
+
+Document grouping was based on the second-tier, sūtra section <div> elements.
+
+
+Other Notable Encoding Issues
+
+(none)
+
+
+(numerous further details recorded elsewhere)

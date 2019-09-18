@@ -1,0 +1,22 @@
+Structural Summary
+
+In this file of Prajñākaragupta's Pramāṇavārttikālaṅkāra (PVA), which comments on pariccheda's 2–4 of Dharmakīrti's Pramāṇavārttika (PV) (i.e., all but svārthānumāna), the metrical PV material is encoded only as <lg>, with no attributes, in contrast to Prajñākaragupta own verses, which have an autonumbered @xml:id attribute based on the text of the child <l> element. While this distinction is fairly consistently maintained, some deviations were found (e.g., the verse <lg><l>सामग्रीसम्भवे कार्यङ्कारणाज्जायते यतः ।</l><l>ततः कारणतः सिद्धिः कार्यस्यायुक्तिका कथम् ।। ४९ ।।</l> being in fact by Prajñākaragupta but lacking the @xml:id attribute). Moreover, it appears that Prajñākaragupta himself did quote the PV in full (e.g., consider the sequence "<p>अत्रोच्यते ।</p><lg><l>वक्तृव्यापारविषयो योऽर्थौ बुद्धौ प्रकाशते ।</l><l>प्रामाण्यन्तत्र शब्दस्य नार्थतत्त्वनिबन्धनं ।। २ ।।</l></lg><p>शब्दस्य हि नापौरुषेयतेति पश्चात् प्रतिपादयिष्यते । ..." Therefore, it was decided to simply treat all of content as part of the PVA.
+
+In order to find the desired natural-language text in this file, one must traverse a rather intricate <div> structure of unknown depth. This seems to reflect a complex hierarchical, logical analysis of the text, for example as presented in the edition table of contents. While each of these sections does have a verbose header, no consistent numbering system yet exists — the enumeration with Sanskrit syllables and hierarchical structure given in the table of contents is not fully consistent, whether with itself or with the headers found throughout the edition — but a numerical representation is preferable for creating systematic identifiers, even if the complex hierarchical structure, once represented numerically, is daunting and unrecognizable to humans. Nevertheless, since the main goal was modeling, it was decided to indeed use this numerical structural information to create document identifiers.
+
+First, because <div> elements were not encoded with any attributes (except <div n='x'> once), numerical attributes were created for them iteratively, moving from the top of the <div> structure downward; this was done explicitly, in an early part of the xsl transformation, to enable inspection of the process if so desired by a given user. 
+
+Once all <div> elements had received such a number (e.g., 2.3.1.2, 1.1.4.6.1.1.5, etc.), document candidates could be created easily from <p> and <lg> elements within lowest-level <div> elements, with identifiers based on the parent <div> element's newly created @n attribute, plus the sequential occurrence of the <p> or <lg> element within the parent <div>.
+
+For document grouping, the boundaries of the same lowest-level <div> elements were used.
+
+
+Other Notable Encoding Issues
+
+
+1) Some doubt exists (see <encodingDesc>) as to whether source edition was consisent about use of space and hyphenation, and thus as to whether mechanical use of the provided <lb ed="s" type="space"/> and <lb ed="s" type="hyphen"/> elements would result in proper, natural-language sequences. In any case, care must be taken to deal with some <lb ed="s" type="hyphen"/> elements found to be directly followed by <pb>. Also: see #2 below for one clear example of incorrect spacing in the edition left uncorrected.
+
+2) Literal reproduction of edition's highlighting of proper names through extra syllable spacing renders some text unuseable, e.g. "नहि <hi rend="bold">वै या कर णै<lb ed="s" type="hyphen"/>र व</hi>श्यम्परसिद्धान्तोनुगम्यते ।..."
+
+
+(many further details recorded elsewhere)

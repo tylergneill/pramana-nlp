@@ -1,0 +1,17 @@
+Structural Summary
+
+In this file of Ratnakīrti's Nibandhāvali are contained the ten smaller texts, each with its own <div>, which implicitly can be numbered 1–10 based on their order of presentation. Extra internal structure is exceptionally given for work #2 (Īśvarasādhanadūṣaṇam), but this is ignored here, as the division into paragraphs equally found for the other texts is already sufficient.
+
+Although three different sources are said to have been used for the ten respective texts (Thakur 1975 for "1), 2), 3), 4), 6), 7), 9) and 10)"; Mcdermott 1967 for "5)"; and Mimaki 1976 for "8)" — and also again for "4)" and "5)") all are primarily referred to by Thakur 1975 page and line numbers throughout in the @xml:id attribute of <p> elements.
+
+Document candidates were therefore generated from <p> and <lg> elements — the latter subsequently being associated backward with the former, as were <p> elements lacking page and line info — with identifiers based on the physical features of the Thakur edition as mentioned above.
+
+For document grouping, <head> elements associated with each text's <div> provided ideal logical boundaries.
+
+
+Other Notable Encoding Issues
+
+(none)
+
+
+(many further details recorded elsewhere)

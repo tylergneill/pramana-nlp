@@ -1,0 +1,26 @@
+Structural Summary
+
+In this file of Praśastapāda's Padārthadharmasaṃgraha, an effort has been made to separately encode whitespace-separated chunks of text as words with the <w> element, although this encodes no additional information over and above the whitespace itself, e.g., "<w>tadā</w><w>saiva</w><w>cintāsantatiḥ</w>" etc. Furthermore, the normal interpretation of the <p> element is compromised when it is in turn used to contain a single punctuated sentence (or occasionally several of them), e.g.:
+
+<p n="8.12.1.4"><rs type="text_location" xml:lang="en">8.12.1.4: </rs><pb n="184"/> <w>tatra</w><w>saṃskārapāṭavāt</w>
+<w>tāvat</w>
+...
+<w>pratyakṣākārā</w>
+<w>saṃjāyate</w> / 
+</p>
+<p n="8.12.1.4"><rs type="text_location" xml:lang="en">8.12.1.4: </rs><pb n="184"/> <w>dhātudoṣād</w>
+...
+
+Therefore, in order to recover the desired natural-language text paragraphs, each of these <p> sentences must first be reconstituted by joining back together its constituent <w> elements, and then they must themselves be joined with their proper <p> neighbors, as indicated by a shared @n attribute (see example above). This attribute fortunately provides very useful structural labels.
+
+Document candidates were thus generated from these reconstitued paragraphs based on a given @n attribute, with identifiers based simply on this structural label.
+
+Document grouping labels were generated easily from <head> elements.
+
+
+Other Notable Encoding Issues
+
+(none)
+
+
+(many further details recorded elsewhere)

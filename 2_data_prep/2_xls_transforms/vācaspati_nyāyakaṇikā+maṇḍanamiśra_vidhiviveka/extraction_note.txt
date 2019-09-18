@@ -1,0 +1,15 @@
+Structural Summary
+
+This file containing Vācaspati's Nyāyakaṇikā (NyKaṇ) on Maṇḍanamiśra's Vidhiviveka (VVi) was found to be the best source for both texts, each of which was ultimately desired to feature separately in modeling. In this first round, however, only the NyKaṇ, being part of the "Vienna list", was desired, and not the VVi, which was not on the list. Instead, these priorities were accidentally reversed, and only the VVi, not the NyKaṇ, was included in modeling. A future round will easily include both.
+
+From this file, the NyKaṇ was obtained by subtracting VVi <quote> elements (cp. the extraction of Durvekamiśra's Dharmottarapradīpa), whereas the VVi was obtained by reconstructing the <body> with only the VVi <quote> elements (cp. the extraction of Jayanatabhaṭṭa's Nyāyamañjarī). Note also that some preliminary, more general transformations were applied before this bifurcation of the text and some more text-specific transformations afterward.
+
+Since the <body> consists only of a single <div> and also lacks any other potentially structurally useful elements like <head>, only page and paragraph numbers could be used for document identifiers. Document candidates themselves were produced from <p> and <lg> elements, and identifiers based as usual on preceding page numbers (<pb>) plus the sequential occurrence of the element relative to a change in page number. No non-trivial document grouping was possible.
+
+
+Other Notable Encoding Issues
+
+1) Inconsistencies found with <lb break="no"/>.
+
+
+(many further details recorded elsewhere)

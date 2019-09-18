@@ -1,0 +1,15 @@
+Structural Summary
+
+In this file of Śāntarakṣita's Vādanyāyaṭīkā on Dharmakīrti's Vādanyāya (VN), two <div> elements correspond to two chapters (Nigrahasthānalakṣaṇa, pp. 1-73 of edition, and 2. Nyāyamatakhaṃḍana, pp. 75-143 of edition) as also found to structure the VN itself.
+
+Document candidates were generated from <p> and <lg> elements, with identifiers based on the @n attribte of the preceding <pb ed="s"> element, plus the sequential occurrence of the <p> or <lg> element within the parent <div>.
+
+For document grouping, the <head> element of each <div> was sufficient.
+
+
+Other Notable Encoding Issues
+
+1) Care must be taken to deal with some <lb break="no" ed="s"/> elements found to be directly followed by <pb>.
+
+
+(many further details recorded elsewhere)

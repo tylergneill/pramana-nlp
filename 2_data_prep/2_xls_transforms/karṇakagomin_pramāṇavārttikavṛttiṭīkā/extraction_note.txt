@@ -1,0 +1,27 @@
+Structural Summary
+
+In this file of Karṇakagomin's Pramāṇavārttikavṛttiṭīkā, only occasionally is material from Dharmakīrtti's Pramāṇavārttika (PV) quoted in full and marked as such. More commonly, material from the Pramāṇavārttikasvavṛtti is quoted in full and reworked by Karṇakagomin into his own syntax (the edition's bold type for Dharmakīrti's words is here reflected by the formatting element <hi rend="bold">). Thus, more or less all of the Sanskrit material found here is to be extracted as Karṇakagomin's.
+
+The desired natural-language text is therefore easy to find, but it is hard to structure. Only a single top <div> below <body>, followed by a single <head> element, is made to contain all the material in child <p> and <lg> elements. No further close connection to any logical or conventional structure of the PV verses is discernable; occasional <ref> elements are not nearly consistent enough. It is thus only on physical characteristics of the edition that one can rely for identifiers; also due to this same lack of logical labels, no non-trivial labels could be created for document grouping.
+
+Page numbers are provided in <pb> elements, specifically  the @n attribute. For now, document candidates were simply created from <p> and <lg> elements, numbered according their supervening page number and sequential occurrence on the page. In the future, it may be more desirable to use <lb> elements to mark both page and line numbers, if <lb> encoding is sufficiently consistent.
+
+
+Other Notable Encoding Issues
+
+1) Inconsistencies found with <lb break="no"/>.
+
+2) Editorial markup in round and square brackets ws carefully distinguished in the xml encoding but cannot be automatically rendered as natural language through xsl transformation, e.g., 
+<note type="correction"> yields "abc { ?xyz } def" but the exact extent of "abc" that should be replaced by "xyz" is not clear, nor is the spacing around "xyz" predictable (esp. in cases of <add place="margin">).
+
+3) Literal reproduction of edition's highlighting of proper names through extra syllable spacing renders some text unuseable, e.g. "प्र मा ण स मु च्च य व्याख्याभूत प्र मा ण वा र्त्ति क रचनाया"मनुबद्धस्पृहं" सन्तानेन".
+
+4) The elements <hi> and <quote>, for what the edition had in bold to indicate quoted material and for what the SARIT team interpreted as a quote, respectively, are found to be used in an inconsistent, overlapping manner, complicating extraction through transformation. E.g.,
+	<hi rend="bold"><quote sameAs="#pv.3.64">येषां वस्तुवशा वाच</quote></hi>
+	<quote sameAs="vsū.2.1.9-10" cert="high"><hi rend="bold">स्पर्शश्च</hi> न च दृष्टानामि</quote>
+	<quote><hi rend="bold">इष्टेस्तदाश्रयत्वा</hi>दपौरुषेयत्वसाधनाश्रयत्वा<hi rend="bold">दि</hi></quote><hi rend="bold">त्यादि</hi>
+
+5) One pair of broken top-level <quote> elements was fixed the in "modified" file ultimately transformed. Namely, a closing tag was placed immediately after <lg><l>वेदस्याध्यनं सर्वं गुर्वध्ययनपूर्वकं ।</l><l>वेदाध्ययनवाच्यत्वादधुनाध्ययनं यथा ।</l></lg>, and an opening tag was placed immediately before <lg><l>वेदस्याध्ययनं सर्वङ् गुर्वध्ययनपूर्वकम्.	
+
+
+(many further details recorded elsewhere)

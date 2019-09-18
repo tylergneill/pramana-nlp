@@ -1,0 +1,19 @@
+Structural Summary
+
+In this file of Manorathanandin's Pramāṇavārttikavṛtti on Dharmakīrti's Pramāṇavārttika (PV), the base-text is encoded in <quote> elements, reflecting the printing of Sāṅkṛtyāyana's 1938-1940 Patna edition. Although Manorathanandin himself did not quote the base-text in full in this way, but rather in an abbreviated manner (encoded here with <q type="lemma"> elements), this material of Dharmakīrti was simply extracted as part of Manorathanandin's text. In the future, it may be better to exclude this PV material and focus on the Vṛtti material, since the PV text is already found elsewhere in the corpus. Alternatively, it might be useful to extract this material so as to be able to compare it to other versions.
+
+The desired natural-language text is for the most part found at the bottom of a three-tier <div> structure. The top <div> is a chapter/pariccheda. The second tier is a logical subchapter, the @n attributes of which range in the following way (with "0" items being newly created in the "modified" file ultimately transformed, in order to contain introductory text material in first-tier <div> elements): i.0, i.i–ii; ii.0, ii.i–ix; iii.0, iii.i-v; iv.0, iv.i–viii. The third tier <div> contains a PV verse or group of PV verses and the corresponding Manorathanandin commentary.
+
+Document candidates were generated from <p> and <lg> elements at the third-tier <div> and their identifiers based on grandparent subchapter number, parent <div> number with subchapter, and sequential occurrence within the parent <div>. It is as yet unclear whether this or a simpler page-number type of enumeration would be more human-useful.
+
+For logical document grouping, the third-tier <div> boundaries were used.
+
+
+Other Notable Encoding Issues
+
+1) Inconsistencies found with <lb break="no"/>.
+
+2) Some unencoded Roman letters found used for certain structural headings, e.g. "(ग) मोहः सत्कायदृष्टिः... 	a. ननु ... b. प्रकृतमाह ... (घ) दोषाः प्रतीत्यसमुत्पन्नाः ...". These can only be managed manually, after the transform. Greater use of the <label> element, perhaps also with a @lang attribute, might have helped avoid these difficulties.
+
+
+(many further details recorded elsewhere)

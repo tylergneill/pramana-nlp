@@ -15,7 +15,7 @@ Document grouping labels were produced from topic headers marked the by <head> e
 
 Other Notable Encoding Issues
 
-1) Inconsistencies found with <lb break="no"/>, including issues with hyphen.
+1) Inconsistencies found with <lb break="no"/>.
 
 
 (many further details recorded elsewhere)

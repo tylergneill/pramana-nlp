@@ -1,0 +1,19 @@
+Structural Summary
+
+In this file of Vātsyāyana's Nyāyabhāṣya (NBh) on Gautama's Nyāyasūtras (NS), all NS text quoted in full is considered to be an integral part of the NBh.
+
+The desired natural-language text is found at the bottom of a simple three-tiered <div> structure, reflecting adhyāya, āhnika, and sūtra levels of analysis.
+
+Document candidates were generated from <p> and secondarily from <quote> elements, with identifiers based on the parent <div> element's @xml:id attribute, plus the element's sequential occurrence within the <div>.
+
+For the purpose of document grouping the topical prakaraṇa level of analysis might have been ideal, but it was not encoded. Instead, the numbered third-tier <div> were used.
+
+
+Other Notable Encoding Issues
+
+1) Numerous instances of English-language editorial mark-up found left unencoded, e.g., "(corr. ...", "(emend. ...", "(following ṭhakur ...').
+
+2) Groupings of sūtras into a single <div> done inconsistently, e.g., not only was the group 3.1.28_30 not given its own single <div>, despite the commentary ending with the notation "//28-29-30//", it was simply run together with the preceding <div> numbered 3.1.27; meanwhile, 3.1.62 and 3.1.63 were each given their own <div> — with introductory (avataraṇa) material being assigned to the former and the bhāṣya proper to the latter — despite the commentary ending with the notation //62-63//.
+
+
+(many further details recorded elsewhere)
