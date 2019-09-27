@@ -1,0 +1,29 @@
+File Source: private collection of Eli Franco, original likely derives from Vienna
+
+
+Edition: not yet determined
+
+
+Extent: complete
+
+
+Input by: not yet determined 
+
+
+Structural Notes: 
+
+Commentary on Nyāyasūtra, reflects same structure (1.1.1 – 5.2.24).
+
+Document candidates generated from sutra-and-commentary sections, with straightfoward identifiers based on adhyāya.āhnika.sūtra numbering.
+
+Document grouping based on prakaraṇa headers.	
+
+
+Other Important Notes: 
+
+1) Significant clean-up of numbers and sūtra marking required. Some bhāṣya sections extended to include material up until clear structural markers.
+
+2) [...] corrections silently accepted.
+
+
+(numerous other details recorded elsewhere)

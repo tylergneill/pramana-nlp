@@ -1,0 +1,38 @@
+File Source: GRETIL
+
+
+Edition: 
+
+Hetubinduṭīkā of Bhaṭṭa Arcaṭa with the Sub-Commentary entitled Āloka of Durveka Miśra. Ed. Pandit S. Sanghavi and Muni Shri Jinavijayaji. Baroda : Oriental Institute 1949 (Gaekwad's Oriental Series, CXIII).
+
+NB: printed edition is an improved transcript of a single manuscript. Colophon excluded here.
+
+
+Extent: complete
+
+
+Input by: Helmut Krasser
+
+
+Structural Notes:
+
+Document candidates generated from numbered subsections (§) of 4 main sections plus intro. Overview:
+	intro, 0.1-6
+	hetoḥ sāmānyanirūpaṇam, 1.1-38
+	svabhāvahetunirūpaṇam, 2.1-45
+	kāryahetunirūpaṇam, 3.1-6
+	anupalabdhihetunirūpaṇam, 4.1-5 (final one very large)
+
+Document identifiers based on above numbering (rather than book page and line numbers, which found), document grouping by 5 above sections.
+
+
+Other Important Notes:
+
+1) "NOTES" sections removed.
+
+2) [...] corrections (?); (...) additions/interpretations (?); functions not entirely clear but most likely relate to readings of Āloka of Durveka Miśra (?). Material silently kept. Spacing inconsistent.
+
+3) [...] intertextual references (e.g., "[NMu 7]") removed. Better would have been to change to (...).
+
+
+(numerous other details recorded elsewhere)

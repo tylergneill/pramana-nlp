@@ -1,0 +1,33 @@
+File Source: GRETIL
+
+
+Edition: Bibliotheca Indica 98.
+
+
+Extent: incomplete, Śabdakhaṇḍa only, from Śabdaprāmāṇyavāda to Jātiśaktivāda (in ed, part IV: all of vol. I, up to vol. II, p. 599, line 2.)
+
+
+Input by: Sansknet
+
+
+Structural Notes:
+
+18 labeled sections (artificially numbered):
+	1 tattvacintāmaṇau śabdāprāmāṇyavādaḥ
+	2 tattvacintāmaṇau śabdākāṅkṣāvādapūrvapakṣaḥ
+	3 śabdākāṅkṣāvādasiddhāntaḥ
+	...
+	17 kāryānvitaśaktivādasiddhāntaḥ
+	18 jātiśaktivādaḥ
+
+Document candidates generated from prose paragraphs. Identifiers currently based on artificial number of labeled section, plus number of paragraph within section. Better would have been to use page numbers, which indeed found here.
+
+Document grouping based on labeled sections.
+
+
+Other Important Notes:
+
+1) "THE TEXT IS NOT PROOF-READ!"
+
+
+(numerous other details recorded elsewhere)

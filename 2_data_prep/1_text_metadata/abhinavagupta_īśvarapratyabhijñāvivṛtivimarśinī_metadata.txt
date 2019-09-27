@@ -1,0 +1,51 @@
+File Source: GRETIL
+
+
+Edition:
+
+Īśvara-pratyabhijñā-Vimarśinī of Abhinavagupta : doctrine of devine recognition, Sanskrit Text with the commentary Bhāskarī. vol.1-2 / edited by K.A. Subramania Iyer and K.C.Pandey. Delhi, etc. : Motilal Banarsidass , 1986 (repr.) (First Edition: The Princess of Wales Saraswati Bahvana , 1938(text no. 70) and 1950(text no. 83).
+
+NOTE: Variants of the Kashmir Sanskrit Series edition and the commentary Bhāskarī are not included!
+
+
+Extent: Adhikāras 1-4
+
+
+Input by: Masahiro Takano
+
+
+Structural Notes:
+
+STRUCTURE OF REFERENCES:
+Ipk_n,n.n = Upaladeva's Īśvarapratyabhijñākārikā_adhikāra,āhnika.verse
+(no āhnika-numbering in adhikāra 4!)
+Ipv_ = Īśvarapratyabhijñāvṛtti
+
+Overview:
+	1,1.1–4
+	1,2.1–11
+	1,3.1–7
+	1,4.1–8
+	1,5.1–21
+	1,6.1–10
+	1,7.1–14
+	1,8.1–11
+	2,1.1–8
+	2,2.1–7
+	2,3.1–17
+	2,4.1–21
+	3,1.1–11
+	3,2.1–20
+	4.1–18
+
+Document candidates generated from sections numbered after base text. Numbering required occasional correction. (192 found initially, corrected downward to 188; cp. "āditaḥ" numbers ending at 190; see related spreadsheet. ) Introductory (avataraṇa) material associated with following.
+
+Document grouping labels generated from adhikāra,āhnika boundaries.
+		
+
+Other Important Notes:
+
+(none)
+
+
+(numerous other details recorded elsewhere)

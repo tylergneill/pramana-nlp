@@ -36,9 +36,9 @@ print "done"
 print "preparing lexicon...",
 
 try:
-	corpus_tokens = open('corpus_docs.txt','r').read().replace('\n',' ').replace('=',' ').split(' ')
+	corpus_tokens = open('corpus_content_only.txt','r').read().replace('\n',' ').replace('=',' ').split(' ')
 except:
-	print "didn't find corpus_docs.txt, exiting..."
+	print "didn't find corpus_content_only.txt, exiting..."
 	exit(0)
 
 num_tokens = len(corpus_tokens)

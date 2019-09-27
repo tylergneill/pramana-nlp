@@ -1,0 +1,33 @@
+File Source: private collection of Eli Franco
+
+
+Edition: not yet determined
+
+
+Extent: Tattvabodhavidhāyinī 69-133: Īśvarasvarūpavāda ONLY
+
+
+Input by: not yet determined
+
+
+Structural Notes: Document candidates generated from paragraphs and/or whatever indented.
+
+Document grouping based on 8 section headers found, numbered artificially.
+	1 īśvarasvarūpavāda
+	2 pūrvapakṣaḥ paraloke pratyavasthānam
+	3 uttarapakṣaḥ — paralokasya vyavasthāpanam
+	4 pūrvapakṣaḥ — jagataḥ īśvarakṛtatvasthāpanam
+	5 uttarapakṣaḥ — jagataḥ īśvarakṛtatvanirākaraṇam
+	6 prasaṅgavaśāt samavāyinirasanam
+	7 prasaṅgikaṃ sattāpadārthanirasanam
+	8 prāsaṅgikaṃ saṃyogasya nirasanam
+
+Document identifiers created from above artificial section number, plus number of paragraph within that section. Much more useful would have been to use page numbers, which indeed recorded; do this for next round.
+
+
+Other Important Notes:
+
+1) Meaning of {...}, (...) notation not entirely clear; material simply accepted. <...> removed.
+
+
+(numerous other details recorded elsewhere)

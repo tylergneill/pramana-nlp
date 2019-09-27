@@ -1,0 +1,31 @@
+File Source: private collection on Google Drive of unclear ownership, originally derives from Vienna
+
+
+Edition: Yogīndrānanda 1968.
+
+
+Extent: complete (insofar as based on single best manuscript, which itself breaks off shortly before end of text)
+
+
+Input by: not yet determined
+
+
+Structural Notes: 
+
+The work consists of 3 paricchedas (Pratyakṣa, Anumāna, Āgama), in turn divided into paragraphs and grouped under topical headers.
+
+Document candidates generated from paragraphs, with identifiers consisting of edition page,line of beginning of paragraph.
+
+Document grouping based on topical headers.
+
+
+Other Important Notes: 
+
+1) Footnote and table of content material removed.
+
+2) Numerous small typos and inconsistencies with identifiers fixed.
+
+3) (...) notation in edition (editor's indication of best guess despite textual problem) silently kept.
+
+
+(numerous other details recorded elsewhere)

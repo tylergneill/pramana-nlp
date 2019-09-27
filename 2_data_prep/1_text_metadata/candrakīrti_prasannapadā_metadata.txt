@@ -1,0 +1,30 @@
+File Source: GRETIL
+
+
+Edition: 
+
+Madhyamakaśāstra of Nāgārjuna, with the Commentary: Prasannapadā by Candrakīrti. Ed. P.L. Vaidya. Darbhaga 1960 (Buddhist Sanskrit Texts, 10).
+
+
+Extent: complete
+
+
+Input by: Sanskrit Buddhist Input Project
+
+
+Structural Notes:
+
+Consists of 27 prakaraṇas commenting on respective chapters of Nāgārjuna's Mūlamadhyamakakārikā.
+
+Documents generated from both prose commentarial paragraphs and quoted (and indented) verse material.
+
+Document grouping based on numbered prakaraṇas.
+
+
+Other Important Notes:
+
+1) (...) and [...] material silently accepted as suggestions; function not entirely clear; spacing unpredictable.
+
+
+
+(numerous other details recorded elsewhere)
