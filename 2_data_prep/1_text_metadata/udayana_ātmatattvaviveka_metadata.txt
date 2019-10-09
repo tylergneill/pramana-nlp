@@ -1,0 +1,28 @@
+File Source: private collection of unclear ownership on Google Drive, original may derive from file 
+converted to Windows CSX in 1999 by Birgit Kellner in Vienna
+
+
+Edition: not yet determined (possibly Bibliotheca Indica 170, reprint of 1907-1939 Calcutta edition, Vindhyeśvaraprasāda Dvivedin and Lakṣmaṇa Shastri Dravida)
+
+
+Extent: complete
+
+
+Input by: not yet determined 
+
+
+Structural Notes: 
+
+This text is an independent treatise, dividable into four sections (see below).
+
+Document candidates were collected from paragraphs already distinguished and well-marked in the source file. Identifiers were constructed from page and line numbers. Where applicable (namely in the "kṣaṇabhaṅgavādaḥ" section, see below), "B" numbers were preferred over "C" numbers (the distinction between these is not yet understood), the latter being however still preserved as a removable note.
+
+For document grouping were used the four thematic sections (most consistently labeled by respective trailers): kṣaṇabhaṅgavādaḥ, bāhyārthabhaṅgavāda, guṇaguṇibhedabhaṅgavāda, and anupalambha.
+
+
+Other Important Notes: 
+
+1) Some difficulties were experienced with interpreting and incorporating editorial markup. Material in square brackets was all silently accepted (including added avagrahas and suggested corrections and additions). Material in parentheses seemed to sometimes be pre-correction material, e.g., "prasa(kto)ṅgo", and thus was deleted, but then sometimes it seemed to represent added material, e.g., "(aprāmāṇiko vyavahāro mā prasāṅkṣīd iti manyamānair )", or perhaps just notes from editor, e.g., "deha(-dehavyāpārasaṃpādana)-dvāraiva", in which case it was kept for now. This should be reconsidered in a second round.
+
+
+(numerous other details recorded elsewhere)

@@ -1,0 +1,29 @@
+File Source: GRETIL
+
+
+Edition: H. Buescher 2007, Vienna
+
+
+Extent: complete
+
+
+Input by: Takamichi Fukita and Klaus Wille
+
+
+Structural Notes: 
+
+This text consists of Sthiramati's Bhāṣya on Vasubandhu's Triṃśikā, which he quotes in full and which is therefore considered here as an integral part of Sthiramati's own text.
+
+Document candidates were generated from paragraphs, as indicated by newlines in the source file. Identifiers were based on page numbers, which were provided, plus the paragraph count since the last change in page number.
+
+Document grouping was performed according to kārikā-and-bhāṣya sections. This could usually be distinguished by the presence of introductory (avataraṇa) bhāṣya material preceding quoted kārikā material. These boundaries often coincided with whole kārikās, but in numerous cases, smaller parts of different kārikās end up grouped together, e.g., 21c_22. The labels for this grouping were then based on the simple kārikā numbering.
+
+In a second round, both of these ways of dividing the text might be reconsidered through more detailed philological consideration.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

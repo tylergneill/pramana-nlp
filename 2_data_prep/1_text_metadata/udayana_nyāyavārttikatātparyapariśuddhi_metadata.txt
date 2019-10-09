@@ -1,0 +1,25 @@
+File Source: GRETIL
+
+
+Edition: not yet determined, but partial nature suggests A. Thakur 1967, Darbhanga
+
+
+Extent: very partial, only adhyāya 1 out of 5
+
+
+Input by: SANSK-NET
+
+
+Structural Notes: 
+
+This subcommentary largely follows the structure of the underlying Nyāyaśāstra, all the way down to sūtras, which are quote by pratīkas if at all.
+
+Document candidates were generated from paragraph markings found in the source file. These seem mostly coherent but also inappropriately divide some verse half-lines from each other. This should be revised in a second round. Identifiers were generated automatically from adhyāya.āhnika.sūtra numbering — which was used for document grouping — plus a count of paragraphs since the last such change.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

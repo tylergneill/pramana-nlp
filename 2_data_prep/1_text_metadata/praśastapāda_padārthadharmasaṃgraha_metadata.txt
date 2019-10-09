@@ -1,0 +1,15 @@
+File Source: SARIT GitHub page
+
+
+Edition: V. P. Dvivedin 1895, Benares, Sri Garbi Dass Oriental Series 13; Delhi reprint as Vizianagram Sanskrit Series 6
+
+
+Extent: complete
+
+
+Input by: Muneo Tokunaga and Yasutaka Muroya
+
+
+Further Notes on Structure Etc.: 
+
+See separate note on xml transforms.

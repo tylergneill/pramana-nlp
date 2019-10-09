@@ -1,0 +1,25 @@
+File Source: GRETIL
+
+
+Edition: Bombay 1887, Colebrooke and Wilson (kārikās arranged according to ed. of T.G. Mainkar, Pune 1972)
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+Document candidates of kārikā-and-bhāṣya were generated easily from sections marked wtih horizontal linesin source file. Identifiers were taken from simple verse numbers (1–72, plus "0" for maṅgala).
+
+No document grouping was carried out.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

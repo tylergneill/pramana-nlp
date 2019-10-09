@@ -1,0 +1,15 @@
+File Source: SARIT GitHub page
+
+
+Edition: R. Sāṅkṛtyāyana 1953, Patna
+
+
+Extent: complete
+
+
+Input by: SWIFT Information Technologies, Mumbai; Patrick Mc Allister
+
+
+Further Notes on Structure Etc.: 
+
+See separate note on xml transforms.

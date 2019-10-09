@@ -1,0 +1,30 @@
+File Source: GRETIL
+
+
+Edition: not yet determined, apparently NOT K.T. Pandurangi 2002-2006, Bangalore
+
+
+Extent: mostly complete; missing "Nyāyasudhā on Madhva's Anuvyākhyāna 1,1.27-98 (including Brahmasūtra 1,1.2) [= vol. 2, pp. 269-800, and vol. 3, pp. 1-38 of Pandurangi's edition]"; but contrary to indication, Adhyāya 4, Pāda 2 does NOT appear to be missing.
+
+
+Input by: SANSK-NET
+
+
+Structural Notes: 
+
+This text of Jayatīrtha's Nyāyasudhā consists of a prose commentary on Madhva's Anuvyākhyāna, itself a verse commentary on Bādarāyaṇa's Brahmasūtra, both of which are structured firstly by adhyāyas and pādas and secondly. Bādarāyaṇa's sūtras and Madhva's verses thereon do not correspond one-to-one, and likewise, Jayatīrtha's prose commentary groups Brahmasūtra and Anuvyākhyāna material together into adhikaraṇas as deemed necessary.
+
+The GRETIL version of the text incorporates Bādarāyaṇa's Brahmasūtras and Madhva's Anuvyākhyāna
+into Jayatīrtha's Nyāyasudhā, but it is clear that the latter did not quote in full but instead refers to those texts by means of pratīkas. Therefore, it should be considered for a second round whether it might not be better to eliminate that material from this text.
+
+Document candidates were generated from paragraphs as found marked in the source file. For document identifiers, the decision was made to use Anuvyākhyāna numbering as a basis — also for document grouping — plus an automatic count of paragraphs since the last change in that numbering. That is, neither the provided adhikaraṇa numbering nor page numbers added from the Pandurangi edition (nor a small number of thematic "subject headings" found mostly at the beginning of the file, up to MAnuv_1.1.161) were used for identifiers here. The result is not ideal for human-readability, so this should be revised in a second round.
+
+
+Other Important Notes: 
+
+1) It was not clear whether lines beginning with "iti" or "atha" and signalling textual structure belonged to Jayatīrtha's own text or whether these were added by an editor. An attempt was made to clean the encoding of these, but probably this needs to be revised once the source edition is identified. Similarly, the use of "oṃ" in the sense of quotation mark for quotes of Bādarāyaṇa's Brahmasūtra should be checked for authenticity; probably this represents another editorial embellishment.
+
+2) Material in parentheses interpreted as pre-correction material left in to be automatically removed in pre-processing.
+
+
+(numerous other details recorded elsewhere)

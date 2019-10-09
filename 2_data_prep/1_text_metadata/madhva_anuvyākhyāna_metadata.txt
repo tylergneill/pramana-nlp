@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: not yet determined
+
+
+Extent: complete
+
+
+Input by: SANSK-NET
+
+
+Structural Notes: 
+
+This text of Madhva's Anuvyākhyāna consists of a verse commentary on a prose base-text, Bādarāyaṇa's Brahmasūtra, which is structured as four adhyāyas with four pādas each, each of which contains differing numbers of sūtras. Madhva's verses generally correspond closely to the sūtras, with two verse-halves per sūtra, but there are numerous exceptions, e.g., over 200 commentarial verses with three half-lines.
+
+Document candidates were generated for each verse, with identifiers from the straightforward adhyāya.pāda.sūtra numbering.
+
+Document grouping was performed according to pādas.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

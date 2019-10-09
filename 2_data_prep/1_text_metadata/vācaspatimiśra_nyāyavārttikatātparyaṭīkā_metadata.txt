@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: not yet determined; neither Vizianagaram 1898 (G.S. Tailanga) nor A. Thakur 1996 (Delhi); possibly L.S. Dravida (KSS 24) 1925-26
+
+
+Extent: complete
+
+
+Input by: SANSK-NET
+
+
+Structural Notes: 
+
+This commentary on the Uddyotakara's Nyāyavārttika follows the division of the underlying Nyāyaśāstra into 5 adhyāyas, etc. 
+
+Document candidates were generated from paragraphs found marked in the source. However, these breaks can plainly be seen to be inconsistent, with some occuring mid-sentence, and so this procedure should be revisited in a second round, once the edition used can be identified. Identifiers were created through a combination of the adhyāya.āhnika.sūtra structure — which was used for document grouping — and a count of the number of "paragraphs" since the last such change.
+
+
+Other Important Notes: 
+
+1) Significant difficulty was experienced in interpreting editorial use of parentheses. This material was therefore simply deleted, to avoid introducing inappropriate material into the modeling process. This should obviously be revised in a second round, provided that a better understanding can be achieved and implemented within a reasonable amount of time.
+
+2) Overall, data quality was found to be worrying low, as warned in the header of the source file. For example: sūtras were only very inconsistently marked, which required significant work to correct for the sake of identifiers; page numbers were also inconsistent (although they were not used here); a number of textual typos were noticed but not corrected; and sūtra quotations were marked inconsistently and frequently amounted to ungrammatical abbreviations of words, e.g., "na smara-t" for "na smaraṇakālāniyamāt" 3.2.30. In a second round, it would probably be best to make the switch to the SARIT file instead.
+
+
+(numerous other details recorded elsewhere)

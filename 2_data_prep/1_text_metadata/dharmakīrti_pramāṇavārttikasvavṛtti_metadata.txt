@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: Edition: R. Gnoli 1960, Rome
+
+
+Extent: complete (verse and prose of svārthānumāna pariccheda)
+
+
+Input by: M. Ono
+
+
+Structural Notes: 
+
+This text consists of a running mix of verse and autocommentarial prose, as also in the case of Dharmakīrti's Pramāṇaviniścaya (q.v.). However, in this case, no paragraph marks were marked in the  digitized file, making it even harder to identify thematically coherent chunks of text.
+
+Thus, each line of the edition, marked in the digitization with page and line number, was made into a very small, highly artificial document candidate. In turn, document groups were identified mechanically as ending with a verse followed by double daṇḍa. The group ending in this way would then take as its label the numbering of the final verse. This arrangement should definitely be reconsidered in a second round; for example, the thematic coherent of documents would likely be improved by more properly associating introductory (avataraṇa) or concluding material (e.g. "iti saṃgrahaślokaḥ") with its respective verse.
+
+
+Other Important Notes: 
+
+1) Ono's partial sandhi analysis was automatically undone prior to further modeling preprocessing.
+
+2) See Ono's "Explanatory Remarks" for further remarks on the original encoding.
+
+
+(a few other details recorded elsewhere)

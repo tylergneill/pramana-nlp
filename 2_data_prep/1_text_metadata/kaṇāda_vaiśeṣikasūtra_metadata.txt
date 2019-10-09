@@ -1,0 +1,23 @@
+File Source: GRETIL
+
+
+Edition: not yet determined (ostensibly: Masanobu Nozawa, The Vaiśeṣikasūtra with Candrānandaʼs Commentary (1). Numazu College of Technology Research Annual 27 (1993), pp. 97-116)
+
+
+Extent: complete
+
+
+Input by: Nozawa Masanobu
+
+
+Structural Notes: 
+
+Small document candidates were generated easily for each sūtra. Document grouping was performed according to standard numbered sections, e.g., "1,1", "1,2", "2,1", ... "7,1", "7,2", "8", "9", "10".
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

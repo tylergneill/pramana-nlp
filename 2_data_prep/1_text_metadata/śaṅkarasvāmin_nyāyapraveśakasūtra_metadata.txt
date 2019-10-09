@@ -1,0 +1,27 @@
+File Source: private collection of Eli Franco, original likely derives from Vienna
+
+
+Edition: A.B. Dhruva 1930, GOS 38, Nyāyapraveśa with three commentaries
+
+
+Extent: complete
+
+
+Input by: not yet determined 
+
+
+Structural Notes: 
+
+The text consists of Śaṅkarasvāmin's (elsewhere, such as with Jambūvijaya-ji: Dignāga's) short Nyāyapraveśa, extracted from the commentary. The file includes a detailed structural analysis.
+
+Document candidates were generated from the individual sections of the structural analysis, using the provided numbers as identifiers. (Cp. the alternative method adopted for Candrasūri's (elsewhere: "Haribhadrasūri's") Nyāyapraveśavṛtti.)
+
+For document grouping, the seven 7 top level distinctions of the same structural analysis were used.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

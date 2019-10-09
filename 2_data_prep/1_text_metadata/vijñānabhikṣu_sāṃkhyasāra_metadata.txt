@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: not yet determined
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+This text is structured as two parts (bhāga). The first consists of three paricchedas and is mostly prose, with a few unnumbered verses. The second consists of seven paricchedas, all in verse.
+
+Document candidates were to be created according to prose paragraphs where available and according to verses otherwise. A mistake was made in this: the material of the second and third paricchedas was not properly encoded as document candidates, with the apparent result that this material was simply excluded from modeling. This should be fixed in a future round.
+
+Document grouping was carried out according to the ten paricchedas.
+		
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

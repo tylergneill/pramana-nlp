@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: Allahabad 1923-1925, B.D. Basu (Sacred Books of the Hindus 27)
+
+
+Extent: complete
+
+
+Input by: SANSK-NET
+
+
+Structural Notes: 
+
+The Mīmāṃsāsūtra consists of twelve adhyāyas, nine of which have four pādas, three of which have eight.
+
+Document candidates were generated from individual sūtras, taking for their identifiers the straigthfoward adhyāya.pāda.sūtra numbering.
+
+Document grouping was performed according to pādas.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

@@ -1,0 +1,27 @@
+File Source: private collection of Eli Franco, original likely derives from Vienna
+
+
+Edition: A.B. Dhruva 1930, GOS 38, Nyāyapraveśa with three commentaries
+
+
+Extent: complete
+
+
+Input by: not yet determined 
+
+
+Structural Notes: 
+
+The text consists of Candrasūri's (here, erroneously! Haribhadrasūri's) prose commentary on Śaṅkarasvāmin's (elsewhere, such as with Jambūvijaya-ji: Dignāga's) short Nyāyapraveśa. (This disagreement on authorship should be addressed in a future round.) The latter base text, not numbered in this edition, is included here as an integral part of the commentary text.
+
+Document candidates were created somewhat artificially, in most cases corresponding to a double-daṇḍa (//). Identifiers were created for each of these with the page and line numbers provided.
+
+For document grouping, the numbering (1–27) of the base text in Muni Jambūvijaya-ji's 2009 edition was manually placed here. This labor-intensive process led to a few new document candidates as seemed necessary. An alternative, perhaps more consistent approach — realized only after reaching a better understanding of the relationship between these two texts — would have been to make use of the detailed structural analysis found in the Śaṅkarasvāmin Nyāyapraveśakasūtra file (q.v.). This could be done in a second round.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

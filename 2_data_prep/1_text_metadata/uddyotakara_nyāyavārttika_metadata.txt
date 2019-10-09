@@ -1,0 +1,24 @@
+File Source: private collection of Karin Preisendanz
+
+
+Edition: A. Thakur 1997, Delhi
+
+
+Extent: complete
+
+
+Input by: Oliver Hellwig
+
+
+Structural Notes: 
+
+For this commentary on the Nyāyasūtras, which clearly refers to them by pratīkas, sūtra material additionally inserted by the editor was encoded in parentheses so that it would be automatically removed in modeling preprocessing.
+
+Document candidates could not be made to correspond to Thakur's paragraphs, as would be ideal, since these were not encoded in this file. Instead, all sentences (as determined by daṇḍa) within a sūtra-and-commentary section are on the same level. Thus, document candidates correspond to the entire sūtra-and-commentary section, with straightforward adhyāya.āhnika.sūtra identifiers.
+
+Document grouping was according to prakaraṇa headers.
+
+
+Other Important Notes: 
+
+(none)

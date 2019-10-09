@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: not yet determined
+
+
+Extent: incomplete, missing adhyāya 2 out of 5
+
+
+Input by: SANSK-NET
+
+
+Structural Notes: 
+
+This text, which loosely follows the structure of Nyāyaśāstra, is structured into 5 adhyāyas of 2 āhnikas each. However, reference to individual sūtras is not found. Instead a limited number of sections is found numbered in the source file; the numbering does not restart for the second āhnika within an adhyāya. In addition, an introduction (bhūmika) is treated as its own section, with continuous prose, here distinguished into a number of paragraphs with the help of double daṇḍa.
+
+Document candidates were generated from the above-described sections. Identifiers were created as a combination of the adhyāya.āhnika numbering, plus the number of the section within the adhyāya as provided (where applicable, otherwise automatically generated). This may, however, lead to confusion with the adhyāya.āhnika.sūtra numbering found in other Nyāya texts, and so it should probably be revised in a second round.
+
+Document grouping was carried out at the āhnika level.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

@@ -1,0 +1,27 @@
+File Source: private collection of Eli Franco, original derives from Helmut Krasser in Vienna
+
+
+Edition: Dvārikādāsa Śāstrī 1978, Varanasi
+
+
+Extent: extremely partial, Sambandhākṣepaparihāra ONLY (467,20–469,31), i.e., just 2 out of 670 pages total
+
+
+Input by: Helmut Krasser
+
+
+Structural Notes: 
+
+The text consists of prose commentary that quotes the base-text (Kumārila Bhaṭṭa's Ślokavārttika) in full, which was included as an integral part of the commentary here.
+
+Document candidates were generated from sections begun with tab followed by provided page and line numbers, the latter of which then were used for identifiers.
+
+No document grouping was performed.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

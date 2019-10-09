@@ -1,0 +1,25 @@
+File Source: GRETIL
+
+
+Edition: Calcutta 1989, H.P. Shastri ("Six Buddhist Nyaya tracts")
+
+
+Extent: complete
+
+
+Input by: Members of the Sanskrit Buddhist Input Project.
+
+
+Structural Notes: 
+
+Document candidates were generated from paragraph markings found in source file, which were in turn numbered automatically; in a second round, it would be beneficial to re-do identifiers with page and line numbers, not yet provided in the source file. No document grouping was performed.
+
+
+Other Important Notes: 
+
+1) Some difficulty was experienced in the interpretation of square brackets and parentheses. Cases were judged individually.
+
+2) Some pervasive typos seem like cause for concern. For example, ddh seems to be been consistently misread as dv, e.g., "niṣidvaṃ" for niṣiddhaṃ. This was mostly easy to correct, but files from the Sanskrit Buddhist Input Project should be scrutinized for quality in the future.
+
+
+(a few other details recorded elsewhere)

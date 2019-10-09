@@ -1,0 +1,25 @@
+File Source: received from Hiroko Matsuoka in Leipzig, original source unknown
+
+
+Edition: Steinkellner 2007, Vienna
+
+
+Extent: first two paricchedas (pratyakṣa, svārthānumāna) out of three total (i.e., no parārthānumāna
+edited by P. Hugon and T. Tomabechi in 2011)
+
+
+Input by: not yet determined
+
+
+Structural Notes: 
+
+This text consists of the author's (Dharmakīrti's) own mix of prose and verse, the latter standing in various relations to the former (e.g. antaraśloka).
+
+Document candidates were most commonly identified through prose followed by double daṇḍas. This process was somewhat arbitrary. Identifiers were not created with the help of page numbers (plus, for example, the number of the paragraph on that page), which might have been the more familiar option. Instead, they were generated as a combination of the document grouping label (see below) plus a count of document candidates since the last such label.
+
+Document grouping was based around chunks of verse and prose cusorily determined to be most closely connected. This process was perhaps excessively arbitrary and should be reviewed for a second round. The labels created in this process were in turn used to automatically generate identifiers for document candidates.
+
+
+Other Important Notes: 
+
+(none)

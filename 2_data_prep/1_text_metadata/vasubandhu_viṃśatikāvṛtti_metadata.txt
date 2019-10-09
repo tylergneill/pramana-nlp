@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: S. Lévi 1925, Paris; (correction) Hakuju Ui 1953, Tokyo
+
+
+Extent: complete
+
+
+Input by: Takamichi Fukita
+
+
+Structural Notes: 
+
+This text consists of Vasubandhu's Viṃśatikā as embedded in his prose autocommentary.
+
+Document candidates were generated from kārikā-and-vṛtti sections. This could usually be distinguished by the presence of introductory (avataraṇa) vṛtti material preceding quoted kārikā material. These boundaries were made to coincide with whole kārikās. Identifiers were then based on the simple kārikā numbering (1–22). No document grouping was performed.
+
+In a second round, an attempt likely ought to be made to treat the Viṃśatikā and Triṃśatikā in the same way rather than in different ways, as was done here.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

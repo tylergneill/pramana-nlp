@@ -1,0 +1,28 @@
+File Source: GRETIL
+
+
+Edition: Swami Yogindrananda 1973, Varanasi
+
+
+Extent: complete
+
+
+Input by: Diwakar Acharya (assistance from Raju Rimal)
+
+
+Structural Notes: 
+
+This text is an independent treatise with a complex structure. A first siddhiprakaraṇam lays out proofs for basic but controversial entities (god, wholes, atoms). Then, another seven sections detail Vaiśeṣika categories of dravya, guṇa, karma, sāmānya, viśeṣa, samavāya, and abhāva;
+the discussions of dravya, guṇa, and sāmānya contain especially complex enumerations of subtypes, reflected here in document identifiers (see below). Lastly, two final sections refute the existence of other categories (padārthāntara) and describe liberation, respectively.
+
+Document candidates were generated from paragraph markings as found in the source file. In some cases, these paragraphs already had numerical labels for within their section. In other cases, such low-level enumeration had be created artificially. In both cases, however, in order to ensure that identifiers were also globally distinct, this lower-level level enumeration had to be added to higher-level enumeration, which was created artificially according to document grouping labels, q.v.
+
+Document grouping was fixed according to the text's own numbered discussions of categories and in some cases (namely, sections 1–3) also subcategories (and even occasionally sub-subcategories). A second round may wish to revisit this numbering system to see whether it can be improved.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

@@ -1,0 +1,31 @@
+File Source: GRETIL
+
+
+Edition: Y. Miyasaka 1971/72, Narita
+
+
+Extent: 3 out of 4 paricchedas (see note below)
+
+
+Input by: Motoi Ono
+
+
+Structural Notes: 
+
+This file contains the verse-only paricchedas, for which Dharmakīrti did not provide prose commentary. For the svārthānumāna pariccheda verses and their accompanying autocommentary, see the separate Svavṛtti file.
+
+The pariccheda numbering here (despite Miyasaka, as overridden by Ono) is: 2) pramāṇasiddhi, 3) pratyakṣa, 4) parārthānumāna. The verse numbering for the pramāṇasiddhi pariccheda reflects the exclusion of the disputed pair of introductory verses. Thus, in Ono's file: "02001 pramāṇam avisaṃvādi jñānam arthakriyā-sthitiḥ".
+
+Document candidates were generated from labeled half-lines. For this reason, automatic resizing of documents by way of document grouping labels was very important in this case.
+
+Document grouping was carried out by laboriously digitizing the headers of Miyasaka's analytic table of contents and manually placing these in the corresponding place in the cleaned file. Only lowest-level headers (72) were used; higher-level headers were kept as removable notes.
+
+
+Other Important Notes: 
+
+1) Ono's partial sandhi analysis was automatically undone prior to further modeling preprocessing.
+
+2) See Ono's "Explanatory Remarks" for further remarks on the original encoding.
+
+
+(a few other details recorded elsewhere)

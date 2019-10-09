@@ -1,0 +1,27 @@
+File Source: private collection of Eli Franco, original likely derives from Vienna
+
+
+Edition: M. Lādhājī 1926, Pune
+
+
+Extent: very partial, pp. 406-483 ONLY (out of over 1000), starting in the middle of aphorism 2.26 at a section concerned with (according to first of several topical notes provided by editor in the margins) "īśvarasarvajñatvakhaṇḍanam asahamānasya naiyāyikasya matam uddhāṭya tatkhaṇḍanam" and extending to the end of the second paricchedaḥ
+
+
+Input by: not yet determined 
+
+
+Structural Notes: 
+
+The text here includes Vādidevasūri's aphoristic base-text (Pramāṇanayatattvālokālaṅkāra = PNTAA) and prose autocommentary (Syādvādaratnākara = SVRĀ).
+
+Document candidates were generated from paragraphs. Identifiers were based on provided page numbers, plus the number of the paragraph starting on the given page.
+
+Document grouping is so far only very rudimentary; only the sections established by the numbered change from PNTAA 2.26 to 2.27 were used. A better idea might have been to use the numerous topical notes in the margins (pp. 433, 439, 444, 447, 448, 452, 457, 461, 466, 468, 470, 477, 479). Alternatively, one could do both. This could easily be done in a second round.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

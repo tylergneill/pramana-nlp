@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: not yet determined
+
+
+Extent: complete
+
+
+Input by: SANSK-NET
+
+
+Structural Notes: 
+
+This independent treatise by Udayana consists of five stavakas which unevenly contain seventy-three verses interspersed among prose.
+
+Document candidates were generated from paragraphs found distinguished already in the source file, namely by means of mysterious numbering, e.g. "[ku.3.302]". This numbering, which seems to indicate coherent chunks of text, and whose exact nature should be clarified in a second round, was for now kept and simplified to serve as straightforward logical document identifiers.
+
+Document grouping was carried out only at the stavaka-level.
+
+
+Other Important Notes: 
+
+1) Some difficulty was experienced in interpreting editorial markup. The use of parentheses was here interpreted as mostly variant readings, and so this material was simply removed. By contrast, material in square brackets was interpreted as post-correction and so kept. In a second round, this should perhaps be revisited.
+
+
+(numerous other details recorded elsewhere)

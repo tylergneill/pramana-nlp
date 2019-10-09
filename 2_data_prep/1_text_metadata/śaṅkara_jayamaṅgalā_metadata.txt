@@ -1,0 +1,23 @@
+File Source: GRETIL
+
+
+Edition: Calcutta 1926, H. Sarma (Calcutta Oriental Series 19)
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+Document candidates were generated from kārikā-and-bhāṣya sections found marked in source file, and the simple kārikā numbering was in turn used for identifiers. No document grouping was performed.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

@@ -1,7 +1,7 @@
 File Source: private collection of Eli Franco, original likely derives from Vienna
 
 
-Edition: Jhā
+Edition: Dvārikādāsa Śāstrī, Vārāṇasī 1978
 
 
 Extent: nearly complete, except Arthāpattipariccheda ("5.8")
@@ -15,8 +15,8 @@ Structural Notes:
 The text is found here to consist in 24 sections, counting separately all the subdivisions of the Autpattikasūtra except the second half of the Vṛttikāragrantha.
 
 Overview:
-
-1.	pratijñāsūtra (PJS)					(Jhā p. 1)
+										(corresponding page in Jhā translation)
+1.	pratijñāsūtra (PJS)					(p. 1)
 2. 	codanāsūtra (CDS) 					(p. 21)
 3.	nimittasūtra (NMS)					(p. 67)
 4.	pratyakṣasūtra (PAS)				(p. 68)
@@ -43,11 +43,11 @@ Overview:
 7.	vākyādhikaraṇa (VAA)				(p. 486)
 8.	vedapauruṣeyatādhikaraṇa (VPA)		(p. 553)
 
-The above numbering of sections and subsections is artificial. Some errors were made in this process: what should have actually been 5.4, 5.5, 5.6, and 5.7 all ended up one number too high (5.5, 5.6, 5.7., 5.8, respectively). These should be fixed for the next round.
+The above numbering of sections and subsections is artificial. An error was made in applying this enumeration to the actual, cleaned text: what here appear as 5.4, 5.5, 5.6, and 5.7 ended up one number too high in the cleaned file ("5.5", "5.6", "5.7", "5.8", respectively). This numbering should be fixed for the next round. (By contrast, the real section 5.8, i.e., the arthāpattipariccheda, is entirely missing from the source file.)
 
-Document candidates were generated for each half-line, with identifiers based on the numbering above, the verse number within the section, plus "ab", "cd", or "ef" based on the pāda.
+Document candidates were generated for each half-line, with identifiers based on the numbering explained above, plus the verse number within the section, plus "ab", "cd", or "ef" based on the pāda.
 
-Document grouping was based on labeled sections and subsections. Since document candidates were very small here, recombining them into larger documents based on these grouping boundaries was very important.
+Document grouping was based on labeled sections and subsections. Since document candidates were very small in this case, the recombination into larger documents based on these grouping boundaries was very important.
 
 
 Other Important Notes: 

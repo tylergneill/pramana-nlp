@@ -1,0 +1,25 @@
+File Source: GRETIL
+
+
+Edition: P. Balcerowicz 2008 (2nd rev. ed.), Delhi
+
+
+Extent: complete
+
+
+Input by: Piotr Balcerowicz
+
+
+Structural Notes: 
+
+This text actually consists of Siddharṣi Gaṇi' Vivṛti which quotes Siddhasena Mahāmati's short Nyāyāvatāra in full. A second round should more clearly distinguish the authorship in this way.
+
+Document candidates were found already prepared in the source file, along with useful identifiers, as were groups thereof. This was accepted as-is.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

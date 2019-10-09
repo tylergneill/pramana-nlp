@@ -1,0 +1,27 @@
+File Source: private collection of Karin Preisendanz
+
+
+Edition: R. S. Shivaganesh Murthy (General Editor) and Anandateeratha V. Nagasampige 1992, Mysore
+
+
+Extent: complete
+
+
+Input by: likely Oliver Frey in Vienna
+
+
+Structural Notes: 
+
+As a commentary on the Nyāyasūtras, this text consists of commentary that quotes the sūtra base-text in full, which is included here as an integral part of the Vivaraṇa. This quoted material was for the most part encoded with red font color; exceptions were found and fixed by hand, e.g. "1-1-22".
+
+Document candidates were generated from sūtra-and-commentary sections, using the straightforward adhyāya.āhnika.sūtra numbering for identifiers. These were determined to begin when a preceding section was marked as finished with numbers and double daṇḍas (in black font color), e.g. "ǀǀ 12 ǀǀ". However, many such sections were found to be not already marked and so had to be marked by hand first, e.g., 1.1.13.
+
+Document grouping was based on editorial headers found encoded in square brackets, among which those whose names ended in "-prakaraṇa" were decidedly in the minority, at only 29 out of 374 total; cp. other editions of commentaries on the Nyāyasūtras with "prakaraṇa" headers, e.g. 82 out of 86 in Vāgīśvarabhaṭṭa's Nyāyatātparyadīpikā.
+
+
+Other Important Notes: 
+
+1) The author, traditionally known as Gambhīravaṃśaja, is here instead referred to by the name Pravāduka, according to the research of Oliver Frey in Vienna.
+
+
+(numerous other details recorded elsewhere)

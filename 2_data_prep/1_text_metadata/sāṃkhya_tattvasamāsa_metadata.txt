@@ -1,0 +1,25 @@
+File Source: GRETIL
+
+
+Edition: Varanasi 1969, V.P. Dvivedin (Chowkhamba Sanskrit Series 50, pp. 1-49)
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+Each of the four alternate versions of the text was made into one document candidates here, numbered in the sequence they were presented in the source file. The four are described as follows: [1] "extracted from Simanandadiksita's Samkhyatattvavivecana", [2] "according to Bhāvāgaṇeśa's Tattvayāthārthyadīpana comm.", [3] "according to the Sāṃkhyasūtravivaraṇa comm.", [4] "[extracted from a Sansknet file] of the Sāṃkhyasūtras".
+
+No document grouping was performed.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

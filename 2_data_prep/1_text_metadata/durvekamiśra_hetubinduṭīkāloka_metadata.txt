@@ -1,0 +1,27 @@
+File Source: GRETIL
+
+
+Edition: Baroda 1949 (GOS 113), S. Sanghavi and Muni Shri Jinavijayaji
+
+
+Extent: complete
+
+
+Input by: Helmut Krasser
+
+
+Structural Notes: 
+
+The edition of this text is printed as an appendix to the Arcaṭa base-text, in the same volume. Ostensibly for that reason, as if the two are to be read together — or because Durvekamiśra for his own part simply breaks up the prose Ṭīkā in different ways — there is no marking of logical parts of the Āloka text here (vs. physical parts, e.g., [1.14] = page 1, line 14 of Arcaṭa edition), whether corresponding with the Ṭīkā base-text (with "§") or otherwise.
+
+Thus, document candidates here are based on paragraphs, and their identifiers are created from the provided page numbers, plus the paragraph number on a given page.
+
+On the other hand, because logical parts of the text are not marked, no document grouping could be performed. On a second round, it might be considered more closely whether one can use the same ~100 groupings as in the Ṭīkā, but this may prove to be too labor-intensive or ambiguous to be feasible.
+
+
+Other Important Notes: 
+
+1) Some difficulty was experienced in interpreting editorial markup. Namely, the use of parentheses seems to indicate alternative readings from Arcaṭa's text, of varying degrees of necessity. An attempt was made to replace the relevant material with the respective suggestions in parentheses, but this was almost certainly not worth the effort.
+
+
+(numerous other details recorded elsewhere)

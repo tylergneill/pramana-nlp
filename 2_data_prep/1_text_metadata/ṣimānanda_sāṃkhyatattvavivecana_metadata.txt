@@ -1,0 +1,25 @@
+File Source: GRETIL
+
+
+Edition: Varanasi 1969, V.P. Dvivedin (Chowkhamba Sanskrit Series 50, pp. 1-49)
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+Document candidates were generated from paragraph markings as found in the source file. These were not always easy to identify unambiguously, nor did they consistently have material that could be used for identifiers. Also, certain sections, namely those for kārikā 1 and kārikās 23–25, were exceptionally large. No further structural could be easily detected from the reading the printed edition.
+
+Therefore, four document groups were created: {0} {1} {2–23} {23–25}. Within the first three of these document candidate paragraphs were labeled by hand, including, e.g., [7.1] and [7.2]. For the last group, document candidate identifiers were generated automatically, e.g., 23_25.1, 23_25.2, etc.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

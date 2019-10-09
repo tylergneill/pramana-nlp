@@ -1,0 +1,29 @@
+File Source: GRETIL
+
+
+Edition: M.T. Much 1991, Vienna
+
+
+Extent: complete
+
+
+Input by: M. Ono
+
+
+Structural Notes: 
+
+This text consists of an independent prose treatise. 
+
+For creating document candidates, the starting point was Ono's comprehensive marking of page and line numbers, as was the case with the treatment of Dharmakīrti's (mostly prose) Pramāṇavārttikasvavṛtti (q.v.) Accordingly, given the lack of paragraph markup, and in order to acheive some sort of thematic coherence for the final documents, an attempt was made to turn the editor's analytical outline of the text into a series of document grouping labels; cp. similar attempt with Ono's digitization of Miyasaka's edition of the Pramāṇavārttika.
+
+However, in this case, utilizing Much's analysis (edition part II, appendix 1) proved to be very difficult, due to its alternating between decimal and non-decimal numbering (with a handful of numbering typos, as well) and due to its having both parent and nested child nodes containing text, rather than having only child nodes do so (cp. similar problems with use of nested <div> elements in SARIT texts like that for the Pramāṇavārttikālaṅkāra). Thus, the document grouping labels, which for other texts can often represent containers (such as <div> elements), were here reduced to mere milestones, with little claim to comprehensiveness. In the end, the laboriously won result may be a bit more readable, and the documents more thematically cohesive than they otherwise would have been, but much doubt remains as to whether this was the best approach.
+
+
+Other Important Notes: 
+
+1) Ono's partial sandhi analysis was automatically undone prior to further modeling preprocessing.
+
+2) See Ono's "Explanatory Remarks" for further remarks on the original encoding.
+
+
+(a few other details recorded elsewhere)

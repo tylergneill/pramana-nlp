@@ -1,0 +1,15 @@
+File Source: SARIT GitHub page
+
+
+Edition: A. Thakur 1975, Patna
+
+
+Extent: complete
+
+
+Input by: Jeson Woo; Patrick Mc Allister
+
+
+Further Notes on Structure Etc.: 
+
+See separate note on xml transforms.

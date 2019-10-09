@@ -1,0 +1,36 @@
+File Source: GRETIL
+
+
+Edition: Trivandrum 1926, 1929, 1943 (Trivandrum Sanskrit Series, 90, 99, 150), K. Sāmbaśiva Śāstrī
+
+
+Extent: complete digitization of Trivandrum publication of pratijñāsūtra to sambandhākṣepavāda; later unpublished sections (sphoṭavāda to vedapauruṣeyatādhikaraṇa) are not included here
+
+
+Input by: Helmut Krasser, Wien
+
+
+Structural Notes: 
+
+This text consists of Sucaritamiśra's prose Kāśikā on Kumārilabhaṭṭa's verse Ślokavārttika; Sucaritamiśra refers to the Ślokavārttika with pratīkas, and so the full Ślokavārttika is not included as part of the text here. Both texts share the same conventional structure: eight top-level sections, with eighteen subsections for the fifth section (autpattikasūtra).
+
+The Trivandrum project was discontinued before the entire Kāśikā was published, and the digitized text reflects this incompleteness (see Extent above). However, this was misunderstood or, at the least, obscured during digitization when the subsection following "010 citrākṣepavāda" (within the autpattikasūtra section) was incorrectly labeled as the "018 ātmavāda". This seems to reflect either an eyeskip when reading the table of contents — on the basis of the visually similar subsection title "017 citrākṣepaparihāra" — or wishful thinking that the publication contained at least the full text of the autpattikasūtra section, or both. This was fixed here, with the subsection in question properly labeled as saṃbandhākṣepavāda.
+
+In addition, yet another mistake related to these conventional numbers was made here, namely, the complex nature of the autpattikasūtra section as having subsections was obscured by simply numbering all sections as if equally top-level. Thus, after "4" pratyakṣasūtra and the beginning of 
+"5" autpattikasūtra (with unfortunately no marking of the two vṛttikāragrantha sections, as found in the source file here), the next (sub)section, nirālambanavāda, recevied the number "6" (rather than, ideally, 5.3), the following śūnyavāda (sub)section became "7" (rather than, ideally, 5.4), and so on. This numbering of the affected subsections (from vṛttikāragrantha to saṃbandhākṣepavāda) should be fixed in a second round.
+
+Document candidates were generated from paragraph markings found in the source file. Identifiers were created as a combination of the top-level section number (see document grouping below as well as mistakes above), plus vārttika numbering found at the end of prose kāśikā sections, plus a count of the paragraph within this section. That is, page numbers, although provided here, were not used. This kind of purely logical identifier seemed ideal, but given that vārttika-and-kāśikā sections vary widely in length and that paragraph numbering is not the familiar reference convention, it might be worth considering the use of page numbers in a second round.
+
+Document grouping was carried out according to fourteen headers found marked in the source file. These groupings themselves are basically correct (save for the lack of mention of the vṛttikāragrantha subsections), but the respective labels, which served as the basis for creating  identifiers, need to be revised, as stated above.
+
+
+Other Important Notes: 
+
+1) Numbering of vārttika-and-kāśikā sections was found to be rather inconsistent and in need of extensive correction. Detailed notes elsewhere record all changes made.
+
+2) Difficulty was experienced in interpreting editorial mark-up, especially the use of parentheses for a variety of outcomes with unpredictable spacing. For example: "nābhāvaśa(ṅkā)" for, post-correction, "nābhāvaśaṅkā"; "tad etan (tam ekaṃ)" for "tam ekaṃ"; "īdṛśa(?me/e)kaḥ" for "īdṛśa ekaḥ"; and "siddhāntasthiti(?ḥ/r) sati" for "siddhāntasthitir asati".
+
+3) In-line footnote markers were most often to be replaced with space when removed, e.g., "upajananāt.[730]santi khalu". However, this could not be consistently done. Examples of markers with more unpredictable spacing: "pṛthakkṛ[14]tasya" (definitely no space needed); "sā cāptasyāvijñāte[482]na sambhavatīti" (i.e., possible case confusion); "tad[296]apagame śuklam" (i.e., possible compound confusion).
+
+
+(numerous other details recorded elsewhere)

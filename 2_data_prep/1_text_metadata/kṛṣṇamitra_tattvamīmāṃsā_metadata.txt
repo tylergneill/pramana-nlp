@@ -1,0 +1,23 @@
+File Source: GRETIL
+
+
+Edition: Varanasi 1969, V.P. Dvivedin (Chowkhamba Sanskrit Series 50, pp. 179-196)
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+Document candidates were generated from paragraph markings found in printed book (sometimes those in source file needed to be manually brought in line), which were in turn numbered automatically; in a second round, it would be beneficial to re-do identifiers with page and line numbers, not yet provided in the source file. No document grouping was performed.
+
+
+Other Important Notes: 
+
+1) Following the edition, I have attributed this text to Kṛṣṇamitra.
+
+
+(a few other details recorded elsewhere)

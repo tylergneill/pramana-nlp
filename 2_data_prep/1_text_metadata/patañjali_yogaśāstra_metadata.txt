@@ -1,0 +1,15 @@
+File Source: SARIT GitHub page
+
+
+Edition: K.S. Āgāśe 1904, Pune (Ānandāśrama 47)
+          
+
+Extent: complete
+
+
+Input by: Philipp Maas
+
+
+Further Notes on Structure Etc.: 
+
+See separate note on xml transforms.

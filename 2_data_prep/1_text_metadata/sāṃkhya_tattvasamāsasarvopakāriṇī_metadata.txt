@@ -1,0 +1,23 @@
+File Source: GRETIL
+
+
+Edition: Varanasi 1969, V.P. Dvivedin (Chowkhamba Sanskrit Series 50, pp. 93-104)
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+Document candidates were generated from kārikā-and-bhāṣya sections found marked in source file, and the simple kārikā numbering was in turn used for identifiers (including "0" for introductory verse). No document grouping was performed.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(a few other details recorded elsewhere)

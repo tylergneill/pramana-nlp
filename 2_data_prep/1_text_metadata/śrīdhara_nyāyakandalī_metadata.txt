@@ -1,0 +1,27 @@
+File Source: private collection of Eli Franco, source of original unclear, pieced together from seven separate files, e.g. NK_7_SVS.TXT
+
+
+Edition: J.S. Jetly and V.G. Parikh 1991, Baroda (Varodara) Oriental Institute, GOS 174
+
+
+Extent: complete
+
+
+Input by: not yet determined 
+
+
+Structural Notes: 
+
+This text consists of Śrīdhara's prose commentary on the also-prose Praśastapādabhāṣya, which has here been included as part of Śrīdhara's text. This should be changed in a second round, as Śrīdhara himself in fact uses pratīkas, not full text, to refer to Praśastapāda's text.
+
+Document candidates have been obtained from indented paragraphs. Identifiers were generated automatically from document grouping labels (see below).
+
+Document grouping was based on 270 numbered sections of Nyāyakandalī (often, but not always, following a matching numbered sections of the Praśastapādabhāṣya). Labels with these simple numbers in turn provided the basis for document candidate identifiers, along with a count of document candidates since the last such label. This contrasts with the numbering practice for the Praśastapādabhāṣya (q.v.), which follows the analysis of the base-text, Kaṇāda's Vaiśeṣikasūtra.
+
+
+Other Important Notes: 
+
+1) Some spacing problems found in conjunction with editorial markup, e.g., saṃyo (gī) na ca viro (dhī) na samavā (yī). Material in square brackets, also ostensibly editorial markup, was silently accepted here.
+
+
+(numerous other details recorded elsewhere)
