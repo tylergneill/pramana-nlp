@@ -4,10 +4,11 @@ A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along w
 
 The numbering of files and folders here suggests a linear order for understanding the corpus-building and modeling processes.
 
-Data Sources:
-* [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html)
-* [SARIT](http://sarit.indology.info/)
-* private collections
+Data Sources | 1.1\_text\_original | 2\_data\_prep/1\_text\_metadata | 2\_data\_prep/4\_text\_cleaned | 3.1\_text\_doc\_and\_word\_segmented |
+------------ | ------------------- | ------------------------------- | ------------------------------ | ------------------------------------ |
+[GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html) | y | y | y | y |
+[SARIT](http://sarit.indology.info/) | y | y | y | y |
+private collections  | n | y | n | y |
 
 Tools Used:
 * Python 2.7
