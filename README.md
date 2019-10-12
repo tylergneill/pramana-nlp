@@ -10,7 +10,7 @@ Data Source | 1.1\_text\_original | 2\_data\_prep / 1\_text\_metadata | 2\_data\
 ------------ | ------------------- | ------------------------------- | ------------------------------ | ------------------------------------ |
 [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html) | y | y | y | y |
 [SARIT](http://sarit.indology.info/) | y | y | y | y |
-private collections  | n | y | n | y |
+private collections  | NO | y | NO | y |
 
 Tools Used:
 * Python 2.7
@@ -18,7 +18,7 @@ Tools Used:
 * Word Segmentation: [Sanskrit Sandhi and Compound Splitter](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp), based on [DCS](http://www.sanskrit-linguistics.org/dcs/index.php)
 * Transliteration: [Skrutable](https://github.com/tylergneill/Skrutable)
 * Topic Modeling: [ToPān](https://github.com/ThomasK81/ToPan), based on R packages [lda](https://cran.r-project.org/web/packages/lda/index.html) and [LDAvis](https://github.com/cpsievert/LDAvis)
-* Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (local-only fork, please ask for more info)
+* Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (local-only fork for certain features, please ask for more info)
 
 Micro-Tools Created:
 * transform.py - daisy-chain XSL transforms, visualize progress
