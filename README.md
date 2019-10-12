@@ -4,7 +4,7 @@ A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along w
 
 The numbering of files and folders here suggests a linear order for understanding the corpus-building and modeling processes.
 
-Some data not able to be shared freely here:
+Which data could be shared freely here:
 
 Data Sources | 1.1\_text\_original | 2\_data\_prep/1\_text\_metadata | 2\_data\_prep/4\_text\_cleaned | 3.1\_text\_doc\_and\_word\_segmented |
 ------------ | ------------------- | ------------------------------- | ------------------------------ | ------------------------------------ |
