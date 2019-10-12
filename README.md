@@ -6,7 +6,7 @@ The numbering of files and folders here suggests a linear order for understandin
 
 Which data could be shared freely here:
 
-Data Sources | 1.1\_text\_original | 2\_data\_prep/1\_text\_metadata | 2\_data\_prep/4\_text\_cleaned | 3.1\_text\_doc\_and\_word\_segmented |
+Data Sources | 1.1\_text\_original | 2\_data\_prep / 1\_text\_metadata | 2\_data\_prep / 4\_text\_cleaned | 3.1\_text\_doc\_and\_word\_segmented |
 ------------ | ------------------- | ------------------------------- | ------------------------------ | ------------------------------------ |
 [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html) | y | y | y | y |
 [SARIT](http://sarit.indology.info/) | y | y | y | y |
