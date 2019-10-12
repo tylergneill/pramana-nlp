@@ -1,6 +1,6 @@
 # pramana-nlp
 
-A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along with data and results for an experiment in LDA topic modeling. See also corresponding paper presented at the [6th ISCLS](https://iscls.github.io).
+A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along with data and results for an experiment in LDA topic modeling. See also corresponding paper to be presented at the [6th ISCLS](https://iscls.github.io).
 
 The numbering of files and folders here suggests a linear order for understanding the corpus-building and modeling processes.
 
