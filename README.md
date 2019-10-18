@@ -2,11 +2,11 @@
 
 A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along with data and results for an experiment in LDA topic modeling. See also corresponding paper to be presented at the [6th ISCLS](https://iscls.github.io).
 
-The numbering of files and folders here suggests a linear order for understanding the corpus-building and modeling processes.
+The folder numbering suggests a linear order for understanding the corpus-building and modeling processes.
 
 Which data could be shared freely here:
 
-Data Source | 1.1\_text\_original | 2\_data\_prep / 1\_text\_metadata | 2\_data\_prep / 4\_text\_cleaned | 3.1\_text\_doc\_and\_word\_segmented |
+Data Source | 1\_text\_original | 2.1\_text\_metadata | 2.4\_text\_cleaned | 3\_text\_doc\_and\_word\_segmented |
 ------------ | ------------------- | ------------------------------- | ------------------------------ | ------------------------------------ |
 [GRETIL](http://gretil.sub.uni-goettingen.de/gretil.html) | y | y | y | y |
 [SARIT](http://sarit.indology.info/) | y | y | y | y |
