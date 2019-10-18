@@ -17,4 +17,4 @@ vādidevasūri_syādvādaratnākara
 vāgīśvarabhaṭṭa_nyāyatātparyadīpikā
 vidyākaraśānti_tarkasopāna
 
-(see 2_data_prep > 1_text_metadata for more details)
+(see 2_data_prep > 2.1_text_metadata for more details)
