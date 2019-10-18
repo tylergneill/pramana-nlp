@@ -18,7 +18,7 @@ Tools Used:
 * Word Segmentation: [Sanskrit Sandhi and Compound Splitter](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp), based on [DCS](http://www.sanskrit-linguistics.org/dcs/index.php)
 * Transliteration: [Skrutable](https://github.com/tylergneill/Skrutable)
 * Topic Modeling: [ToPān](https://github.com/ThomasK81/ToPan), based on R packages [lda](https://cran.r-project.org/web/packages/lda/index.html) and [LDAvis](https://github.com/cpsievert/LDAvis)
-* Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (local-only fork for certain features, please ask for more info)
+* Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (local-only fork with new "json" microservice, please ask for more info)
 
 Micro-Tools Created:
 * transform.py - daisy-chains XSL transforms, visualize progress
