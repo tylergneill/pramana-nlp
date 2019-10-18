@@ -21,8 +21,8 @@ Tools Used:
 * Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (local-only fork for certain features, please ask for more info)
 
 Micro-Tools Created:
-* transform.py - daisy-chain XSL transforms, visualize progress
-* (3\_)validate\_text.py - check textual structure (use of brackets) and character content for troublesome patterns, warn about issues
+* transform.py - daisy-chains XSL transforms, visualize progress
+* (3\_)validate\_text.py - checks textual structure (use of brackets) and character content for troublesome patterns, warns about issues
 * explore\_topic\_top\_words.py - adjusts topic modeling phi values for lambda relevance L, filters out unwanted words, sets limits on how many words to consider and on how many words to show for each topic
 * explore\_topic\_domination\_by\_text.py - shows which topics are dominated by small number of individual texts as determined from identifiers
 * format\_doc\_similarity\_table.py - formats document similarity results as table with one column per text as determined from identifiers, optinally prioritizes set of preferred texts
