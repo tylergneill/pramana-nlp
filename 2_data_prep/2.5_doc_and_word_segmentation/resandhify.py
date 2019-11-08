@@ -1,0 +1,38 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+to_do_list = [
+'Dharmakīrti_Pramāṇavārttika.txt',
+'Dharmakīrti_Pramāṇavārttikasvavṛtti.txt',
+'Dharmakīrti_Vādanyāya.txt',
+'Dharmakīrti_Sambandhaparīkṣā.txt',
+]
+
+import re
+
+def resandhify(text):
+	regex_replace = [
+	[u'- +([^\n])','-\\1'],
+
+	[u'[aā]-(ai|e)', 'ai'],
+	[u'[aā]-(au|o)', 'au'],
+
+	[u'[aā]-[aā]', u'ā'],
+	[u'[aā]-[iī]', u'e'],
+	[u'[aā]-[uū]', u'o'],
+	[u'[aā]-[ṛ]', u'ar'],
+
+	[u'[ṛ]-([aā])', u'r\\1'],
+	[u'([aāiīuūṛeo])-([gjḍdbnmyrlvhkcṭtpśṣs])','\\1\\2'],
+	[u'([gjḍdbnm])-([aāiīuūṛeo])','\\1\\2'],
+	[u'([gjḍdbnml])-([gjḍdbnmyrlv])','\\1\\2'],
+	[u'd-h','ddh'],
+	[u'c-ś','cch'],
+	[u'([kcṭtpśṣs])-([kcṭtpśṣs])','\\1\\2'],
+	[u'([yv])-([aāiīuūṛeo])','\\1\\2'],
+	]
+
+	for r_r in regex_replace:
+		text = re.sub(r_r[0], r_r[1], text)
+
+	return text
