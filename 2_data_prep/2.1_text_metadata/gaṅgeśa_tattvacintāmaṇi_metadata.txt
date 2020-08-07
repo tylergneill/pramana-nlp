@@ -1,3 +1,5 @@
+SECOND ROUND NOTE: The Wikisource version, derived from the Rashtriya Sanskrit Sansthan digitization project ("[Bhāratasarvakārasya Yojanā] Content Generation with a view to develop E-Databank, E-Learning and E-Sources of Sanskrit Text") contains all four chapters. This will be checked for quality and likely chosen to replace the version used so far, which is incomplete (and which is also findable on Wikisource but which derives from Sansknet). 
+
 File Source: GRETIL
 
 
