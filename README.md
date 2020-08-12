@@ -2,7 +2,7 @@
 
 A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along with data and results for an experiment in LDA topic modeling. See also the corresponding [paper](https://www.aclweb.org/anthology/W19-7505/) presented at the [6th ISCLS](https://iscls.github.io).
 
-The folder numbering suggests a linear order for understanding the corpus-building and modeling processes.
+The folders and filenames in this repository have been named and numbered in order to facilitate understanding of the corpus-building and modeling processes.
 
 Which data could be shared freely here:
 
@@ -18,7 +18,7 @@ Tools Used:
 * Word Segmentation: [Sanskrit Sandhi and Compound Splitter](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp), based on [DCS](http://www.sanskrit-linguistics.org/dcs/index.php)
 * Transliteration: [Skrutable](https://github.com/tylergneill/Skrutable)
 * Topic Modeling: [ToPān](https://github.com/ThomasK81/ToPan), based on R packages [lda](https://cran.r-project.org/web/packages/lda/index.html) and [LDAvis](https://github.com/cpsievert/LDAvis)
-* Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (local-only fork with new "json" microservice, please ask for more info)
+* Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (actually, my [fork thereof](https://github.com/tylergneill/Metallo_tgn))
 
 Micro-Tools Created:
 * transform.py - daisy-chains XSL transforms, visualize progress
