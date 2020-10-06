@@ -2,7 +2,6 @@
 
 A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along with data and results for an experiment in LDA topic modeling. See also the corresponding [paper](https://www.aclweb.org/anthology/W19-7505/) presented at the [6th ISCLS](https://iscls.github.io), for which the citable repo snapshot is at: [![DOI](https://zenodo.org/badge/187706215.svg)](https://zenodo.org/badge/latestdoi/187706215)
 
-
 The folders and filenames in this repository have been named and numbered in order to facilitate understanding of the corpus-building and modeling processes.
 
 Which data could be shared freely here:
