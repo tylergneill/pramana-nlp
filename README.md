@@ -5,7 +5,6 @@ A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along w
 Update (Dec 2020): I'm currently working on version 2. The above DOI corresponds to version 1, which will remain here but not undergo further changes.
 
 Repo Overview:
-<<<<<<< HEAD
 1. text_original: Actual source files publically downloaded (.htm GRETIL, .xml SARIT) and list of privately obtained files
 2. data_prep: metadata on every file, xls transforms, validation script, cleaned texts (public only), segmentation scripts
 3. text_doc_and_word_segmented: files ready for topic modeling, spreadsheet overview
@@ -20,7 +19,6 @@ text_doc_and_word_segmented: files ready for topic modeling, spreadsheet overvie
 lda_topic_modeling: experiment data, scripts, and results
 
 Overivew of which data could be shared freely here:
->>>>>>> version 2 prep
 
 Data Source | 1\_text\_original | 2.1\_text\_metadata | 2.4\_text\_cleaned | 3\_text\_doc\_and\_word\_segmented |
 ------------ | ------------------- | ------------------------------- | ------------------------------ | ------------------------------------ |

@@ -16,11 +16,7 @@ Tools Used:
 * Python 2.7
 * XSL Transforms: [lxml](https://lxml.de/index.html) library
 * Word Segmentation: [Sanskrit Sandhi and Compound Splitter](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp), based on [DCS](http://www.sanskrit-linguistics.org/dcs/index.php)
-<<<<<<< HEAD
-* Transliteration: [skrutable](https://github.com/tylergneill/skrutable)
-=======
 * Transliteration: [Skrutable](https://github.com/tylergneill/Skrutable)
->>>>>>> version 2 prep
 * Topic Modeling: [ToPān](https://github.com/ThomasK81/ToPan), based on R packages [lda](https://cran.r-project.org/web/packages/lda/index.html) and [LDAvis](https://github.com/cpsievert/LDAvis)
 * Topic Model Exploration: [Metallō](https://github.com/ThomasK81/Metallo) (actually, my [fork thereof](https://github.com/tylergneill/Metallo_tgn))
 
