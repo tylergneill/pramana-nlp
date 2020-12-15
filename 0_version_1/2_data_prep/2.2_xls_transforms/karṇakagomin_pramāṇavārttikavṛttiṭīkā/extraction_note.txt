@@ -21,7 +21,7 @@ Other Notable Encoding Issues
 	<quote sameAs="vsū.2.1.9-10" cert="high"><hi rend="bold">स्पर्शश्च</hi> न च दृष्टानामि</quote>
 	<quote><hi rend="bold">इष्टेस्तदाश्रयत्वा</hi>दपौरुषेयत्वसाधनाश्रयत्वा<hi rend="bold">दि</hi></quote><hi rend="bold">त्यादि</hi>
 
-5) One pair of broken top-level <quote> elements was fixed the in "modified" file ultimately transformed. Namely, a closing tag was placed immediately after <lg><l>वेदस्याध्यनं सर्वं गुर्वध्ययनपूर्वकं ।</l><l>वेदाध्ययनवाच्यत्वादधुनाध्ययनं यथा ।</l></lg>, and an opening tag was placed immediately before <lg><l>वेदस्याध्ययनं सर्वङ् गुर्वध्ययनपूर्वकम्.	
+5) One pair of broken top-level <quote> elements was fixed in the "modified" file ultimately transformed. Namely, a closing tag was placed immediately after <lg><l>वेदस्याध्यनं सर्वं गुर्वध्ययनपूर्वकं ।</l><l>वेदाध्ययनवाच्यत्वादधुनाध्ययनं यथा ।</l></lg>, and an opening tag was placed immediately before <lg><l>वेदस्याध्ययनं सर्वङ् गुर्वध्ययनपूर्वकम्.	
 
 
 (many further details recorded elsewhere)
