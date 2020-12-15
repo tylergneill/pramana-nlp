@@ -251,6 +251,6 @@ also consider as stopwords the following 10 additional function words that would
 
 ādikam, astu, bhavet, eṣa, ete, kintu, tam, tayoḥ, yasmāt, ye
 
-i.e., in addition to 12 function words already excluded while modeling, exclude the following 82 function words while interpreting, for a total of 94 words excluded altogether
+i.e., in addition to 12 function words already excluded while modeling, also exclude the following 82 function words while interpreting, for a total of 94 words excluded altogether
 
 tvam, tathā, syāt, evam, āha, tva, tatra, asti, yadi, kim, tasya, yathā, sa, ced, yat, atas, etat, katham, ayam, bhavati, atra, tasmāt, vat, tā, uktam, tatas, atha, tvena, tve, asya, nanu, punar, idam, tadā, ucyate, tena, tayā, tāvat, yaḥ, sati, saḥ, sā, ādeḥ, tarhi, ādīnām, iva, ityādi, anena, ādayaḥ, kutas, yatas, te, iha, kaḥ, asau, kvacid, ādau, teṣām, yatra, kaścid, yena, ādiṣu, yasya, yadā, iyam, ukta, khalu, tām, tvasya, kiñcid, ādikam, astu, bhavet, eṣa, ete, kintu, tam, tayoḥ, yasmāt, ye

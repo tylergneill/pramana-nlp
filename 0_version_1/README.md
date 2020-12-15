@@ -2,15 +2,9 @@
 
 A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along with data and results for an experiment in LDA topic modeling. See also the corresponding [paper](https://www.aclweb.org/anthology/W19-7505/) presented at the [6th ISCLS](https://iscls.github.io), for which the citable repo snapshot is at: [![DOI](https://zenodo.org/badge/187706215.svg)](https://zenodo.org/badge/latestdoi/187706215)
 
-Update (Dec 2020): I'm currently working on version 2. The above DOI corresponds to version 1, which will remain here but not undergo further changes.
+The folders and filenames in this repository have been named and numbered in order to facilitate understanding of the corpus-building and modeling processes.
 
-Repo Overview:
-1. text_original: Actual source files publically downloaded (.htm GRETIL, .xml SARIT) and list of privately obtained files
-2. data_prep: metadata on every file, xls transforms, validation script, cleaned texts (public only), segmentation scripts
-3. text_doc_and_word_segmented: files ready for topic modeling, spreadsheet overview
-4. lda_topic_modeling: experiment data, scripts, and results
-
-Specific overview of which textual data could be shared freely here:
+Which data could be shared freely here:
 
 Data Source | 1\_text\_original | 2.1\_text\_metadata | 2.4\_text\_cleaned | 3\_text\_doc\_and\_word\_segmented |
 ------------ | ------------------- | ------------------------------- | ------------------------------ | ------------------------------------ |
@@ -19,7 +13,7 @@ Data Source | 1\_text\_original | 2.1\_text\_metadata | 2.4\_text\_cleaned | 3\_
 private collections  | NO | y | NO | y |
 
 Tools Used:
-* Python 2.7 (>> 3.8.5 for version 2)
+* Python 2.7
 * XSL Transforms: [lxml](https://lxml.de/index.html) library
 * Word Segmentation: [Sanskrit Sandhi and Compound Splitter](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp), based on [DCS](http://www.sanskrit-linguistics.org/dcs/index.php)
 * Transliteration: [skrutable](https://github.com/tylergneill/skrutable)
