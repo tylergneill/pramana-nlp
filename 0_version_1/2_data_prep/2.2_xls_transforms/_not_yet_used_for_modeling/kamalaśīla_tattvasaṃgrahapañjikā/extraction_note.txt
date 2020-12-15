@@ -1,6 +1,6 @@
 Structural Summary
 
-In this file of Kamalaśīla's Tattvasaṃgrahapañjikā on Śāntarakṣita's Tattvasaṅgraha, the base-text is encoded in <quote> elements, reflecting the printing of E. Krishnamacharya's 1926 Baroda edition. Although Kamalaśīla himself did not quote the base-text in this way, but rather in an abbreviated manner (encoded here with <q type="lemma"> elements), this material  of Śāntarakṣita, featuring nowhere else in the corpus, was simply extracted as part of Kamalaśīla's commentary. In the future, it might make sense to separately extract the full text of the Tattvasaṃgraha, as well.
+In this file of Kamalaśīla's Tattvasaṃgrahapañjikā on Śāntarakṣita's Tattvasaṅgraha, the base-text is encoded in <quote> elements, reflecting the printing of E. Krishnamacharya's 1926 Baroda edition. Although Kamalaśīla himself did not quote the base-text in this way, but rather in an abbreviated manner (encoded here with <q type="lemma"> elements), this material of Śāntarakṣita, featuring nowhere else in the corpus, was simply extracted as part of Kamalaśīla's commentary. In the future, it might make sense to separately extract the full text of the Tattvasaṃgraha, as well.
 
 For finding the desired natural-language text, the <editorialDecl> is very helpful (here quoted in full):
 
