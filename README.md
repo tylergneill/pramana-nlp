@@ -11,7 +11,6 @@ Repo Overview:
 4. lda_topic_modeling: experiment data, scripts, and results
 
 Specific overview of which textual data could be shared freely here:
-=======
 
 text_original: Actual source files publically downloaded (.htm GRETIL, .xml SARIT) and list of privately obtained files
 data_prep: metadata on every file, xls transforms, validation script, cleaned texts (public only), segmentation scripts
