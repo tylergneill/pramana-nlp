@@ -10,13 +10,6 @@ Repo Overview:
 3. text_doc_and_word_segmented: files ready for topic modeling, spreadsheet overview
 4. lda_topic_modeling: experiment data, scripts, and results
 
-Specific overview of which textual data could be shared freely here:
-
-text_original: Actual source files publically downloaded (.htm GRETIL, .xml SARIT) and list of privately obtained files
-data_prep: metadata on every file, xls transforms, validation script, cleaned texts (public only), segmentation scripts
-text_doc_and_word_segmented: files ready for topic modeling, spreadsheet overview
-lda_topic_modeling: experiment data, scripts, and results
-
 Overivew of which data could be shared freely here:
 
 Data Source | 1\_text\_original | 2.1\_text\_metadata | 2.4\_text\_cleaned | 3\_text\_doc\_and\_word\_segmented |
