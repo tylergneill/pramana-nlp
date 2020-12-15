@@ -6,10 +6,10 @@ Update (Dec 2020): I'm currently working on version 2 (= re-cleaned and addition
 
 Repo Overview:
 
-text_original: downloaded source files (.htm GRETIL, .xml SARIT)
-data_prep: metadata, xls transforms, validation scripts, cleaned texts, segmentation scripts
-text_doc_and_word_segmented: topic modeling-ready input data, spreadsheet overview thereof
-lda_topic_modeling: topic modeling inputs and outputs, analysis scripts, and results
+1. text_original: downloaded source files (.htm GRETIL, .xml SARIT)
+2. data_prep: metadata, xls transforms, validation scripts, cleaned texts, segmentation scripts
+3. text_doc_and_word_segmented: topic modeling-ready input data, spreadsheet overview thereof
+4. lda_topic_modeling: topic modeling inputs and outputs, analysis scripts, results
 
 Overivew of which data could be shared freely here:
 
