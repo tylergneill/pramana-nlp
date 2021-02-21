@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 to_do_list = [
 'Dharmakīrti_Pramāṇavārttika.txt',
 'Dharmakīrti_Pramāṇavārttikasvavṛtti.txt',
