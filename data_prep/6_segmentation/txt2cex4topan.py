@@ -51,18 +51,17 @@ import re
 import subprocess
 # > from skrutable.HellwigNehrdichSplitter import SplitterWrapper
 
-import edit
+import resize
 # import resandhify
 # import validate
 
 input_path = 'data/input/'
 output_path = 'data/output/'
 
-min_doc_size = 300; max_doc_size = 1000 # char len
-c = 0.8 # document split location parameter (= possible % range from mid)
-
-resize_only = False
-if "--resize_only" in sys.argv: resize_only = True
+logging_path_prefix = 'data/output/logging/'
+stats_buffer = '\t'.join([
+	"filename", "docs_orig", "docs_resized", "seg_lines", "tokens"
+	]) + '\n' # header row
 
 class Section(object):
 
@@ -70,33 +69,35 @@ class Section(object):
 		self.section_label = ''
 		self.doc_identifers = []
 		self.doc_contents = []
-#
+
+#	# NOT DOING THIS ANYMORE
 # 	def initialize_doc_identifers(self):
 # 		self.doc_identifers = edit.initialize_doc_identifers(
 # 			self.section_label, self.doc_identifers)
-#
-# 	def preclean(self):
-# 		for i in range(len(self.doc_contents)):
-# 			regex_replace = [
-# 			# delete (...), punctuation adjacent to numbers, numbers, quotation marksr, extra spacing
-# 			['\([^\)]*?\)', ''],
-# 			['([\|/])+([\d\.,– ]+)(\\1)+', '\\1'],
-# 			['[\d"\t]', ''],
-# 			[' {2,}', ' '],
-# 			# simplify multiple punctuation (also with intervening spaces)
-# 			['([\|/\.] ?)+', '\\1'],
-# 			# space out punctuation as necessary
-# 			[u'([^ ])([\|/\.,;:—\?])', '\\1 \\2'],
-# 			[u'([\|/\.,;:—\?])([^ ])', '\\1 \\2'],
-# 			# carry out manually suggested segmentation
-# 			['_', ' '],
-# 			]
-# 			for r_r in regex_replace: self.doc_contents[i] = re.sub(r_r[0], r_r[1], self.doc_contents[i])
-#
-# 	def resize_docs(self):
-#
-# 		self.doc_contents, self.doc_identifers = edit.resize(
-# 			self.doc_contents, self.doc_identifers)
+
+	def preclean(self):
+		for i in range(len(self.doc_contents)):
+			regex_replace = [
+			# delete (...), punctuation adjacent to numbers, numbers, quotation marks, extra spacing
+			['\([^\)]*?\)', ''],
+			['([\|/])+([\d\.,– ]+)(\\1)+', '\\1'],
+			['[\d"\t]', ''],
+			[' {2,}', ' '],
+			# simplify multiple punctuation (also with intervening spaces)
+			['([\|/\.] ?)+', '\\1'],
+			# space out punctuation as necessary
+			[u'([^ ])([\|/\.,;:—\?])', '\\1 \\2'],
+			[u'([\|/\.,;:—\?])([^ ])', '\\1 \\2'],
+			# carry out manually suggested segmentation
+			['_', ' '],
+			]
+			for r_r in regex_replace: self.doc_contents[i] = re.sub(r_r[0], r_r[1], self.doc_contents[i])
+
+	def resize_docs(self):
+		# lower bound: resize.min_doc_size
+		# upper bound: resize.max_doc_size (also a few cases of min_doc_size + max_doc_size ??)
+		temp_content_L, temp_identifier_L = resize.split_big_docs(self.doc_contents, self.doc_identifers)
+		self.doc_contents, self.doc_identifers = resize.combine_small_docs(temp_content_L, temp_identifier_L)
 
 fns = os.listdir(input_path)
 fns.sort()
@@ -105,7 +106,6 @@ for fn in fns:
 	if fn in ['.DS_Store']: continue # skip those macOS rascals
 
 	full_input_path = os.path.join(input_path, fn)
-
 	with open(full_input_path, 'r') as f_in:
 		f_data = f_in.read()
 
@@ -146,6 +146,11 @@ for fn in fns:
 		S.doc_identifers = ids_and_contents[1::2]	# store [...] document identifiers
 		S.doc_contents = ids_and_contents[2::2]		# store document contents
 
+		S.doc_count_before_resize = 0
+		S.doc_count_after_resize = 0
+		S.line_count_for_seg = 0
+		S.token_count = 0
+
 		all_Sections.append(S)
 
 		for doc_identifier in S.doc_identifers:
@@ -153,79 +158,65 @@ for fn in fns:
 		for doc_content in S.doc_contents:
 			all_doc_contents.append(doc_content)
 
-	# for debugging
-	with open('data/output/temp0_curr_file_original_sections.txt','w') as f_out:
+	# log
+	logging_path_suffix = '0_original_doc_candidates/'
+	full_logging_f_path = os.path.join(logging_path_prefix, logging_path_suffix, fn)
+	with open(full_logging_f_path ,'w') as f_out:
 		f_out.write('\n'.join(
 			[ id + '\t' + c for id, c in zip(all_doc_identifiers, all_doc_contents) ]
 			)
 		)
-	input()
 
-# 	print("resizing %s..." % fn)
-#
-# 	# compare with final number to get measure of resizing activity
-# 	print("starting number of docs:", len(all_doc_contents))
-#	# CHANGE TO LOGGING
-#
-# 	# now resize doc_contents, first restricted to sections
-#
-# 	megaS = Section() # will collect all adjusted documents and their identifiers
-#	# megaS.section_label = ...
-#
-# 	for S in all_Sections:
-#
-# 		S.preclean()
-# 		S.resize_docs()
-#
-# 		for s_m, s_c in zip(S.doc_identifers, S.doc_contents):
-# 			megaS.doc_identifers.append(s_m)
-# 			megaS.doc_contents.append(s_c)
-#
+	print("resizing %s..." % fn)
+
+	# now resize doc_contents, first restricted to sections
+
+	megaS = Section() # will collect all adjusted documents and their identifiers
+	megaS.section_label = fn
+	megaS.doc_count_before_resize = len(all_doc_contents)
+
+	for S in all_Sections:
+
+		S.preclean()
+		S.resize_docs()
+
+		for s_m, s_c in zip(S.doc_identifers, S.doc_contents):
+			megaS.doc_identifers.append(s_m)
+			megaS.doc_contents.append(s_c)
+
+	megaS.doc_count_after_resize = len(megaS.doc_contents)
+
+	# log
+	logging_path_suffix = '1_resized_docs/'
+	full_logging_f_path = os.path.join(logging_path_prefix, logging_path_suffix, fn)
+	with open(full_logging_f_path ,'w') as f_out:
+		f_out.write('\n'.join(
+			[ id + '\t' + c for id, c in zip(megaS.doc_identifers, megaS.doc_contents) ]
+			)
+		)
+
+#	# NOT DOING THIS ANYMORE
 # 	# do one final resize over all docs
-#
 #  	megaS.resize_docs()
 # 	# of debatable value, cp. e.g. VS 4,2 and 5,1 combined with each other based on size, despite 4,1 and 5,2
-#
-# 	print("number of resized docs:", len(megaS.doc_contents))
-#
-# # 	log_file = open('identifier_log.txt','r')
-# # 	log_content = log_file.read()
-# # 	log_content = log_content.replace('DEBUG:root:','')
-# # 	log_file.close()
-# # 	log_file = open('identifier_log.txt','w')
-# # 	log_file.write(log_content)
-# # 	log_file.close()
-# # 	continue
-#
-# 	# for debugging or illustration
-# 	f_out = open('temp/temp1_resized_documents.txt','w')
-#  	f_out.write('\n'.join(megaS.doc_contents).encode('utf-8'))
-# 	f_out.close()
-#
-# 	# now clean up and segment all doc_contents at once
-# 	# '#' marks doc boundaries to restore afterward
-#
-# 	if resize_only:
-# 		# save this file's results to a corresponding two-column tsv file
-# 		f_out = open(os.path.join(output_path, fn),'w')
-# 		for (doc_identifer, doc_content) in zip(megaS.doc_identifers, megaS.doc_contents):
-# 			f_out.write(doc_identifer.encode('utf-8') + '\t' + doc_content.encode('utf-8') + '\n')
-# 		f_out.close()
-# 		continue
-#
-# 	print("segmenting %s..." % fn)
-#
-# 	presegmentation_contents = '\n#\n'.join(megaS.doc_contents)
-#
+
+	# now clean up and segment all doc_contents at once
+	# '#' marks doc boundaries to restore afterward
+
+	print("segmenting %s..." % fn)
+
+	presegmentation_contents = '\n#\n'.join(megaS.doc_contents)
+
+#	# NOT DOING THIS ANYMORE
 # 	if fn in resandhify.to_do_list:
 # 		print('resandhifying....')
 # 		presegmentation_contents = resandhify.resandhify(presegmentation_contents)
-#
-# 	# any remaining '-' must have been intentionally placed by me for segmentation
-# 	presegmentation_contents = presegmentation_contents.replace('-', ' ')
-#
-# 	regex_replace = [
+
+	# any remaining '-' must have been intentionally placed by me for segmentation
+	presegmentation_contents = presegmentation_contents.replace('-', ' ')
+
 # 	# use punctuation for more newlines
+# 	regex_replace = [
 # 	[u'([\|/\.,;:—\?] )', '\\1\n'],
 # 	# but not too many
 # 	[u'\n{2,}', '\n'],
@@ -252,6 +243,7 @@ for fn in fns:
 # 			lines2.append(l)
 #
 # 	print("number of lines for segmentation:", len(lines2))
+# S.line_count_for_seg = 0
 #
 # 	presegmentation_contents = '\n'.join(lines2)
 #
@@ -291,7 +283,7 @@ for fn in fns:
 # 	# count tokens
 # 	num_tokens = postsegmentation_contents.count(' ') - postsegmentation_contents.count('#')
 # 	print("final number of tokens:", num_tokens)
-#
+# S.token_count = 0
 # 	# reincorporate treated content back into master Section object
 # 	megaS.doc_contents = postsegmentation_contents.split('#')
 #
@@ -311,6 +303,19 @@ for fn in fns:
 #
 # 	# ALTERNATIVELY: could here contribute this file's info to a central CTS file
 # 	# TO-DO...
-#
+
+	stats_buffer += '\t'.join([
+		fn,
+		str(megaS.doc_count_before_resize),
+		str(megaS.doc_count_after_resize),
+		"0",
+		"0"
+		]) + '\n'
+
+# final logging of stats
+full_logging_f_path = os.path.join(logging_path_prefix, 'stats.tsv')
+with open(full_logging_f_path ,'w') as f_out:
+	f_out.write(stats_buffer)
+
 # # audibly celebrate finished processing of all files
 # import time; time.sleep(1); subprocess.call("afplay segmenter/yaas3.mp3", shell='True')
