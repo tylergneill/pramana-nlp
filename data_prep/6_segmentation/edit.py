@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 import re
 
 a = 300; b = 1000 # document character length parameters
@@ -18,7 +15,7 @@ def resize(doc_L, identifer_L):
 	# results in min_doc_size a
 	# results in max_doc_size mostly b and in a very few cases a+b
 	doc_L, identifer_L = split_big_docs(doc_L, identifer_L)
-	return combine_small_docs(doc_L, identifer_L)	
+	return combine_small_docs(doc_L, identifer_L)
 
 def no_small_docs(doc_L):
 	for l in [len(x) for x in doc_L]:
@@ -59,13 +56,13 @@ Splitting functions (4):
 # 	for c in split_settings:
 # 		doc_L2, identifer_L2 = attempt_splits(doc_L, identifer_L, c[0], c[1])
 # 		if no_big_docs(doc_L2): return doc_L2, identifer_L2
-# 
+#
 # 	print "ERROR, ALL SPLIT ATTEMPTS FAILED"; exit()
 
 def split_big_docs(doc_L, identifer_L):
 	"""
 	max_len will be between 1.0 * b and 1.2 * b
-	"""	
+	"""
 
 	if no_big_docs(doc_L): return doc_L, identifer_L
 
@@ -78,13 +75,13 @@ def split_big_docs(doc_L, identifer_L):
 			identifer_L2.append(identifer) # also append current identifer_L
 
 		else:
-			
+
 			# search for middle-most puncutation
 			results = split_unit(doc)
 
 			for i, r in enumerate(results):
 
-				new_doc = r; 
+				new_doc = r;
 				doc_L2.append(new_doc)
 
 				new_identifer = identifer[:-1].replace('_',u'–') + '^%d]' % (i+1)
@@ -104,7 +101,7 @@ def split_unit(unit, splitpoint_regexes = doc_splitpoint_regexes, max_len = b):
 
 	if len(unit) <= max_len:
 		return [unit]
-	else:		
+	else:
 		for splitpoint_regex in splitpoint_regexes:
 			midpoint = find_midpoint(unit, splitpoint_regex)
 			if midpoint > (1.0 - (1.0 - c) / 2) * len(unit) or midpoint < ((1.0 - c) / 2) * len(unit): continue
@@ -122,7 +119,7 @@ def find_midpoint(unit, splitpoint_regex):
 
 	all_indices = [m.start() for m in re.finditer(splitpoint_regex, unit)]
 	distances_from_middle = [abs(i - len(unit)/2) for i in all_indices]
-	try: 
+	try:
 		most_middle_index = all_indices[distances_from_middle.index(min(distances_from_middle))]
 		return most_middle_index
 	except ValueError:
@@ -141,9 +138,9 @@ def combine_small_docs(doc_L, identifer_L):
 
 	doc_L2 = ['']
 	identifer_L2 = ['']
-	
+
 	for i, (doc, identifer) in enumerate(zip(doc_L, identifer_L)):
-		
+
 		if len(doc_L[i]) >= a:
 			if doc_L2[-1] == '':
 				doc_L2[-1] = doc_L[i]
@@ -156,7 +153,7 @@ def combine_small_docs(doc_L, identifer_L):
 
 			# something already kept as long enough?
 			if len(doc_L2[-1]) > 0:
-			
+
 				# if so, want to add to left
 				# but only if left is smaller than what's ahead
 				# so first, try looking ahead
@@ -164,7 +161,7 @@ def combine_small_docs(doc_L, identifer_L):
 					doc_L[i+1] # check whether next exists
 
 					# if here, next exists, so now compare
-					
+
 					if len(doc_L2[-1]) <= len(doc_L[i+1]):
 						# previous is smaller or equal, so add to that
 						doc_L2[-1] = combine_two_docs(doc_L2[-1], doc_L[i])
@@ -176,7 +173,7 @@ def combine_small_docs(doc_L, identifer_L):
 						doc_L[i+1] = combine_two_docs(doc_L[i], doc_L[i+1])
 						identifer_L[i+1] = combine_two_identifers(identifer_L[i], identifer_L[i+1])
 						continue
-			
+
 				except IndexError:
 					# jumped to here because next doesn't exist, so just add left
 					doc_L2[-1] = combine_two_docs(doc_L2[-1], doc_L[i])
@@ -185,17 +182,17 @@ def combine_small_docs(doc_L, identifer_L):
 
 			else:
 				# nothing already kept, try adding right
-				
+
 				# first, try looking ahead to see whether already at end
 				try:
 					doc_L[i+1] # check whether next exists
 
 					# if here, next exists, so go ahead and add to right
-					
+
 					doc_L[i+1] = combine_two_docs(doc_L[i], doc_L[i+1])
 					identifer_L[i+1] = combine_two_identifers(identifer_L[i], identifer_L[i+1])
 					continue
-				
+
 				except IndexError:
 					# jumped to here because next doesn't exist, so add left
 					doc_L2[-1] = combine_two_docs(doc_L2[-1], doc_L[i])
@@ -215,20 +212,20 @@ def combine_two_identifers(identifer_A, identifer_B):
 
 	A_stripped = re.sub(u'[\[\]]', '', identifer_A)
 	B_stripped = re.sub(u'[\[\]]', '', identifer_B)
-	
+
 	first_part_of_A = A_stripped.split('_')[0]
 	last_part_of_B = B_stripped.split('_')[-1]
-	
-# 
+
+#
 # 	# HERE HERE
-# 	
+#
 # 	print "A_stripped", A_stripped
 # 	if '^' in A_stripped:
 # 		print "'^' in A_stripped"
 # 		first_part_of_A = A_stripped[:A_stripped.find('^')] + A_stripped[A_stripped.find('^'):].split('_')[0]
-# 	else: 
+# 	else:
 # 		first_part_of_A = A_stripped.split('_')[0]
-# 
+#
 # 	print "B_stripped", B_stripped
 # 	if '^' in B_stripped and B_stripped[B_stripped.find('^'):].split('_')[-1].find('_')>0:
 # 		print "'^' in B_stripped"
@@ -236,7 +233,7 @@ def combine_two_identifers(identifer_A, identifer_B):
 # 		print "last_part_of_B", last_part_of_B
 # 	else:
 # 		last_part_of_B = B_stripped.split('_')[-1]
-		
+
 	identifier_AB = "[%s_%s]" % (first_part_of_A, last_part_of_B)
 
 	log_id_combo(identifer_A, identifer_B, identifier_AB)
@@ -247,7 +244,7 @@ logging.basicConfig(filename='identifier_log.txt',level=logging.DEBUG)
 
 def log_id_combo(A, B, AB):
 	logging.debug( A.ljust(35) + B.ljust(35) + AB )
-	
+
 
 """
 Initialization function (1)
@@ -262,9 +259,9 @@ def initialize_doc_identifers(section_identifer, doc_identifers):
 
 		old_identifier = doc_identifer # for logging
 
-		if doc_identifers[i] == ('[]'): 
+		if doc_identifers[i] == ('[]'):
 			doc_identifers[i] = '[' + section_identifer[1:-1] + '.%d]' % (i+1)
-	
+
 		logging.debug( old_identifier.ljust(35) + '(init)'.ljust(35) + doc_identifers[i] )
 
 	return doc_identifers
