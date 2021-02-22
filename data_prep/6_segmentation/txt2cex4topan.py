@@ -49,7 +49,7 @@ import sys
 import os.path
 import re
 import subprocess
-# > from skrutable.HellwigNehrdichSplitter import SplitterWrapper
+from skrutable.splitter.wrapper import Splitter
 
 import resize
 # import resandhify
@@ -69,6 +69,10 @@ class Section(object):
 		self.section_label = ''
 		self.doc_identifers = []
 		self.doc_contents = []
+		self.doc_count_before_resize = 0
+		self.doc_count_after_resize = 0
+		self.word_split_line_count = 0
+		self.token_count = 0
 
 #	# NOT DOING THIS ANYMORE
 # 	def initialize_doc_identifers(self):
@@ -104,6 +108,8 @@ fns.sort()
 for fn in fns:
 
 	if fn in ['.DS_Store']: continue # skip those macOS rascals
+
+	Spl = Splitter()
 
 	full_input_path = os.path.join(input_path, fn)
 	with open(full_input_path, 'r') as f_in:
@@ -145,11 +151,6 @@ for fn in fns:
 		S.section_label = ids_and_contents[0]		# store {...} section label
 		S.doc_identifers = ids_and_contents[1::2]	# store [...] document identifiers
 		S.doc_contents = ids_and_contents[2::2]		# store document contents
-
-		S.doc_count_before_resize = 0
-		S.doc_count_after_resize = 0
-		S.line_count_for_seg = 0
-		S.token_count = 0
 
 		all_Sections.append(S)
 
@@ -203,9 +204,16 @@ for fn in fns:
 	# now clean up and segment all doc_contents at once
 	# '#' marks doc boundaries to restore afterward
 
-	print("segmenting %s..." % fn)
+	print("word-splitting %s..." % fn)
 
-	presegmentation_contents = '\n#\n'.join(megaS.doc_contents)
+	# presegmentation_content = '\n#\n'.join(megaS.doc_contents)
+	presegmentation_content = '\n'.join(megaS.doc_contents)
+
+	# log
+	logging_path_suffix = '2_pre-split_content/'
+	full_logging_f_path = os.path.join(logging_path_prefix, logging_path_suffix, fn)
+	with open(full_logging_f_path ,'w') as f_out:
+		f_out.write(presegmentation_content)
 
 #	# NOT DOING THIS ANYMORE
 # 	if fn in resandhify.to_do_list:
@@ -213,7 +221,7 @@ for fn in fns:
 # 		presegmentation_contents = resandhify.resandhify(presegmentation_contents)
 
 	# any remaining '-' must have been intentionally placed by me for segmentation
-	presegmentation_contents = presegmentation_contents.replace('-', ' ')
+	presegmentation_content = presegmentation_content.replace('-', ' ')
 
 # 	# use punctuation for more newlines
 # 	regex_replace = [
@@ -226,8 +234,6 @@ for fn in fns:
 # 		presegmentation_contents = re.sub(r_r[0], r_r[1], presegmentation_contents)
 #
 # 	# add further newlines to break up lines longer than 128 chars
-#
-# 	lines = presegmentation_contents.split('\n')
 #
 # 	lines2 = []
 # 	for line in lines:
@@ -242,11 +248,12 @@ for fn in fns:
 # 		for l in split_up_pieces:
 # 			lines2.append(l)
 #
-# 	print("number of lines for segmentation:", len(lines2))
-# S.line_count_for_seg = 0
+#	print("number of lines for segmentation:", len(lines2))
 #
 # 	presegmentation_contents = '\n'.join(lines2)
-#
+
+	postsegmentation_content = Spl.split(presegmentation_content, prsrv_punc=False)
+
 # 	# now, in order to do e.g. "from sanskrit import apply", would have to convert everything to python3
 # 	# instead, communicate with modified python3 'apply' file via external file i/o and subprocess
 # 	f_out = open('temp/temp2_resized_for_segmenter.txt','w')
@@ -265,7 +272,7 @@ for fn in fns:
 # 	postsegmentation_contents = (f_in.read()[:-1]).decode('utf-8')
 # 		# delete spurious final newline added by segmenter
 # 	f_in.close()
-#
+
 # 	# finish clean-up by removing newlines and punctuation, and replacing hyphen with space
 #
 # 	regex_replace = [
@@ -276,17 +283,30 @@ for fn in fns:
 # 	]
 # 	for r_r in regex_replace:
 # 		postsegmentation_contents = re.sub(r_r[0], r_r[1], postsegmentation_contents)
-#
+
+
 # 	# compare with starting number to get measure of resizing activity
 # 	print("final number of docs:", len(postsegmentation_contents.split('#')))
-#
-# 	# count tokens
-# 	num_tokens = postsegmentation_contents.count(' ') - postsegmentation_contents.count('#')
+
+	# count lines and tokens
+	megaS.word_split_line_count = Spl.line_count_during_split
+	megaS.token_count = Spl.token_count
+
 # 	print("final number of tokens:", num_tokens)
-# S.token_count = 0
-# 	# reincorporate treated content back into master Section object
-# 	megaS.doc_contents = postsegmentation_contents.split('#')
-#
+
+	# reincorporate treated content back into master Section object
+	# megaS.doc_contents = postsegmentation_content.split('#')
+	megaS.doc_contents = postsegmentation_content.split('\n')
+
+	# log
+	logging_path_suffix = '2_word-split_docs/'
+	full_logging_f_path = os.path.join(logging_path_prefix, logging_path_suffix, fn)
+	with open(full_logging_f_path ,'w') as f_out:
+		f_out.write('\n'.join(
+			[ id + '\t' + c for id, c in zip(megaS.doc_identifers, megaS.doc_contents) ]
+			)
+		)
+
 # 	# for debugging or illustration
 # 	f_out = open('temp/temp4_cleaned.txt','w')
 #  	f_out.write('\n'.join(megaS.doc_contents).encode('utf-8'))
@@ -308,8 +328,8 @@ for fn in fns:
 		fn,
 		str(megaS.doc_count_before_resize),
 		str(megaS.doc_count_after_resize),
-		"0",
-		"0"
+		str(megaS.word_split_line_count),
+		str(megaS.token_count)
 		]) + '\n'
 
 # final logging of stats
