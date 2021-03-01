@@ -82,7 +82,7 @@ class Section(object):
 			# delete (...), punctuation adjacent to numbers, numbers, quotation marks, extra spacing
 			['\([^\)]*?\)', ''],
 			['([\|/])+([\d\.,– ]+)(\\1)+', '\\1'],
-			['[\d"\t]', ''],
+			['[\d"“”\t]', ''],
 			[' {2,}', ' '],
 			# simplify multiple punctuation (also with intervening spaces)
 			['([\|/\.] ?)+', '\\1'],
@@ -122,6 +122,7 @@ for fn in fns:
 	regex_replacement = [
 		['<[^>]*?>', ''], # discard <...>
 		['\([^\)]*?\)', ''], # discard (...)
+		# ['\(([^\)]*?)\)', '\\1'], # keep (...)
 		['\n', ''], # discard all newlines
 		['\[[^\]]*?\]([\[{])', '\\1'], # discard [...] identifiers with no content (repeat!)
 		['{[^}]*?}{', '{'], # discard {...} labels with no content (repeat!)
@@ -201,7 +202,7 @@ for fn in fns:
 	# any remaining '-' must have been intentionally placed by me for segmentation
 	presegmentation_content = presegmentation_content.replace('-', ' ')
 
-	postsegmentation_content = Spl.split(presegmentation_content, prsrv_punc=False)
+	postsegmentation_content = Spl.split(presegmentation_content, prsrv_punc=True)
 
 	# count lines and tokens
 	megaS.word_split_line_count = Spl.line_count_during_split
