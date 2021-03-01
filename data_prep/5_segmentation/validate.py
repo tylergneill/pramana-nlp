@@ -8,9 +8,9 @@ output_bracketless = False # optional output to accompany verbose content valida
 prompt_update_json = False # option to accept all remaining "problem" ngrams and add to json
 
 max_ngram_len = 2 # anything above 3 seems like overkill, but starting with 2 for now
-flagged_ngrams_txt_fn = 'flagged_ngrams.txt'
-accepted_ngrams_json_fn = 'accepted_ngrams.json'
-bracketless_content_txt_fn = 'bracketless_content.txt'
+flagged_ngrams_txt_fn = 'validation_files/flagged_ngrams.txt'
+accepted_ngrams_json_fn = 'validation_files/accepted_ngrams.json'
+bracketless_content_txt_fn = 'validation_files/bracketless_content.txt'
 
 """
 structure validation functions
