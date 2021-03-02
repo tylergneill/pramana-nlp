@@ -90,15 +90,13 @@ def preclean_1(text):
 		Cleans up structure in anticipation of doc-resizing and word-splitting.
 	"""
 	regex_replacement = [
-		['([^\n])(\[[^\]]*?\])([^\n])', '\\1\\2'], # accept midline [...] editorial additions
-		['(\[[^\]]*?\])([^\n])', '\\1\\2'], # accept midline [...] editorial additions
-		['<[^>]*?>', ''], # discard <...> structural notes
+		['〈([^〉]*?)〉', '\\1'], # accept midline 〈...〉 editorial additions
 		['\([^\)]*?\)', ''], # discard (...) philological notes and editorial deletions
-		# ['\(([^\)]*?)\)', '\\1'], # keep (...)
+		['<[^>]*?>', ''], # discard <...> structural notes
 		['\n', ' '], # discard all newlines
-		['\[[^\]]*?\]([\[{])', '\\1'], # discard [...] identifiers with no content (repeat!)
-		['{[^}]*?}{', '{'], # discard {...} labels with no content (repeat!)
-		['(.){', '\\1\n{'], # create newline for each (non-file-initial) {...}
+		['\[[^\]]*?\]([\[{])', '\\1'], # discard [...] identifiers with no following content (repeat!)
+		['{[^}]*?}{', '{'], # discard {...} labels with no following [...] identifiers (or content) (repeat!)
+		['(.){', '\\1\n{'], # create newline for each (non-file-initial) {...} label
 	]
 	to_repeat = [
 		'\[[^\]]*?\]([\[{])',

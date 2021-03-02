@@ -5,7 +5,7 @@ import json
 mode = None # whether structure or content validation
 pause_between_problems = False # extra option for verbose structure validation
 output_bracketless = False # optional output to accompany verbose content validation
-prompt_update_json = False # option to accept all remaining "problem" ngrams and add to json
+prompt_update_ngrams = False # option to accept all remaining "problem" ngrams and add to json
 
 max_ngram_len = 2 # anything above 3 seems like overkill, but starting with 2 for now
 flagged_ngrams_txt_fn = 'validation_files/flagged_ngrams.txt'
@@ -191,8 +191,8 @@ def validate_content(raw_input_text, verbose=False):
 				) )
 				f_out.write('\n')
 
-		if prompt_update_json:
-			choice = input('remember all new ngrams (add to file \"%s\")? (Y/[n])' % accepted_ngrams_json_fn)
+		if prompt_update_ngrams:
+			choice = input('remember all new ngrams (add to file \"%s\")? (Y/[n]) ' % accepted_ngrams_json_fn)
 			if choice == 'Y':
 
 				# add new ngrams to dict
@@ -249,8 +249,8 @@ if __name__ == '__main__':
 	if "--output_bracketless" in sys.argv:
 		output_bracketless = True
 
-	if "--prompt_update_json" in sys.argv:
-		prompt_update_json = True
+	if "--prompt_update_ngrams" in sys.argv:
+		prompt_update_ngrams = True
 
 	with open(fn,'r') as f_in:
 		raw_input_text = f_in.read()
