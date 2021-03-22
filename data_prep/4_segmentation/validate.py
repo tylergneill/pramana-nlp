@@ -17,14 +17,14 @@ structure validation functions
 
 together ensure proper bracket pairing
 """
-
-empty_bracket_pair_regex = '(\[\])|({})|(<>)|(\(\))'
-full_bracket_pair_regex = '(\[[^\]{}<>\(\)]*?\])|({[^\[\]}<>\(\)]*?})|(<[^\[\]{}>\(\)]*?>)|(\([^\[\]{}<>\)]*?\))'
+abs = '\[\]{}<>\(\)〈〉' # all_brackets_string
+empty_bracket_pair_regex = '(\[\])|({})|(<>)|(\(\))|(〈〉)'
+full_bracket_pair_regex = '(\[[^%s]*?\])|({[^%s]*?})|(<[^%s]*?>)|(\([^%s]*?\))' % tuple([abs]*4)
 
 def view_problem_brackets(problem_brackets, raw_input_text):
 
-	lefts = ['[', '{', '<', '(']
-	rights = [']', '}', '>', ')']
+	lefts = ['[', '{', '<', '(', '〈']
+	rights = [']', '}', '>', ')', '〉']
 	l_rs = zip(lefts,rights)
 	corr_memb = {}
 	for l, r in l_rs: corr_memb[l] = r; corr_memb[r] = l
@@ -54,7 +54,7 @@ def validate_structure(raw_input_text, verbose=False):
 
 	# if verbose: check_clean_surroundings(raw_input_text)
 
-	brackets_only = re.sub('[^\[\]{}<>\(\)]', '', raw_input_text) # remove all chars besides brackets
+	brackets_only = re.sub('[^\[\]{}<>\(\)〈〉]', '', raw_input_text) # remove all chars besides brackets
 
 	# remove valid empty bracket pairs, iteratively in case nested
 	# leave behind only unsearched bracket chars

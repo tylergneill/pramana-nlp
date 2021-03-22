@@ -1,0 +1,28 @@
+{
+
+"common": {
+
+	"bhāsarvajña_nyāyabhūṣaṇa" : "NBhū",
+	"vātsyāyana_nyāyabhāṣya" : "NBh",
+	"uddyotakara_nyāyavārttika" : "NV",
+	"dharmakīrti_pramāṇavārttikasvavṛtti" : "PVSV",
+	"dharmakīrti_pramāṇavārttika" : "PV",
+	"dharmakīrti_pramāṇaviniścaya" : "PVin",
+	"dharmakīrti_hetubindu" : "HB",
+	"prajñākaragupta_pramāṇavārttikālaṅkāra" : "PVA",
+	"jayarāśi_tattvopaplavasiṃha" : "TUS",
+	"dignāga_pramāṇasamuccaya" : "PS",
+	"kumārila_ślokavārttika" : "ŚV",
+	"vasubandhu_viṃśatikāvṛtti" : "Viṃś",
+	"kaṇāda_vaiśeṣikasūtra" : "VS",
+	"jaimini_mīmāṃsāsūtra" : "MS",
+	"nāgārjuna_mūlamadhyamakakārikā" : "MMK",
+	"vyomaśiva_vyomavatī" : "VyV",
+	"jayantabhaṭṭa_nyāyakalikā" : "NyKal",
+	"paṇḍitāśoka_avayavinirākaraṇa" : "AvNir"
+	
+},
+
+"cts": { }
+
+}

@@ -1,6 +1,10 @@
 """
-	Input: Multiple .txt with [...]/{...} document candidates and <...>/(...) notes
-	Output: Single .cex with identifiers and modified document contents.
+	Input: Multiple .txt files with:
+		[...]/{...} document candidate and candidate grouping markers,
+		<...>/(...) structural notes (no distinction), and
+		(...)/〈...〉 editorial notes (subtract and add, respectively).
+	Output: Single .cex file with two-column #!ctsdata block, with rows:
+		identifier	#	modified document contents (resized, split)
 
 	Algorithm (logging and some other small details omitted):
 
@@ -10,8 +14,9 @@
 
 			1) doc_prep
 
-			Remove <...>/(...) notes
-			Remove [...] identifiers and {...} labels not followed by content
+			Flatten editorial changes to post-correction (remove (...), keep 〈...〉)
+			Remove <...>/(...) structural notes
+			Remove [...] and {...} markers not followed by content
 			Split into {...} sections
 			For each {...} section:
 				Split into [...] document candidates
@@ -20,19 +25,20 @@
 			2) word_split
 
 			Create global newline-separated buffer with all document contents
-			Use single SplitterWrapper call to word-split file contents (can also maintain most punctuation)
-				Wrapper first splits on all punctuation
-				Wrapper also splits again wherever len > 128
-				Splits words
-				Reassembles saved line-breaks (& punctuation) and returns result
+			Use single SplitterWrapper call to word-split file contents
+				Wrapper first splits string on all punctuation
+				Wrapper then splits string again wherever len > 128
+				Splitter then splits Sanskrit words
+				Wrapper returns reassembled string
+					(now sans punctuation and Splitter symbols -, =)
 
 			3) finalize_cex
 
-			Remove punctuation and Splitter symbols (-, =)
-			Extend identifiers according to CTS
+			Extend identifiers according to lookup table
+				(with either common abbreviation or CTS protocol)
 			Append results to buffer for .cex #!ctsdata block
 
-		Combine and save results to .cex file in data/output/pramana-nlp_TIMESTAMP.cex
+		Save buffer to data/output/pramana-nlp_TIMESTAMP.cex
 
 """
 
@@ -40,6 +46,8 @@ import sys
 import os.path
 import re
 import subprocess
+import json
+import time, datetime
 
 from skrutable.splitter.wrapper import Splitter
 
@@ -48,6 +56,12 @@ from validate import validate_structure, validate_content
 
 input_path = 'data/input/'
 output_path = 'data/output/'
+
+text_abbreviations_config_path = 'data/text_abbreviations.json'
+
+with open(text_abbreviations_config_path,'r') as config_file:
+	text_abbreviations = json.loads( config_file.read() )
+abbrv_type_pref = "common"
 
 logging_path_prefix = 'data/output/logging/'
 
@@ -62,18 +76,16 @@ def log(logging_path_suffix, all_doc_identifiers, all_doc_contents):
 stats_buffer = '\t'.join([
 	"filename", "docs_orig", "docs_resized", "seg_lines", "tokens"
 	]) + '\n' # stats.tsv spreadsheeet header
-# cex_buffer = '#!ctsdata\n' # .cex file header
+cex_buffer = '#!ctsdata\n' # .cex file header
 
 class Section(object):
 
 	def __init__(self):
-		self.section_label = ''
+		self.section_label = ''				# currently stored but not used
 		self.doc_identifiers = []
 		self.doc_contents = []
-		self.doc_count_before_resize = 0
-		self.doc_count_after_resize = 0
-		self.word_split_line_count = 0
-		self.token_count = 0
+		self.doc_count_before_resize = 0	# for logging
+		self.doc_count_after_resize = 0		# for logging
 
 	def resize_docs(self):
 		"""
@@ -133,7 +145,7 @@ fns = os.listdir(input_path)
 fns.sort()
 for fn in fns:
 
-	if fn in ['.DS_Store']: continue # skip those macOS rascals
+	if fn in ['.DS_Store', '.gitkeep']: continue # skip hidden rascals
 
 	"""
 	1) doc_prep
@@ -149,13 +161,13 @@ for fn in fns:
 
 	success = validate_structure(text)
 	if not(success):
-		import pdb; pdb.set_trace()
-		# maybe create setting for default action here
+		choice = input("%s did not validate (structure). continue? (Y\\n) " % fn)
+		if choice.lower() in ["n", "no"]: exit()
 
 	success = validate_content(text)
 	if not(success):
-		import pdb; pdb.set_trace()
-		# maybe create setting for default action here
+		choice = input("%s did not validate (content). continue? (Y\\n) " % fn)
+		if choice.lower() in ["n", "no"]: exit()
 
 	text = preclean_1(text)
 
@@ -218,7 +230,7 @@ for fn in fns:
 	presegmentation_content = presegmentation_content.replace('-', ' ')
 
 	# use Splitter
-	postsegmentation_content = Spl.split(presegmentation_content, prsrv_punc=True)
+	postsegmentation_content = Spl.split(presegmentation_content, prsrv_punc=False)
 
 	# can use some final cleaning...
 	postsegmentation_content = re.sub(' +', ' ', postsegmentation_content)
@@ -243,18 +255,31 @@ for fn in fns:
 	3) finalize_cex
 	"""
 
- 	# convert doc_identifiers to CTS URNS here...
-	# use tsv lookup table ...
+	text_name = fn[:fn.rfind('.txt')]
+	if text_name not in text_abbreviations[abbrv_type_pref].keys():
+		choice = input("abbreviation not found for %s. continue? (Y\\n) " % fn)
+		if choice.lower() in ["n", "no"]: exit()
 
-	# add all results to CTS file buffer ...
-	# simple join...
+	text_abbrv = text_abbreviations[abbrv_type_pref][text_name]
+
+	modified_ids = [text_abbrv + '_' + id for id in all_doc_identifiers]
+
+	for id, content in zip(modified_ids, all_doc_contents):
+		id = re.sub('[\[\]]','', id) # finally remove square brackets
+		cex_buffer += id + '#' + content + '\n'
 
 # output stats for all files
 full_logging_f_path = os.path.join(logging_path_prefix, 'stats.tsv')
 with open(full_logging_f_path ,'w') as f_out:
 	f_out.write(stats_buffer)
 
-# output .cex combining all data
+finish_time_obj = datetime.datetime.now()
+finish_time_str = finish_time_obj.strftime("%Y-%m-%d-%H-%M")
 
-# # audibly celebrate finished processing of all files
-# import time; time.sleep(1); subprocess.call("afplay segmenter/yaas3.mp3", shell='True')
+cex_output_f_path = os.path.join(output_path, 'pramana-nlp_%s.cex' % finish_time_str)
+with open(cex_output_f_path, 'w') as f_out:
+	f_out.write(cex_buffer)
+
+# celebrate
+time.sleep(1)
+subprocess.call("afplay yaas3.mp3", shell='True')

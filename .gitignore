@@ -1,3 +1,6 @@
 .DS_Store
 .~lock*
 segmenter/data/
+data_prep/5_segmentation/data
+data_prep/5_segmentation/validation_files
+__pycache__
