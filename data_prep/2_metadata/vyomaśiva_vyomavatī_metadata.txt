@@ -1,0 +1,27 @@
+File Source: new digitization from PDF (vol 2 on Archive.org, vol 1 via private exchange)
+
+
+Edition: Gaurinath Sastri, 1984
+
+
+Extent: complete
+
+
+Input by: Tyler Neill and Jungju Seo (proofreading ongoing; utilizing occasional cross-reference to 1925 Gopinath Sastri edition; typos corrected silently and recorded elsewhere)
+
+
+Structural Notes: 
+
+1) This text consists of Vyomaśiva's commentary Vyomavatī on the prose Padārthadharmasaṃgraha of Praśastapāda. The Vyomavatī quotes the PDhS with pratīkas, and this is marked in the edition by asterisks (e.g. vol. I, p. 42, “*pṛthivyādīnām* ityādi” ). The full statement of PDhS material before correpsonding commentary is therefore interpreted as added by the editor and as such marked as a removable quoted material in parentheses and quotation marks like (“...”).
+
+Document candidates were generated prose paragraphs. Identifiers [...] are by edition page and line number.
+
+Document candidate grouping labels {...} are given by headers supplied by the editor.
+
+
+Other Important Notes: 
+
+(none)
+
+
+(numerous other details recorded elsewhere)

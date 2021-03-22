@@ -1,4 +1,4 @@
-File Source: private collection of Eli Franco
+File Source: private exchange
 
 
 Edition: Dvārikādāsa Śāstrī, Vārāṇasī 1978
@@ -7,15 +7,12 @@ Edition: Dvārikādāsa Śāstrī, Vārāṇasī 1978
 Extent: complete
 
 
-Input by: Helmut Krasser (missing Arthāpattipariccheda added by TGN)
+Input by: Helmut Krasser (missing Arthāpattipariccheda "5.8" added by Tyler Neill)
 
 
 Structural Notes: 
 
-The following overview is supplied in Krasser's source file, to which I have added only an artifical numbering of sections and subsections. (I was not sure whether the Vṛttikāragrantha consists of two parts or not.)
-
-Overview:
-corresponding pages given for (Dvārikādāsa Śāstrī edition) and {Jhā translation}
+The following overview, with {corresponding pages for Jhā's translation}, was supplied in Krasser's source file. I have added an artifical numbering of sections and subsections (I was not sure whether the Vṛttikāragrantha consists of two parts or not.) and the column of (Dvārikādāsa Śāstrī edition page numbers).
 
 1 pratijñāsūtra (PJS)					(3)		{1}
 2 codanāsūtra (CDS) 					(34)	{21}

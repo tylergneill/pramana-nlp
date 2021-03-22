@@ -1,0 +1,38 @@
+File Source: IKGA website (Austrian Academy of Sciences)
+
+
+Edition: Ernst Steinkellner 2005 online document (“hypothetical reconstruction of the Sanskrit text with the help of the two Tibetan translations on the basis of the hitherto known Sanskrit fragments and the linguistic materials gained from Jinendrabuddhi's Tīkā”)
+
+
+Extent: Chapter 1 (Pratyakṣa) only, out of 5 total (2 Svārthānumāna, 3 Parārthānumāna, 4 Dṛṣṭāntaparīkṣā, 5 Anyāpoha)
+
+
+Input by: Tyler Neill (exported from PDF to text, cleaned, 2012 "revision" changes added manually)
+
+
+Structural Notes: 
+
+1) Includes Dignāga's Vṛtti written as continuous with PS verses (44 in number). PS verses marked with tab, '/', '//', and, in the case of partial verses, '...' and additional tabs.
+
+2) Document candidates [...] generated from indented prose paragraphs. Decisions about affiliation of verse material with paragraphs made on basis of analytic outline. Document identifiers are by page and line number of this 2005 edition.
+
+4) Document candidate grouping labels {...} based on major sections in analytic outline:
+	0	maṅgala 1,1-13
+	1	pramāṇasaṅkhyā 1,14-2,5
+	<2. pramāṇasvarūpa>
+	<2.1 pratyakṣa>
+	2.11	svamata 2,6-5,15
+	<2.12 Refutation of other theories>
+	2.121	vasubandhuvādavidhi 5,17-7,5
+	2.122	nyāya 7,6-9,27
+	2.123	vaiśeṣika 9,28-13,28
+	2.124	sāṅkhya 14,1-19,19
+	2.125	mīmāṃsā 19,20-23,15
+
+
+Other Important Notes: 
+
+1) Editorial notes (e.g., supplied words, alternate readings, reconstruction caveats) currently not yet included.
+
+
+(numerous other details recorded elsewhere)

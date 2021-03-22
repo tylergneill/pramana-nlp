@@ -1,4 +1,5 @@
 {1}
+<pratijñāsūtra (PJS)>
 [1.1ab]	viśuddhajñānadehāya trivedīdivyacakṣuṣe /
 [1.1cd]	śreyaḥprāptinimittāya namaḥ somārdhadhāriṇe //
 [1.2ab]	abhivandya gurūnādau śiṣyadhīpadminīravīn /
@@ -24,7 +25,7 @@
 [1.12ab]	sarvasyaiva hi śāstrasya karmaṇo vāpi kasya cit /
 [1.12cd]	yāvat prayojanaṃ noktaṃ tāvat tat kena gṛhyate //
 [1.13ab]	mīmāṃsākhyā tu vidyeyaṃ bahuvidyāntarāśritā /
-[1.13cd]	na śuśrūṣayituṃ śkyā prāganuktvā prayojanam //
+[1.13cd]	na śuśrūṣayituṃ śakyā prāganuktvā prayojanam //
 [1.14ab]	vidyāntareṣu nāpy etad yady abhīṣṭaṃ prayojanam /
 [1.14cd]	anarthaprāpaṇaṃ tāvat tebhyo nāśaṅkyate kva cit //
 [1.15ab]	mīmāṃsāyāṃ tv ihājñāte durjñāte vāvivekataḥ /
@@ -39,7 +40,7 @@
 [1.19cd]	tasmāt sarveṣu śāstreṣu sambandhaḥ pūrvam ucyate //
 [1.20ab]	yāvat prayojanenāsya sambandho nābhidhīyate /
 [1.20cd]	asambaddhapralāpitvād bhavet tāvad asaṃgatiḥ //
-[1.21ab]	iha tv ākṣipya sambandhaṃ bhāṣya evābhihdhāsyate /
+[1.21ab]	iha tv ākṣipya sambandhaṃ bhāṣya evābhidhāsyate /
 [1.21cd]	dharmaprasiddhyasiddhibhyāṃ, tasmān nānyo 'bhidhīyate //
 [1.22ab]	na cāpy atrāthaśabdena śāstrasambandha ucyate /
 [1.22cd]	sambandhaṃ kriyayor hy eṣa brūte śāstrāc ca te pṛthak //
@@ -183,7 +184,7 @@
 [1.91cd]	granthagrahaṇamātre ca kṛte snānaṃ virudhyate //
 [1.92ab]	adhītyetyadhigamyeti vyākhyāne tv avirodhitā /
 [1.92cd]	yas tv evamavirodhitvaṃ kurvannāplavanaṃ vadet //
-[1.93ab]	adṣṭāyātha vāpy anyaḥ saṃskāraṃ tasya cottaram /
+[1.93ab]	adṛṣṭāyātha vāpy anyaḥ saṃskāraṃ tasya cottaram /
 [1.93cd]	ihāsnānādiniyamo yaḥ kṛto brahmacāriṇaḥ //
 [1.94ab]	avidhitvam anāśritya so 'vasānam apekṣate /
 [1.94cd]	tato 'pekṣāvaśāt snānam asnānādinivartanam //
@@ -256,6 +257,7 @@
 [1.128ab]	ke cid āhur asāv arthaḥ, ke cin nāsāv ayaṃ tv iti /
 [1.128cd]	tannirṇayārtham apy etat paraṃ śāstraṃ praṇīyate //
 {2}
+<codanāsūtra (CDS)>
 [2.1ab]	dharme sāmānyataḥ siddhe pramāṇaṃ codanocyate /
 [2.1cd]	svarūpādes tataḥ siddhaḥ, svarūpaṃ ceha sūtryate //
 [2.2ab]	dvayam ekena sūtreṇa śrutyarthābhyāṃ nirūpyate /
@@ -508,7 +510,7 @@
 [2.125cd]	pūrvajñānānuvāditvaṃ dṛṣṭāntavad iheṣyatām //
 [2.126ab]	api cālaukikārthatve sati puṃvākyahetukam /
 [2.126cd]	mithyātvaṃ bauddhavākyānāṃ syād anyonyaṃ sapakṣataḥ //
-[2.127ab]	dharmādharmātiriktārthe prāmāṇyaṃa ca prasajyate /
+[2.127ab]	dharmādharmātiriktārthe prāmāṇyaṃ ca prasajyate /
 [2.127cd]	sāṃkhyādiṣu ca jīvatsu dṛṣṭānto durlabho 'sya ca /
 [2.128ab]	alaukikārthavācitvaṃ nṛvākyatve satīti ca /
 [2.128cd]	parasparam apekṣyaiva bauddhādeḥ syān mṛṣārthatā //
@@ -830,11 +832,13 @@
 [2.286cd]	viśeṣaṇād vinā caitadarthasāmarthyakāritam //
 [2.287ab]	kathyate bhāṣyakāreṇa phalaṃ hiṃsādivarjanam //
 {3}
+<nimittasūtra (NMS)>
 [3.1ab]	pratijñāvyatirekeṇa bhāṣyakāreṇa yady api /
 [3.1cd]	vakṣyamāṇā svapakṣasya yuktiḥ pūrvaṃ nidarśitā //
 [3.2ab]	pratijñāmātram ityetajjaiminer matam ucyate /
 [3.2cd]	vṛttikāro 'dhikaṃ vāpi bhūtādi dvāram abravīt //
 {4}
+<pratyakṣasūtra (PAS)>
 [4.1ab]	varṇyate sūtrabhedena yena pratyakṣalakṣaṇam /
 [4.1cd]	tena sūtrasya sambandho vācyaḥ pūrvapratijñayā //
 [4.2ab]	lakṣaṇasyābhidhānaṃ tu kenāṃśenopayujyate /
@@ -901,7 +905,7 @@
 [4.32cd]	na niścayāya paryāptā tathā syād yoginām api //
 [4.33ab]	avidyamānasaṃyogāt syāc cet pratyakṣadhīḥ kva cit /
 [4.33cd]	bhaviṣyaty api dharme syāc chaktety āha sad ity ayam //
-[4.34ab]	pratyakṣaḥ prāganuṣtānān na dharmo 'nuṣṭhito 'pi vā /
+[4.34ab]	pratyakṣaḥ prāganuṣṭhānān na dharmo 'nuṣṭhito 'pi vā /
 [4.34cd]	phalasādhanarūpeṇa tadānīṃ yena nāsty asau //
 [4.35ab]	asmatpratyakṣavac cāpi vidyamānopalambhanam /
 [4.35cd]	pratyakṣaṃ dhyāyināṃ dharme pratyakṣatvāc ca neṣyate //
@@ -1004,7 +1008,7 @@
 [4.84ab]	sambaddhaṃ vartamānaṃ ca grahyate cakṣurādinā /
 [4.84cd]	sāmānyaṃ vā viśeṣo vā grāhyaṃ nāto 'tra kalpyate //
 [4.85ab]	lakṣaṇaṃ yac ca yair uktaṃ pratyakṣe laukike sati /
-[4.85cd]	vidyamānopalambhiitvāt sarvasyaivānimittatā //
+[4.85cd]	vidyamānopalambhitvāt sarvasyaivānimittatā //
 [4.86ab]	nirvikalpakapakṣe tu sutarām animittatā /
 [4.86cd]	sādhyasādhanasambandho nāvikalpya hi gṛhyate //
 [4.87ab]	kathaṃ pratyakṣapūrvatvam anumānādi no bhavet /
@@ -1298,9 +1302,9 @@
 [4.231ab]	smaryete śabdasambandhau mā bhūt pratyakṣatā tayoḥ /
 [4.231cd]	tadapratyakṣabhāvena na tv arthasyāpi vāryate //
 [4.232ab]	gṛhītam api gotvādi smṛtispṛṣṭaṃ ca yady api /
-[4.232cd]	tathāpi vyatirekeṇ apūrvabodhāt pratīyate //
+[4.232cd]	tathāpi vyatirekeṇa pūrvabodhāt pratīyate //
 [4.233ab]	vyaktikālādibhedena tatrāsty avasaro miteḥ /
-[4.233cd]	yaḥ pūrvāvagatoṃ 'śo 'tra sa na nāma pramīyate //
+[4.233cd]	yaḥ pūrvāvagato 'ṃśo 'tra sa na nāma pramīyate //
 [4.234ab]	idānīn tanam astitvaṃ na hi pūrvadhiyā gatam /
 [4.234cd]	na hi smaraṇato yatprāk tat pratyakṣam itīdṛśam //
 [4.235ab]	vacanaṃ rājakīyaṃ vā vaidikaṃ vāpi vidyate /
@@ -1343,7 +1347,9 @@
 [4.253cd]	tenaiva sati sambandhe pratyakṣaṃ nānyathā bhavet //
 [4.254ab]	evaṃ samāne 'pi vikalpamārge yatrākṣasambandhaphalānusāraḥ /
 [4.254cd]	pratyakṣatā tasya tathā ca loke vināpyado lakṣaṇataḥ prasiddham //
+<5 autpattikasūtra>
 {5,1}
+<vṛttikāragrantha (VKG)>
 [5,1.1ab]	pratyakṣādau niṣiddhe 'pi nanu lokaprasiddhitaḥ /
 [5,1.1cd]	dharmādharmau pramāsyete brāhmaṇādivivekavat //
 [5,1.2ab]	dhārmikādhārmikatvābhyāṃ pīḍānugrahakāriṇau /
@@ -1358,7 +1364,7 @@
 [5,1.6cd]	mlecchāryāṇāṃ prasiddhatvaṃ na dharmasyopapadyate //
 [5,1.7ab]	na cāryāṇāṃ viśeṣo 'sti yāvacchāstram anāśritam /
 [5,1.7cd]	tanmūlārthaprasiddhis tu tatprāmāṇye sthite bhavet //
-[5,1.8ab]	tasmād abhāvaktrasthau dharmādarmau na śknuyāt /
+[5,1.8ab]	tasmād abhāvaktrasthau dharmādarmau na śaknuyāt /
 [5,1.8cd]	codanā cet samuddhartuṃ grastau tenaiva paśyatām //
 [5,1.9ab]	upadeśo hi bhavati jñānaṃ tasyeti yojyate /
 [5,1.9cd]	jñāyate yena tajjñānam ekādhikaraṇatvataḥ //
@@ -1370,12 +1376,13 @@
 [5,1.12cd]	sādhyasādhanasambandhaḥ sarvākhyāteṣu vidyate //
 [5,1.13ab]	sarvavākyeṣu cākhyātaṃ tenākāṅkṣānivartanāt /
 [5,1.13cd]	pravṛttisiddhir icchātaḥ, pratiṣedhāt tu varjanam //
-[5,1.14ab]	vidhāvanāśrite sāhdyaḥ puruṣārtho na labhyate /
+[5,1.14ab]	vidhāvanāśrite sādhyaḥ puruṣārtho na labhyate /
 [5,1.14cd]	śrutasvargādibādhena dhātvarthaḥ sādhyatāṃ vrajet //
 [5,1.15ab]	vidhau tu tam atikramya svargādeḥ sādhyateṣyate /
 [5,1.15cd]	tatsādhanasya dharmatvam evaṃ sati ca labhyate //
 [5,1.16ab]	svapratyayāntarāpekṣā syād anāptanaroktiṣu /
 [5,1.16cd]	āptoktiṣu narāpekṣā nobhayaṃ codanāsu naḥ //
+<5.2>
 [5,1.17ab]	ādiśabdo makārāntaḥ, luki kleśena saṅgatiḥ /
 [5,1.17cd]	nañadhyāhriyate sūtre, saṅkarāt paricodanā //
 [5,1.18ab]	pramāṇalakṣaṇājñānād vyabhicārāt parīkṣaṇam /
@@ -1397,6 +1404,7 @@
 [5,1.26ab]	svataḥ prāmāṇyataś cātra nirṇayo 'stitvabodhanāt /
 [5,1.26cd]	tadrūpapratyayotpattes tadasadvādinām api //
 {5,3}
+<nirālambanavāda (NAV)>
 [5,3.1ab]	pramāṇatvāpramāṇatve puṇyapāpādi tatphalam /
 [5,3.1cd]	vidhyarthavādamantrārthanāmadheyādikalpanā //
 [5,3.2ab]	sarveṣu lakṣaṇeṣv evaṃ svapramāṇagaṇaiḥ sthitiḥ /
@@ -1413,7 +1421,7 @@
 [5,3.7cd]	virodhāt, na hi vṛkṣatvaṃ sāmānyaṃ vṛkṣasiṃhayoḥ //
 [5,3.8ab]	tulyārthatve 'pi tenaiṣāṃ mithyāsaṃvṛtiśabdayoḥ /
 [5,3.8cd]	vañcanārtha upanyāso lālāvaktrāsavādivat //
-[5,3.9ab]	nāstikyaparihārāṛthaṃ saṃvṛtiḥ, kalpaneti ca /
+[5,3.9ab]	nāstikyaparihārārthaṃ saṃvṛtiḥ, kalpaneti ca /
 [5,3.9cd]	kalpanāpi tv abhinnasya naiva nirvastuke bhavet //
 [5,3.10ab]	tasmād yan nāsti nāsty eva, yat tv asti paramārthataḥ /
 [5,3.10cd]	tat satyam anyanmithyeti, na satyadvayakalpanā //
@@ -1421,7 +1429,7 @@
 [5,3.11cd]	tannivṛttyartham eveha paramārthe kaś cit pravartate //
 [5,3.12ab]	na hi svapnasukhādyarthaṃ dharme kaś cit pravartate /
 [5,3.12cd]	yādṛcchikatvāt svapnasya tūṣṇīmāsyeta paṇḍitaiḥ //
-[5,3.13ab]	paramāṛthaphalāvāptim icchadbhis tena yatnataḥ /
+[5,3.13ab]	paramārthaphalāvāptim icchadbhis tena yatnataḥ /
 [5,3.13cd]	pratipattir vidhātavyā yuktibhir bāhyavastuṣu //
 [5,3.14ab]	tatrārthaśūnyaṃ vijñānaṃ yogācārāḥ samāśritāḥ /
 [5,3.14cd]	tasyāpy abhāvam icchanti ye mādhyamikavādinaḥ //
@@ -1441,10 +1449,10 @@
 [5,3.21cd]	tadatadyogajanyasya vibhāgas tena durlabhaḥ //
 [5,3.22ab]	mithyātvaṃ yad dvidhaivoktaṃ nāyathety atra cocyate /
 [5,3.22cd]	sarvasyaiva ca mithyātve kiṃ viśiṣyābhidhīyate //
-[5,3.23ab]	stambhādipratyayo miththayā pratyayatvāt tathā hi yaḥ /
+[5,3.23ab]	stambhādipratyayo mithyā pratyayatvāt tathā hi yaḥ /
 [5,3.23cd]	pratyayaḥ sa mṛṣā dṛṣṭaḥ svapnādipratyayo yathā //
 [5,3.24ab]	siddhasādhanabhāvo 'ṃśe dṛṣṭāntābhāva eva ca /
-[5,3.24cd]	mā bhūtām evaśabdaś ca vyaartho 'śeṣaprasādhane //
+[5,3.24cd]	mā bhūtām evaśabdaś ca vyartho 'śeṣaprasādhane //
 [5,3.25ab]	sarva eveti tenātra jāgradbuddhiparigrahaḥ /
 [5,3.25cd]	svāṃśābhyupagamāc cāpi bāhyagrāhyanivāraṇam //
 [5,3.26ab]	pratyayasyeti sādhyāṃśavyāptahetunidarśanam /
@@ -1550,7 +1558,7 @@
 [5,3.76ab]	tadanyasya pratijñā cet, tadanyapratyayo mṛṣā /
 [5,3.76cd]	tanmithyātvaprasaṅge ca sarvaṃ pūrva na sidhyati //
 [5,3.77ab]	stambhādisādhanajñānabhedo na hi tathā bhavet /
-[5,3.77cd]	yāvad yāvat pratijñeyaṃ tadangasya pratīyate //
+[5,3.77cd]	yāvad yāvat pratijñeyaṃ tadaṅgasya pratīyate //
 [5,3.78ab]	tāvat tāvat pareṣāṃ syān mithyātvād anyabādhanam /
 [5,3.78cd]	viruddhāvyabhicāritvaṃ bādho vāpy anumānataḥ //
 [5,3.79ab]	itthaṃ sarveṣu pakṣeṣu vaktavyaṃ pratisādhanam /
@@ -1640,7 +1648,7 @@
 [5,3.121ab]	tava sādhyāṃśahetvaṃśavyāptadharmādisambhavaḥ /
 [5,3.121cd]	ke cid vaidharmyadṛṣṭānto nāstīty apy anuyuñjate //
 [5,3.122ab]	tadabhāvād avṛtteś ca nāsty atrāvasaras tava /
-[5,3.122cd]	vidhirūpapratijñāyām etad vaktuṃ hi śkyate //
+[5,3.122cd]	vidhirūpapratijñāyām etad vaktuṃ hi śakyate //
 [5,3.123ab]	tatrāvastuvipakṣe 'pi prayogasya hi sambhavaḥ /
 [5,3.123cd]	yasminn anityatā nāsti kāryatāpi na vidyate //
 [5,3.124ab]	tasmin, yathā khapuṣpādāv iti śakyaṃ hi bhāṣitum /
@@ -1703,7 +1711,7 @@
 [5,3.152cd]	sādhyasyāsambhavād eva tvaduktaṃ nāvabudhyate //
 [5,3.153ab]	tenāśeyaṃ na kartavyā mohād api mayerite /
 [5,3.153cd]	sādhane sādhanaṃ jñātvā para evāvabhotsyate //
-[5,3.154ab]	vispṣṭaś cākṣapādokto virodho hetusādhyayoḥ /
+[5,3.154ab]	vispaṣṭaś cākṣapādokto virodho hetusādhyayoḥ /
 [5,3.154cd]	yamadṛṣṭvā parair uktam adūṣaṇam idaṃ kila //
 [5,3.155ab]	nanu lokaprasiddhena pūrvam etena hetunā /
 [5,3.155cd]	sādhyasiddhir mamāpy āsīt paramārtho 'sya nāstitā //
@@ -1780,12 +1788,12 @@
 [5,3.191ab]	hastibuddhir bhavet tatra vailakṣaṇyān na vāsanā /
 [5,3.191cd]	tataḥ paraṃ ca gojñānaṃ nirmūlatvān na sambhavet //
 [5,3.192ab]	sarvaṃ vilakṣaṇaṃ jñānaṃ na syād eva vilakṣaṇāt /
-[5,3.192cd]	bāhyāṛthānugrahābhāvāt pārārthyenāvaśīkṛtāḥ //
+[5,3.192cd]	bāhyārthānugrahābhāvāt pārārthyenāvaśīkṛtāḥ //
 [5,3.193ab]	niranvayavināśinyaḥ kuryuḥ kāryaṃ kathaṃ kramāt /
 [5,3.193cd]	vināśe kāraṇasyeṣṭaḥ kāryārambhaś ca nānyathā //
 [5,3.194ab]	tataiva jñānanāśena vinaṣṭāḥ sarvavāsanāḥ /
 [5,3.194cd]	tena sarvābhya etābhyaḥ sarvākāraṃ yadutthitam //
-[5,3.195ab]	jñānam ekakṣaṇeniava vināśaṃ gantum arhati /
+[5,3.195ab]	jñānam ekakṣaṇenaiva vināśaṃ gantum arhati /
 [5,3.195cd]	yady āśrayavināśe 'pi śaktyanāśo 'bhyupeyate //
 [5,3.196ab]	kṣaṇikatvaṃ ca hīyeta na cārambho 'nyathā bhavet /
 [5,3.196cd]	vāsanānāṃ pravāho 'pi yadi jñānapravāhavat //
@@ -1801,7 +1809,8 @@
 [5,3.201ab]	yuktyānupetām asatīṃ prakalpya yadvāsanām arthanirākriyeyam //
 [5,3.202cd]	āsthānivṛttyarthamavādi bauddhair grāhaṃ gatās tatra kathañ cid anye //
 {5,4}
-[5,4.1ab]	evam ukte 'numānasya jñānam ācritya dūṣaṇe /
+<śunyavāda (SNV)>
+[5,4.1ab]	evam ukte 'numānasya jñānam āśritya dūṣaṇe /
 [5,4.1cd]	jñānapravṛttyaśaktyā tu paraḥ pratyavatiṣṭhate //
 [5,4.2ab]	yat tāvanmanyamānena pratyakṣaṃ bhavatocyate /
 [5,4.2cd]	dūṣaṇaṃ tadvirodhādi tadidānīṃ parīkṣyatām //
@@ -1833,7 +1842,7 @@
 [5,4.15cd]	tathāpy anādau saṃsāre pūrvajñānaprasūtibhiḥ //
 [5,4.16ab]	citrābhiś citrahetutvād vāsanābhir upaplavāt /
 [5,4.16cd]	svānurūpyeṇa nīlādi grāhyagrāhakarūṣitam //
-[5,4.17ab]	pravibhaktam ivotpannaṃ nānyam artham apkṣate /
+[5,4.17ab]	pravibhaktam ivotpannaṃ nānyam artham apekṣate /
 [5,4.17cd]	anyonyahetutā caiva jñānaśaktyor anādikā //
 [5,4.18ab]	anekakalpanāyāś ca jyāyasī hy ekakalpanā /
 [5,4.18cd]	śaktimātrasya bhedaś ca vastubhedād viśiṣyate //
@@ -1841,7 +1850,7 @@
 [5,4.19cd]	jyāyasī, bhavatas tv arthaṃ kalpayitvā bhaved iyam //
 [5,4.20ab]	tadasiddhāvaśaktatvāt, tenaivaṃ viprakṛṣṭatā /
 [5,4.20cd]	pratyāsannaṃ ca, sambaddhaṃ grāhyaṃ mama bhaviṣyati //
-[5,4.21ab]	itaś cākāravajjñānam, yasmāt tadvat prakāśakam1 /
+[5,4.21ab]	itaś cākāravajjñānam, yasmāt tadvat prakāśakam /
 [5,4.21cd]	svayamprakāśahīnasya bāhyasyopāsanaṃ matam //
 [5,4.22ab]	na cāgrhīte jñānākhye prakāśyo 'rtho 'vadhāryate /
 [5,4.22cd]	tadadhīnaprakāśatvād dīpābhāse yathā ghaṭaḥ //
@@ -2016,7 +2025,7 @@
 [5,4.107ab]	jñāne naivaṃvidho bhedo nāpekṣānyatra vidyate /
 [5,4.107cd]	paraspareṇa cāpekṣā syāc cet, sannihitaś ca saḥ //
 [5,4.108ab]	nanu grāhakam ityevaṃ grāhyam ity api vā matiḥ /
-[5,4.108cd]	nīlādigrahaṇe nāstīty apekṣā katham ucayte //
+[5,4.108cd]	nīlādigrahaṇe nāstīty apekṣā katham ucyate //
 [5,4.109ab]	mā bhūd evaṃ tathāpy atra dvyākāre grahaṇaṃ bhavet /
 [5,4.109cd]	evaṃ cāgṛhyamāṇe vā jñāne dvyākāratā katham //
 [5,4.110ab]	uttarottaravijñānaviśeṣād yā prakalpyate /
@@ -2046,7 +2055,7 @@
 [5,4.122ab]	grāhyagrāhakayor bhedo nanv asty eva parasparam /
 [5,4.122cd]	siddho naḥ pakṣa evaṃ syāt, na, jñānatvād abhedataḥ //
 [5,4.123ab]	bhinnābhinnatvam ekasya kuto 'tra parikalpitam /
-[5,4.123cd]	tvayā sāmkhyamatenaivam uktvā buddhasya śāsanam //
+[5,4.123cd]	tvayā sāṃkhyamatenaivam uktvā buddhasya śāsanam //
 [5,4.124ab]	ekaṃ ced grāhakaṃ grāhyaṃ kuto bhinnatvavāgiyam /
 [5,4.124cd]	bhinnaṃ cet katham ucyeta tasyaikatvaṃ punas tvayā //
 [5,4.125ab]	ekajñānād ananyatvād grāhyagrāhakayor mithaḥ /
@@ -2308,7 +2317,7 @@
 [5,4.253ab]	deśakālanimittāni vyañjakānyarthavādinaḥ /
 [5,4.253cd]	śaktīnāṃ kāraṇasthānāṃ svakāryaniyamaṃ prati //
 [5,4.254ab]	śaktayo 'pi ca bhāvānāṃ kāryārthāpattikalpitāḥ /
-[5,4.254cd]	prasiddhāḥ pāramārthikyaḥ pratikāryaṃ vyavsthitāḥ //
+[5,4.254cd]	prasiddhāḥ pāramārthikyaḥ pratikāryaṃ vyavasthitāḥ //
 [5,4.255ab]	bhavatas tu na vijñānād bhinnābhinnā nirūpyate /
 [5,4.255cd]	śaktiḥ saṃvṛtisadbhāvam utsṛjya paramārthataḥ //
 [5,4.256ab]	vāsanaiva ca yuṣmābhiḥ śaktiśabdena gīyate /
@@ -2329,6 +2338,7 @@
 [5,4.264ab]	iti bahirviṣayapratipādanād tadabhāvakṛtā matisaṃvṛtiḥ /
 [5,4.264cd]	ubhayatattvavidāṃ paramārthataḥ, kṣamam idaṃ dhuri dharmavicāraṇe //
 {5,5}
+<anumānapariccheda (AMP)>
 [5,5.1ab]	pratyakṣāvyabhicāritvād evaṃlakṣaṇakaṃ ca yat /
 [5,5.1cd]	prasiddham anumānādi na parīkṣyaṃ tad apy ataḥ //
 [5,5.2ab]	pramātā jñātasambandhaḥ, ekadeśyatha vocyate /
@@ -2343,14 +2353,14 @@
 [5,5.6cd]	na hy anyathā bhavaty eṣā vyāpyavyāpakatā tayoḥ //
 [5,5.7ab]	vyāpakatvagṛhītas tu vyāpyo yady api vastutaḥ /
 [5,5.7cd]	ādhikye 'py aviruddhatvād vyāpyaṃ na pratipādayet //
-[5,5.8ab]	vispaṣṭaṃ dṛṣṭam etc ca goviṣāṇitvayor mitau /
+[5,5.8ab]	vispaṣṭaṃ dṛṣṭam etac ca goviṣāṇitvayor mitau /
 [5,5.8cd]	vyāpyatvād gamikā gāvo vyāpikā na viṣāṇitā //
 [5,5.9ab]	tena yatrāpy ubhau dhrmau vyāpyavyāpakasammatau /
 [5,5.9cd]	tatrāpi vyāpyataiva syād aṅgaṃ na vyāpitā miteḥ //
 [5,5.10ab]	tena dharmyantareṣv eṣā yasya yenaiva yādṛśī /
 [5,5.10cd]	deśe yāvati kāle vā vyāpyatā prāṅ nirūpitā //
 [5,5.11ab]	tasya tāvati tādṛk sa dṛṣṭo dharmyantare punaḥ /
-[5,5.11cd]	vyāpyāṃśo vyāpakāṃśasya tathaiva pratipādkaḥ //
+[5,5.11cd]	vyāpyāṃśo vyāpakāṃśasya tathaiva pratipādakaḥ //
 [5,5.12ab]	bhūyodarśanagamyā ca vyāptiḥ, sāmānyadharmayoḥ /
 [5,5.12cd]	jñāyate bhedahānena, kva cic cāpi viśeṣayoḥ //
 [5,5.13ab]	kṛttikodayamālakṣya rohiṇyāsattikḷptivat /
@@ -2368,7 +2378,7 @@
 [5,5.19ab]	jñānatvotpattimattvādisādhako naprayojakaḥ /
 [5,5.19cd]	traivarṇikaprayuktā ca yāgādeḥ svargahetutā //
 [5,5.20ab]	na manuṣyatvamātreṇa śūdrasthena prayujyate /
-[5,5.20cd]	kṛtasāvayavatvādiprayuktā ca niāśitā //
+[5,5.20cd]	kṛtasāvayavatvādiprayuktā ca vināśitā //
 [5,5.21ab]	prayatnānantarajñānasadṛśair na prayujyate /
 [5,5.21cd]	jātimattvendriyatvādi vastusanmātrabandhanam //
 [5,5.22ab]	śadānityatvasiddhyarthaṃ ko vaded yo na tārkikaḥ /
@@ -2386,7 +2396,7 @@
 [5,5.28ab]	na dharmamātraṃ siddhatvāt, tathā dharmī, tathobhayam /
 [5,5.28cd]	vyastaṃ vāpi samastaṃ vā svātantryeṇānumīyate //
 [5,5.29ab]	ekadeśasya liṅgatvaṃ sādhyenānugamo 'sya ca /
-[5,5.29cd]	dvayṃ ca na syād iṣṭaṃ sat pakṣeṣv eṣu yathākramam //
+[5,5.29cd]	dvayaṃ ca na syād iṣṭaṃ sat pakṣeṣv eṣu yathākramam //
 [5,5.30ab]	anityatvādayo dharmāḥ kṛtakatvādayo na hi /
 [5,5.30cd]	dhvaninānugamo naiṣāṃ nobhayasyobhayena vā //
 [5,5.31ab]	sambandho 'py anupādānān nāmnā ṣaṣṭhyāpi vā mitau /
@@ -2424,7 +2434,7 @@
 [5,5.47ab]	gṛhīte 'gniviśiṣṭasya punarjñānaṃ na duṣyati /
 [5,5.47cd]	tasmād dharmaviśiṣṭasya dharmiṇaḥ syāt prameyatā //
 [5,5.48ab]	sā deśasyāgniyuktasya, dhūmasyānyaiś ca kalpitā /
-[5,5.48cd]	nanu śabdavad eva sytāl liṅgamyaṃ viśiṣaṇam //
+[5,5.48cd]	nanu śabdavad eva syāl liṅgamyaṃ viśiṣaṇam //
 [5,5.49ab]	naivam, na hy atra liṅgasya śaktyanekatvakalpanā /
 [5,5.49cd]	na ca tasyānumeyatvam, viśeṣyaś cāvadhāritaḥ //
 [5,5.50ab]	viśiṣṭatvena cājñānāt tanmātrasyānumeyatā /
@@ -2706,6 +2716,7 @@
 [5,5.188ab]	sāmānyarupeṇa na gṛhyate cet, kiṃ vāstyasādhāraṇabuddhir atra /
 [5,5.188cd]	yadvastu lokaḥ pratipadyate 'smin dvidhāpi tacchaktyata eva vaktum //
 {5,6}
+<śabdapariccheda (SBP)>
 [5,6.1ab]	pratyakṣādiṣu vaktavyaṃ śabdamātrasya lakṣaṇam /
 [5,6.1cd]	adatitvariteneha kiṃ śāstrād abhidhīyate //
 [5,6.2ab]	sāmānyalakṣaṇaṃ tyaktvā viśeṣasyaiva lakṣaṇam /
@@ -2824,9 +2835,9 @@
 [5,6.58cd]	yatrāpi te pratīyante tatra vyakter viśeṣaṇam //
 [5,6.59ab]	padāntarābhidheyasya tādarthyāc ca kriyātmanaḥ /
 [5,6.59cd]	vākyārthe 'pi padaṃ yatra gomadādi prayujyate //
-[5,6.60ab]	saty apy atra viśeṣṭatve siddhatvān naivaa pakṣatā /
+[5,6.60ab]	saty apy atra viśeṣṭatve siddhatvān naiva pakṣatā /
 [5,6.60cd]	tāvān eva hi tatrārtho yaḥ pūrvam avadhāritaḥ //
-[5,6.61ab]	bhedabuddheś ca vaiṣamthaṃ prakṛtipratyayārthayoḥ /
+[5,6.61ab]	bhedabuddheś ca vaiṣamyaṃ prakṛtipratyayārthayoḥ /
 [5,6.61cd]	viśeṣaṇaviśeṣyārthasvātantryagrahaṇaṃ na ca //
 [5,6.62ab]	viśeṣyapūrvikā tatra buddhiś cātra viparyayaḥ /
 [5,6.62cd]	atha śabdo 'rthavattvena pakṣaḥ kasmān na kalpyate //
@@ -2929,6 +2940,7 @@
 [5,6.111ab]	vākyeṣv adṛṣṭeṣv api sārthakeṣu padārthavinmātratayā pratītim /
 [5,6.111cd]	dṛṣṭvānumānavyatirekabhītāḥ kliṣṭāḥ padābhedavicāraṇāyām //
 {5,7}
+<upamānapariccheda (UMP)>
 [5,7.1ab]	kīdṛggavaya ityevaṃ pṛṣṭo nāgarikair yadi /
 [5,7.1cd]	bravītyāraṇyako vākyaṃ yathā gaur gavayas tathā //
 [5,7.2ab]	etasminn upamānatvaṃ prasiddhaṃ śabare punaḥ /
@@ -3038,6 +3050,7 @@
 [5,7.54ab]	matir api ca tathaiva drāgivotpadyate 'sminn /
 [5,7.54cd]	itaraviṣayabodhe 'saty apītthaṃ ca bādhaḥ //
 {5,8}
+<arthāpattipariccheda (AAP)>
 [5,8.1ab]	pramāṇaṣaṭkavijñāto yatrārtho nānyathā bhavet /
 [5,8.1cd]	adṛṣṭaṃ kalpayed anyaṃ sārthāpattir udāhṛtā //
 [5,8.2ab]	dṛṣṭaḥ pañcabhir apy asmād bhedenoktā śrutodbhavā /
@@ -3215,6 +3228,7 @@
 [5,8.88ab]	tat sarvam ityādy asamañjasaṃ syān na cediyaṃ syād anumānato 'nyā /
 [5,8.88cd]	evaṃsvabhāvāpy anumānaśabdaṃ labheta ced asti yathepsitaṃ naḥ //
 {5,9}
+<abhāvapariccheda (ABH)>
 [5,9.1ab]	pramāṇapañcakaṃ yatra vasturūpe na jāyate /
 [5,9.1cd]	vastusattāvabodhārthaṃ tatrābhāvapramāṇatā //
 [5,9.2ab]	vastvasaṅkarasiddhiś ca tatprāmāṇyasamāśrayā /
@@ -3264,7 +3278,7 @@
 [5,9.24ab]	sadguṇadravyarūpeṇa rūpāder ekateṣyate /
 [5,9.24cd]	svarūpāpekṣayā caiṣāṃ parasparavibhinnatā //
 [5,9.25ab]	yadi tadvadapekṣātra na syād bhedo 'tra naiva hi /
-[5,9.25cd]	sadsadrūpatā buddher bhaved anyataratra naḥ //
+[5,9.25cd]	sadasadrūpatā buddher bhaved anyataratra naḥ //
 [5,9.26ab]	tatsambandhe sad ityevaṃ tadrūpatvaṃ pratīyate /
 [5,9.26cd]	nāsty atredam itīdaṃ tu tadasaṃyogahetukam //
 [5,9.27ab]	gṛhītvā vastusadbhāvaṃ smṛtvā ca pratiyoginam /
@@ -3308,7 +3322,7 @@
 [5,9.46ab]	bhāvātmake tathā meye nābhāvasya pramāṇatā /
 [5,9.46cd]	tathābhāvaprameye 'pi na bhāvasya pramāṇatā //
 [5,9.47ab]	bhāvātmakasya mānatvaṃ na ca rājājñayā sthitam /
-[5,9.47cd]	paricchedaphalatvād dhi prāmāṇyaṃ syāed dvayor api //
+[5,9.47cd]	paricchedaphalatvād dhi prāmāṇyaṃ syād dvayor api //
 [5,9.48ab]	yadi cāsya pramāṇatvam abhāvatvena neṣyate /
 [5,9.48cd]	vastunaḥ kāraṇatvaṃ hi dṛṣṭam ity abhimānitā //
 [5,9.49ab]	na liṅgatvaprameyatve bhavetāṃ tadvad eva hi /
@@ -3332,6 +3346,7 @@
 [5,9.58ab]	iha bhavati śatādau sambhavādyāsahasrānmatir aviyutabhāvāt sānumānād abhinnā /
 [5,9.58cd]	jagati bahu na tathyaṃ nityam aitihyam uktaṃ bhavati tu yadi satyaṃ nāgamād bhidyate tat //
 {5,10}
+<citrākṣepavāda (CAV)>
 [5,10.1ab]	paralokaphalāḥ pūrvam ākṣiptāś codanāḥ paraiḥ /
 [5,10.1cd]	idānīm aihikākṣepaḥ, sūtrakāreṇa codyate //
 [5,10.2ab]	citrāpaśuphalatvādiviṣayāś codaṇā mṛṣā /
@@ -3363,6 +3378,7 @@
 [5,10.15ab]	evaṃ saty agnihotrādivākyeṣv api mṛṣārthatā /
 [5,10.15cd]	vedavākyaikadeśatvāc citrādivacaneṣv api //
 {5,11}
+<sambandhākṣepavāda (SAV)>
 [5,11.1ab]	svapakṣasādhanaṃ tāvat na mṛṣā vaidikaṃ vacaḥ /
 [5,11.1cd]	svārthe vaktranapekṣatvāt padārthapadabuddhivat //
 [5,11.2ab]	tatkṛtaḥ pratyayaḥ samyaṅ nityavākyodbhavatvataḥ /
@@ -3450,12 +3466,13 @@
 [5,11.43ab]	yathā cakṣur itīdaṃ tu vyabhicāritvam ucyate /
 [5,11.43cd]	devadatte 'pi cāvyaktāṃ śaktim icchanti yuktitaḥ //
 [5,11.44ab]	prakāśe 'vasthite bāhye nāndho rūpaṃ pratīyate /
-[5,11.44cd]	phalānantaryataś cāpi cakṣuḥ karaṇñam iṣyate //
+[5,11.44cd]	phalānantaryataś cāpi cakṣuḥ karaṇam iṣyate //
 [5,11.45ab]	puruṣādhīnavijñānas tebhyaḥ prāganirūpitaḥ /
 [5,11.45cd]	yaḥ saṃjñāsaṃjñisambandhaḥ sa ceṣṭaś ced dhruvaṃ kṛtaḥ //
 [5,11.46ab]	bhinnadeśādyadhiṣṭhānād yathā rajjughaṭādiṣu /
 [5,11.46cd]	samaṃ nāsty anayoḥ kiñ cit tenāsaṅgatatā svataḥ //
 {5,12}
+<sphoṭavāda (SPH)>
 [5,12.1ab]	ādhārātmani viñāte sukham ādheyabodhanam /
 [5,12.1cd]	tasyaiva tāvat prastāvād atha gaur ity ato 'bravīt //
 [5,12.2ab]	pratyakṣe 'pi visaṃvādo yeṣāṃ kaḥ svayam uttaram /
@@ -3550,14 +3567,14 @@
 [5,12.46cd]	sāmānyakalpanā tv anyair na yuktety abhidhīyate //
 [5,12.47ab]	atvam ity ucyamānaṃ hi na dīrghaplutayor bhavet /
 [5,12.47cd]	ātvaṃ na hrasvaplutayos traimātryaṃ na ca pūrvayoḥ //
-[5,12.48ab]	sarvasādhāraṇatvena tad vijñātuṃ na śkyate /
+[5,12.48ab]	sarvasādhāraṇatvena tad vijñātuṃ na śakyate /
 [5,12.48cd]	pratyekaṃ śābaleyādirūpe gotvaṃ yathā sphuṭam //
 [5,12.49ab]	avarṇakulaśabdo 'pi sthānasāmyād vanādivat /
 [5,12.49cd]	samudāyārthavācīti na jātivacano bhavet //
 [5,12.50ab]	svato hrasvādibhedas tu nityavāde virudhyate /
 [5,12.50cd]	sarvadā yasya sadbhāvaḥ sa kathaṃ mātrikaḥ svayam //
 [5,12.51ab]	tasmād uccāraṇaṃ tasya mātrākālaṃ pratīyate /
-[5,12.51cd]	dvimātraṃ vā trimātraṃ ā na varṇo mātrikaḥ svaym //
+[5,12.51cd]	dvimātraṃ vā trimātraṃ ā na varṇo mātrikaḥ svayam //
 [5,12.52ab]	dīrghāder nanv anaṅgatvaṃ vācakādharmato bhavet /
 [5,12.52cd]	itthaṃ pratīyamānāḥ syur varṇā na pratipādakāḥ //
 [5,12.53ab]	yādṛśāt pūrvadṛṣṭo 'sāv artho gamyate tādṛśāt /
@@ -3567,7 +3584,7 @@
 [5,12.55ab]	nanu dīrghādyanityatvād anityo vācako bhavet /
 [5,12.55cd]	ānupūrvīvad evāsya parihāro bhaviṣyati //
 [5,12.56ab]	tathodāttādibhedānāṃ saṃskāravaśagā matiḥ /
-[5,12.56cd]	teṣāṃ dīrghādivad bhedo na kadā cit pratīyte //
+[5,12.56cd]	teṣāṃ dīrghādivad bhedo na kadā cit pratīyate //
 [5,12.57ab]	tatraikavarṇarūpatve bhedo 'pi syād drutādivat /
 [5,12.57cd]	nātra varṇāntaravyaktir iva dhvanyantarodbhavaḥ //
 [5,12.58ab]	ta eva mṛdutīvratvaśīghratvādisamanvitāḥ /
@@ -3598,7 +3615,7 @@
 [5,12.70cd]	sāhityam ekakartrādikramaś cāpi vivakṣitaḥ //
 [5,12.71ab]	kartraikatve nimitte ca krame sati niyāmakam /
 [5,12.71cd]	prayuñjānasya yat pūrvaṃ vṛddhebhyaḥ kramadarśanam //
-[5,12.72ab]	yaugapdyaṃ tv aśakyatvān naiva teṣām ihāśritam /
+[5,12.72ab]	yaugapadyaṃ tv aśakyatvān naiva teṣām ihāśritam /
 [5,12.72cd]	kartṛbhedaś ca tatra syāt, na caivaṃ dṛśyate 'bhidhā //
 [5,12.73ab]	yugapad dṛśyasāmarthyā naiva śaktāḥ krame yathā /
 [5,12.73cd]	bhāvās tathā krame śaktā yaugapadye na śaknuyuḥ //
@@ -3634,7 +3651,7 @@
 [5,12.88cd]	samastasyātha vā kaś cid bodhaleśo 'tra jāyate //
 [5,12.89ab]	rathasyāpi tu yat kāryaṃ śālyādivahanaṃ na tat /
 [5,12.89cd]	pratyekaṃ dṛśyate kiñ cin manāg api yathehitam //
-[5,12.90ab]	ath a yatkiñcid ucyeta vahane tad ihāpi naḥ /
+[5,12.90ab]	atha yatkiñcid ucyeta vahane tad ihāpi naḥ /
 [5,12.90cd]	svātmapratyayahetutvaṃ varṇeṣv arthe 'pi vā kva cit //
 [5,12.91ab]	yasyānavayavaḥ sphoṭo vyajyate varṇabuddhibhiḥ /
 [5,12.91cd]	so 'pi paryanuyogena vaivaitena vimucyate //
@@ -3651,10 +3668,10 @@
 [5,12.97ab]	vinā saṃskārakalpena tadanantaravṛttitaḥ /
 [5,12.97cd]	kṛtānugrahasāmarthyo varṇo 'ntyaḥ pratipādakaḥ //
 [5,12.98ab]	eṣa eva tu saṃskāra iti ke cit pracakṣate /
-[5,12.98cd]	adṛsṭakalpanātītaṃ tāvan mātraṃ hi dṛśyate //
+[5,12.98cd]	adṛṣṭakalpanātītaṃ tāvan mātraṃ hi dṛśyate //
 [5,12.99ab]	atha vā vāsanaivāstu saṃskāraḥ, sarva eva hi /
 [5,12.99cd]	dṛḍhajñānagṛhīte 'rthe saṃskāro 'stīti manvate //
-[5,12.100ab]	tasyārthabuddhihetutve visaaṃvādo 'sya nirṇaye /
+[5,12.100ab]	tasyārthabuddhihetutve visaṃvādo 'sya nirṇaye /
 [5,12.100cd]	tadbhāvabhāvitāhetur anyatreva pratīyate //
 [5,12.101ab]	saṃskāre niṣpramāṇe tu pūrvavṛttattvakalpanam /
 [5,12.101cd]	niṣpramāṇakam eveti nānugrahaphalaṃ bhavet //
@@ -3731,6 +3748,7 @@
 [5,12.137ab]	varṇātiriktaḥ pratiṣidhyamānaḥ padeṣu mandaṃ phalam ādadhāti /
 [5,12.137cd]	kāryāṇi vākyāvayavāśrayāṇi satyāni katuṃ kṛta eṣa yatnaḥ //
 {5,13}
+<ākṛtivāda (AKV)>
 [5,13.1ab]	ākṛtivyatirikte 'rthe sambandho nityatāsya ca /
 [5,13.1cd]	na sidhyetām iti jñātvā tad vācyatvam ihocyate //
 [5,13.2ab]	tatsadbhāvaprasiddhyartham atra tāvat prayatyate /
@@ -3856,7 +3874,7 @@
 [5,13.62ab]	tadā sāmānyamātratvam evam eva pratīyate /
 [5,13.62cd]	yadā tu śabalaṃ vastu yugapat pratipadyate //
 [5,13.63ab]	tadānyān anyabhedādi sarvam eva pralīyate /
-[5,13.63cd]	na ca tat tādṛśaṃ kaś cic chabdaḥ śknoti bhāṣitum //
+[5,13.63cd]	na ca tat tādṛśaṃ kaś cic chabdaḥ śaknoti bhāṣitum //
 [5,13.64ab]	sāmānyāṃśān apoddhṛtya padaṃ sarvaṃ pravarttate /
 [5,13.64cd]	samastavastvapekṣāṃ ca padārthānām apoddhṛtim //
 [5,13.65ab]	ke cid āhur asadrūpam, aṃśatvaṃ tu na vāryate /
@@ -3885,6 +3903,7 @@
 [5,13.76cd]	tena nātyantabhinno 'rthaḥ sārūpyam iti varṇitam /
 [5,13.76ef]	granthe vindhyanivāsena bhrānteḥ sādṛśyam ucyate //
 {5,14}
+<apohavāda (APV)>
 [5,14.1ab]	agonivṛttiḥ sāmānyaṃ vācyaṃ yaiḥ parikalpitam /
 [5,14.1cd]	gotvaṃ vastv eva tair uktam ago 'pohagirā sphuṭam //
 [5,14.2ab]	bhāvāntaram abhāvo hi purastāt pratipāditaḥ /
@@ -4074,7 +4093,7 @@
 [5,14.94ab]	śabdenāgamyamānaṃ ca viśeṣyam iti sāhasam /
 [5,14.94cd]	tena sāmānyam eṣṭavyaṃ viṣayo buddhiśabdayoḥ //
 [5,14.95ab]	yadā cāśabdavācyatvān na vyaktīnām apohyatā /
-[5,14.95cd]	tadāpohyeta sāmānyṃ tasyāpohāc ca vastutā //
+[5,14.95cd]	tadāpohyeta sāmānyaṃ tasyāpohāc ca vastutā //
 [5,14.96ab]	nāpohyatvam abhāvānām abhāvābhāvavarjanāt /
 [5,14.96cd]	vyakto 'pohāntare 'pohas tasmāt sāmānyavastunaḥ //
 [5,14.97ab]	abhāvasya ca yo 'bhāvaḥ sa cet tasmād vilakṣaṇaḥ /
@@ -4231,13 +4250,14 @@
 [5,14.172cd]	sandehabādhajātena pratyakṣeṇāpi cetasā //
 [5,14.173ab]	viruddhatā ca hetoḥ syāt, śabdaḥ śrotrādivad yataḥ /
 [5,14.173cd]	ātmāntaḥ karaṇākāśaiḥ svavācitvaṃ jahāti vāḥ //
-[5,14.174ab]	vidhirūpapravṛtiir vā śabdo 'pohena varttate /
+[5,14.174ab]	vidhirūpapravṛttir vā śabdo 'pohena varttate /
 [5,14.174cd]	anumānāṅgabhūtatvād yathaiva pratiṣedhakaḥ //
 [5,14.175ab]	jātiṃ vā na bravīty eṣa vyaktiṃ vā tadviśeṣitām /
 [5,14.175cd]	pramāyām aṅgabhūtatvāt tvakśrotrādi yathaiva ca //
 [5,14.176ab]	evaṃ sādhanamārgeṇa vācyāvācyanirūpaṇā /
 [5,14.176cd]	nāvātiṣṭhata ity atra kathyate lokavartmanā //
 {5,15}
+<vanavāda (VAV)>
 [5,15.1ab]	sāsnādibhir viśiṣṭatvam ākṛter ucyate katham /
 [5,15.1cd]	yadāvayavisambandhi gotvaṃ nāvayave sthitam //
 [5,15.2ab]	ekāvayavisambandhas teṣāṃ gotvena vidyate /
@@ -4251,7 +4271,7 @@
 [5,15.6ab]	sarveṣu ca gṛhīteṣu sāsnādiṣu bhavenmatiḥ /
 [5,15.6cd]	gotve, na caiṣu sarveṣu yugapad buddhisambhavaḥ //
 [5,15.7ab]	tasmāt sadbhāvamātreṇa mahattvādau yathaiva dhīḥ /
-[5,15.7cd]	kriyate 'vayavaiḥ piṇde tathā jātiguṇādiṣu //
+[5,15.7cd]	kriyate 'vayavaiḥ piṇḍe tathā jātiguṇādiṣu //
 [5,15.8ab]	yady evam agṛhīteṣu teṣu kiṃ sā na jāyate /
 [5,15.8cd]	taddeśavyatirekeṇa grāhyaṃ yena na vidyate //
 [5,15.9ab]	gṛhyamāṇe tu gotvādau nāntarīyakahetukaḥ /
@@ -4354,7 +4374,7 @@
 [5,15.57cd]	vanaśabdānuraktā tu madhyasthasyāpi jāyate //
 [5,15.58ab]	mithyātvakalpanā tv asyāḥ pratyakṣāder asambhavāt /
 [5,15.58cd]	jātiḥ sarvapramāṇais tu tadrūpaivāvagamyate //
-[5,15.59ab]	pramāṇāntaradṛṣte ca padam arthe prayujyate /
+[5,15.59ab]	pramāṇāntaradṛṣṭe ca padam arthe prayujyate /
 [5,15.59cd]	tasmād dṛṣṭe prayuktasya mithyātvaṃ syād vanādiṣu //
 [5,15.60ab]	ke cin nityaṃ vanaikatvaṃ śabdagamyaṃ samāśritāḥ /
 [5,15.60cd]	anyaiḥ saṅgatyabhāve 'pi satyaṃ tat syād rasādivat //
@@ -4363,7 +4383,7 @@
 [5,15.62ab]	pramāṇāntaragamye 'rthe padaṃ nityaṃ prayujyate /
 [5,15.62cd]	dharmo 'yaṃ na ca sarveṣāṃ padānām abhyupeyate //
 [5,15.63ab]	asty eva saṅgatiś cātra vṛkṣā hi bahavo vanam /
-[5,15.63cd]	te pramāṇāntāj jñātāḥ, saṃshyā caiṣānyavastuni //
+[5,15.63cd]	te pramāṇāntarāj jñātāḥ, saṃkhyā caiṣānyavastuni //
 [5,15.64ab]	nānekasyaikaśabdyaṃ ced, ekaśeṣavad iṣyatām /
 [5,15.64cd]	tatra saṃkhyāvivṛddhiś ced, astu tanmātravarjanam //
 [5,15.65ab]	tasmāt sāmānyadṛṣṭena siddhaikatvasya saṅgatiḥ /
@@ -4434,6 +4454,7 @@
 [5,15.97ab]	iti nigaditam etallokasiddhaiḥ padārthair vyavahṛtir iha śāstre na svatantrābhyupetaiḥ /
 [5,15.97cd]	bhavati ca janadṛṣṭyā jātipaṅktyādibhedo yadi tu na ghaṭate 'sau naiva bādho 'sti kaś cit //
 {5,16}
+<sambandhākṣepaparihāra (SAP)>
 [5,16.1ab]	bhavetāṃ nāma śabdārthau yāvetāvuditau tvayā /
 [5,16.1cd]	yadarthas tu prayāso 'yaṃ sa sambandho nirūpyatām //
 [5,16.2ab]	pūrvam evopadiṣṭaḥ san sambandhaḥ kin tu pṛcchyate /
@@ -4482,7 +4503,7 @@
 [5,16.23cd]	yaṃ karoti navaṃ so 'pi na dṛṣṭaḥ pratipādakaḥ //
 [5,16.24ab]	sarvathā śrotṛsiddhiś ced, asiddhaṃ netaro vadet /
 [5,16.24cd]	ghaṭādāv api tulyaṃ cet, na, sāmānyaprasiddhitaḥ //
-[5,16.25ab]	yady api jñātasāmarthyā vyaktiḥ kartuṃ na śkyate /
+[5,16.25ab]	yady api jñātasāmarthyā vyaktiḥ kartuṃ na śakyate /
 [5,16.25cd]	kriyate yā na tasyāś ca śaktiḥ kārye 'vadhāritā //
 [5,16.26ab]	tathāpy ākṛtitaḥ siddhā śaktir utpādanādiṣu /
 [5,16.26cd]	tasyā na cādimattāsti, sambandhas tvādimāṃs tava //
@@ -4635,7 +4656,7 @@
 [5,16.100ab]	caitanyaṃ yogyatā puṃsaḥ prakṛtes tadanātmatā /
 [5,16.100cd]	bhoktṛbhogyatvayos te ca na tābhyām apagacchataḥ //
 [5,16.101ab]	utpattau karmaṇāṃ ceṣṭam ajñānaṃ kāraṇaṃ yadi /
-[5,16.101cd]	tannāśāt syād anutpattis teṣāṃ na phaloavarjanam //
+[5,16.101cd]	tannāśāt syād anutpattis teṣāṃ na phalavarjanam //
 [5,16.102ab]	jñānaṃ mokṣanimittaṃ ca gamyate nendriyādinā /
 [5,16.102cd]	na ca sāṅkhyādivijñānān mokṣo vedena codyate //
 [5,16.103ab]	ātmā jñātavya ity etanmokṣārthaṃ na ca coditam /
@@ -4655,7 +4676,7 @@
 [5,16.110ab]	mokṣārthī na pravarteta tatra kāmyaniṣiddhyoḥ /
 [5,16.110cd]	nityanaimittike kuryāt pratyavāyajihāsayā //
 [5,16.111ab]	prārthyamānaṃ phalaṃ jñātaṃ na cānicchor bhaviṣyati /
-[5,16.111cd]	ātmajñe caitad astīti tajjñānam uapyujyate //
+[5,16.111cd]	ātmajñe caitad astīti tajjñānam upayujyate //
 [5,16.112ab]	sargapralayavijñānaṃ samastajagadāśrayam /
 [5,16.112cd]	svaśarīravidāṃ puṃsāṃ nādhikyenopayujyate //
 [5,16.113ab]	tasmād adyavad evātra sargapralayakalpanā /
@@ -4718,6 +4739,7 @@
 [5,16.141cd]	anyathā 'nupapattyā ca buddhyec chaktiṃ dvayāśritām /
 [5,16.141ef]	arthāpattyāvabuddhyante sambandhaṃ tripramāṇakam //
 {5,17}
+<citrākṣepaparihāra (CAP)>
 [5,17.1ab]	citrādiniṣphalatve 'pi yaduktaṃ sādhanadvayam /
 [5,17.1cd]	tatra hetor asiddhatvam ānantaryaṃ hy acoditam //
 [5,17.2ab]	ānantaryaśrutiś cātra sāmārthyād api neṣyate /
@@ -4771,6 +4793,7 @@
 [5,17.26ab]	kamipadam aviśiṣṭaṃ yady api śrūyate vā bhavati phalaviśeṣī nānyathā kāmyate hi /
 [5,17.26cd]	phalati yadi ni sarva tat kadā cit tadaiva dhruvam aparam abhuktaṃ karma śāstrīyamās te //
 {5,18}
+<ātmavāda (ATV)>
 [5,18.1ab]	sākṣād yady api sambandho nātmano yajñasādhanaiḥ /
 [5,18.1cd]	tathāpi lakṣaṇāvṛttyā śarīradvārako bhavet //
 [5,18.2ab]	pratyakṣatvaṃ ca dehasthaṃ bhāktam ātmani kalpitam /
@@ -4783,7 +4806,7 @@
 [5,18.5cd]	adattaphalaiṣṭyādau tadā tadvacanaṃ mṛṣā //
 [5,18.6ab]	tasmād vedapramāṇārtham ātmātra pratipādyate /
 [5,18.6cd]	yady api prakṛtaṃ vākyaṃ vyākhyāyetārthavādataḥ //
-[5,18.7ab]	śarīrendriyabuddhibhyo vyatiriktatvm ātmanaḥ /
+[5,18.7ab]	śarīrendriyabuddhibhyo vyatiriktatvam ātmanaḥ /
 [5,18.7cd]	nityatvaṃ ceṣyate, śeṣaṃ śarīrādi vinaśyate //
 [5,18.8ab]	nityaḥ kartṛtvabhoktṛtve pratipanno 'pi san yadā /
 [5,18.8cd]	na karmaphalasambandhaṃ bhogakāle 'vabudhyate //
@@ -4872,11 +4895,11 @@
 [5,18.50ab]	na hi yacchabdatacchabdau vartete bhinnavastuni /
 [5,18.50cd]	tenaikātmakataiṣṭavyā tatsantānātmavādibhiḥ //
 [5,18.51ab]	nanv anyatvaṃ vidanto 'pi putrādiphalasiddhaye /
-[5,18.51cd]	pravartante yathā tadvajjñānasantānino 'pi nah //
+[5,18.51cd]	pravartante yathā tadvajjñānasantānino 'pi naḥ //
 [5,18.52ab]	anyatve ca samāne 'pi yathā vaṃśāntarodbhavāḥ /
 [5,18.52cd]	na labhante phalaṃ tadvat santānāntarajāḥ kṣaṇāḥ //
 [5,18.53ab]	na tāvad buddhir atraivam, api cātmaphalecchayā /
-[5,18.53cd]	putrāibharaṇe vṛttiḥ syāt tad apy atra nāsti te //
+[5,18.53cd]	putrādibharaṇe vṛttiḥ syāt tad apy atra nāsti te //
 [5,18.54ab]	phalāntaram anuddiśya na ca putrādi bibhrati /
 [5,18.54cd]	vinaṣṭasya tu nātmīyasantānabharaṇāt phalam //
 [5,18.55ab]	yas tv anenaiva mārgeṇa phalāntaram apīcchati /
@@ -4941,7 +4964,7 @@
 [5,18.84cd]	saṅkalpanaiḥ punarbhedāt pratikarmāsya kartṛtā //
 [5,18.85ab]	na ca sarvatra tulyatvaṃ syāt prayojakakarmaṇām /
 [5,18.85cd]	calanena hy asiṃ yoddhā prayuṅkte cchedanaṃ prati //
-[5,18.86ab]	senāpatis tu vāciava bhṛtyānāṃ viniyojakaḥ /
+[5,18.86ab]	senāpatis tu vācaiva bhṛtyānāṃ viniyojakaḥ /
 [5,18.86cd]	rājā sannidhimātreṇa viniyuṅkte kadā cana //
 [5,18.87ab]	tasmād acalato 'pi syāc calane kartṛtātmanaḥ /
 [5,18.87cd]	yathaivābhidyamānasya devadattasya bhettṛtā //
@@ -5030,7 +5053,7 @@
 [5,18.129cd]	pratyāsattinimittas tu syād abhedamatir bhramaḥ //
 [5,18.130ab]	mamātmeti matibhedavyapadeśena yātmanaḥ /
 [5,18.130cd]	tatrāvasthātmanā bhedaṃ jñānasyāśritya kalpanā //
-[5,18.131ab]	mamaetyetasya mukhyārtho nātmano 'nyaḥ pratīyate /
+[5,18.131ab]	mametyetasya mukhyārtho nātmano 'nyaḥ pratīyate /
 [5,18.131cd]	tenāsau bhedahetuḥ syād, bhedaś ca jñānahetukaḥ //
 [5,18.132ab]	ye cehājñātanānātvās teṣāṃ deheṣv ahaṃ matiḥ /
 [5,18.132cd]	tatrāpy ātmābhimānenety ahambuddhir dhruvātmani //
@@ -5067,6 +5090,7 @@
 [5,18.148ab]	ity āha nāsti kyanirākariṣṇur ātmāstitāṃ bhāṣyakṛdatra yuktyā /
 [5,18.148cd]	dṛḍhatvam etadviṣayaś ca bodhaḥ prayāti vedāntaniṣevaṇena //
 {6}
+<śabdanityatādhikaraṇa (SNA)>
 [6.1ab]	yady anityatvapakṣe 'pi śabdād artho 'vagamyate /
 [6.1cd]	anādir vyavahāraś ca nityatvaṃ kiṃ nu sādhyate //
 [6.2ab]	satyam icchanti te 'py evaṃ nyāyas tatra parīkṣyate /
@@ -5139,7 +5163,7 @@
 [6.35cd]	śabdasyaivānavasthanād iti hetuṃ vaded yadi //
 [6.36ab]	asiddha eva vaktavyas tato 'bhivyaktivādinā /
 [6.36cd]	tadvyāpārakṛtatve 'pi vyaṅgyair mūlodakādibhiḥ //
-[6.37ab]	kutakatve 'pii teṣāṃ hi notpattiḥ khananādinā /
+[6.37ab]	kutakatve 'pi teṣāṃ hi notpattiḥ khananādinā /
 [6.37cd]	na cāccāraṇato 'nyāsti śabdasyotpādikā kriyā //
 [6.38ab]	nibandharyasatīty evaṃ viśiṣṭe 'pi, tathaiva naḥ /
 [6.38cd]	abandhāḥ syur yaditeṣām abodho hetvabhāvataḥ //
@@ -5157,7 +5181,7 @@
 [6.44cd]	tadbhāvabhāvitāmātraṃ pramāṇaṃ tatra gamyate //
 [6.45ab]	ato 'tīndriyayaivete śaktyā śaktim atīndriyām /
 [6.45cd]	indriyasyādadhānāḥ syuḥ śabdābhivyaktihetavaḥ //
-[6.46ab]	vyañjako nānyajātiś cet, śrotraṃ śabdsya te katham /
+[6.46ab]	vyañjako nānyajātiś cet, śrotraṃ śabdasya te katham /
 [6.46cd]	pārthivānāṃ ghaṭādīnāṃ pradopādiś ca taijasaḥ //
 [6.47ab]	ātmādisamprayoge ca kāryaiḥ syāt tulyajātitā /
 [6.47cd]	jātir yā kā cid iṣṭā cet sā no 'trāpi bhaviṣyati //
@@ -5201,7 +5225,7 @@
 [6.66cd]	nāvaśyaṃ śrotram ākāśam asmābhiś cābhyupeyate //
 [6.67ab]	na cānavayavaṃ vyoma jainasāṃkhyaniṣedhataḥ /
 [6.67cd]	tenākāśaikadeśo vā yad vā vastvantaraṃ bhavet //
-[6.68ab]	kāryārthāpattigamyaṃ na ḥ śrotraṃ pratinaraṃ sthiram /
+[6.68ab]	kāryārthāpattigamyaṃ naḥ śrotraṃ pratinaraṃ sthiram /
 [6.68cd]	yady api vyāpi caikaṃ ca tathāpi dhvanisaṃskṛtiḥ //
 [6.69ab]	adhiṣṭhāneṣu sā yasya tacchabdaṃ pratipatsyate /
 [6.69cd]	athāpīndriyasaṃskāraḥ so 'py adhiṣṭhānadeśataḥ //
@@ -5216,7 +5240,7 @@
 [6.74ab]	śarīra eva gṛhṇātīty evam ukte na dṛṣyati /
 [6.74cd]	ekatve 'pi yathākāśaṃ dravyaiḥ sāvayavaiḥ pṛthak //
 [6.75ab]	saṃsargabhedaṃ labhate saṃskārāsaṃskṛto tathā /
-[6.75cd]	vyomno 'navayavavyāptisadbhāve 'pi bhuviṣthitān //
+[6.75cd]	vyomno 'navayavavyāptisadbhāve 'pi bhuviṣṭhitān //
 [6.76ab]	dvyāśrayatvaṃ na saṃsargo ghaṭādīnanurudhyate /
 [6.76cd]	bādhiryādivyavasthānam anenaiva ca hetunā //
 [6.77ab]	tadevābhogyam anyasya dharmādharmavaśīkṛtam /
@@ -5269,7 +5293,7 @@
 [6.100cd]	anyathāpy upapannatvāt nārthāpattyaitad iṣyate //
 [6.101ab]	na pramāṇāntaraṃ ceyaṃ pramāṇadvayavādinām /
 [6.101cd]	sambandhānupalabdheś ca nānumānena kalpanā //
-[6.102ab]	brṛyāt sāmānyadṛṣṭaṃ ced, bhaved dhetor viruddhatā /
+[6.102ab]	brūyāt sāmānyadṛṣṭaṃ ced, bhaved dhetor viruddhatā /
 [6.102cd]	sajātīyakaraḥ śabdo guṇatvāc cendriyādivat //
 [6.103ab]	aśabdārambhakas tadvat syād adeśāntare tathā /
 [6.103cd]	yatra hy avayavā deśe paṭādīnāṃ vyavasthitāḥ //
@@ -5387,7 +5411,7 @@
 [6.159cd]	yathā kathañ cid iṣṭaṃ cet kāryatvaṃ gomayādiṣu //
 [6.160ab]	tathāpy ākāśamātratvaṃ kuruṣv ety atra dṛśyate /
 [6.160cd]	varaṇābhāvamātratvāt kāryam eveti cet, na tat //
-[6.161ab]	bauddhānām api nābhāvaḥ svayṃsiddho hi janyate /
+[6.161ab]	bauddhānām api nābhāvaḥ svayaṃsiddho hi janyate /
 [6.161cd]	mṛdāṃ deśāntaraprāptir vyāpāraphalam atra hi //
 [6.162ab]	anāvṛtyātmakaṃ vyoma nityam eva vyavasthitam /
 [6.162cd]	nityasya karaṇābhāvāt prayoge 'sminn athocyate //
@@ -5587,7 +5611,7 @@
 [6.259cd]	sambandhakathane 'py asya syād evaiṣā nirākṛtiḥ //
 [6.260ab]	naṣṭāsadvarttamāneṣu nākhyānasya hi sambhavaḥ /
 [6.260cd]	arthavān kataraḥ śabdaḥ śroturvaktrā ca kathyatām //
-[6.261ab]	yadā pūrvaśrutaṃ śabdaṃ nāsau śknoti bhāṣitum /
+[6.261ab]	yadā pūrvaśrutaṃ śabdaṃ nāsau śaknoti bhāṣitum /
 [6.261cd]	na tāvad arthavantaṃ sa bravīti sadṛśaṃ badet //
 [6.262ab]	nārthavatsadṛśaḥ śabdaḥ śrotus tatropapadyate /
 [6.262cd]	arthavadgrahaṇābhāvāt, na cāsāvarthavān svayam //
@@ -5655,12 +5679,12 @@
 [6.293cd]	tathā ca nityatāpattiḥ, na cānyaccihnam asti vaḥ //
 [6.294ab]	tajjātīyatvasādṛśye niṣiddhe, yat tu sambhavet /
 [6.294cd]	śabdatvena sajātitvaṃ tulyaṃ śabdāntareṣu tat //
-[6.295ab]	jātyā yaathā ghaṭādīnāṃ vyavahāropalakṣaṇam /
+[6.295ab]	jātyā yathā ghaṭādīnāṃ vyavahāropalakṣaṇam /
 [6.295cd]	tathaiva cānupūrvyāder jātidvāreṇa setsyati //
 [6.296ab]	tālvādijātayas tāvat sarvapuṃsāṃ vyavasthitāḥ /
 [6.296cd]	vaktā tāvad dhvanīṃs tābhir upalakṣya nirasyati //
 [6.297ab]	teṣāṃ ca jātayo bhinnāḥ śabdābhivyaktihetavaḥ /
-[6.297cd]	yāvadvarṇaṃ pravartante vyaktayo vā tadanvitāh //
+[6.297cd]	yāvadvarṇaṃ pravartante vyaktayo vā tadanvitāḥ //
 [6.298ab]	tatra tālvādisaṃyogavibhāgakramapūrvakam /
 [6.298cd]	dhvanīnām ānupūrvyaṃ syāj jātyā cobhayanityatā //
 [6.299ab]	yathaiva bhramaṇādīnāṃ bhāgair jātyā ca lakṣitaiḥ /
@@ -5713,7 +5737,7 @@
 [6.322cd]	anityaṃ tac ca sarveṣāṃ nityam iṣṭaṃ viruddhyate //
 [6.323ab]	yatkiñcid iha sāmānyaṃ nityaṃ sarveṇa kalpyate /
 [6.323cd]	anityatve hi naitat syād vyaktiṣu kāsu cit //
-[6.324ab]	vyaktayaḥ śabdaśabdena na śkyante ca bhāṣitum /
+[6.324ab]	vyaktayaḥ śabdaśabdena na śakyante ca bhāṣitum /
 [6.324cd]	tāsāṃ jātyatireke ca pūrvokte eva dūṣaṇe //
 [6.325ab]	āśrayān atireke tu jātāv iva virodhitā /
 [6.325cd]	aprasiddhaviśeṣyatvaṃ syāt pareṣāṃ ca pūrvavat //
@@ -5796,11 +5820,11 @@
 [6.364ab]	bahubhiḥ śravaṇair eva prāṇitvādīni varjayet /
 [6.364cd]	śuklādigamanādīni sāsnālāṅgūlatādi ca //
 [6.365ab]	śābaleyādikhaṇḍādivyaktīś ca svanibandhanāḥ /
-[6.365cd]	niṣkṛaṣṭagotvavācitvaṃ cireṇa pratipadyate //
+[6.365cd]	niṣkṛṣṭagotvavācitvaṃ cireṇa pratipadyate //
 [6.366ab]	tāvatkālaṃ sthiraṃ cainaṃ kaḥ paścān nāśayiṣyati /
 [6.366cd]	anapekṣatvasūtreṇa tac caitat sādhayiṣyate //
 [6.367ab]	kriyāvatām abhede hi kriyāvṛttiṣu kṛtvasuc /
-[6.367cd]	tatprayogād dhruvaṃ tasya śbdasyāvarttate kriyā //
+[6.367cd]	tatprayogād dhruvaṃ tasya śabdasyāvarttate kriyā //
 [6.368ab]	punaḥprayogavijñānaṃ na hi śabdāntare bhavet /
 [6.368cd]	tasyāṃ ca śabdasaṃkhyāyām aṣṭāv iti bhavecchrutiḥ //
 [6.369ab]	bhuktavanto 'ṣṭakṛtvo 'dya brāhmaṇā iti dṛśyate /
@@ -5815,10 +5839,10 @@
 [6.373cd]	sa iti pratyabhijñānaṃ bhrāntis tatrāvakalpate //
 [6.374ab]	iha nityaṃ sa eveti vijñānaṃ jāyate dṛḍham /
 [6.374cd]	tadāstitvādhikatvāc ca prāmāṇyaṃ tasya sādhitam //
-[6.375ab]	nityaprasaṅgadvāreṇa spaṣṭayor apy anityaoḥ /
+[6.375ab]	nityaprasaṅgadvāreṇa spaṣṭayor apy anityayoḥ /
 [6.375cd]	pratyabhijñānasadbhāvād anaikāntikatocyate //
 [6.376ab]	na pratyakṣe iti tv etadasambaddham ivottaram /
-[6.376cd]	yato nātra pareṇoktā pratyakṣtvena nityatā //
+[6.376cd]	yato nātra pareṇoktā pratyakṣatvena nityatā //
 [6.377ab]	pratyakṣatvād ghaṭādīnāṃ mā prasāṅkṣīddhi nityatā /
 [6.377cd]	atīndriyatvān mā bhuc ca vyomāder apy anityatā //
 [6.378ab]	na ca nitye svarūpeṇa tenokte buddhikarmaṇī /
@@ -5956,6 +5980,7 @@
 [6.444ab]	śabdo yathā paudgaliko niṣiddhaḥ, syād vāyavīyasya sa eva mārgaḥ /
 [6.444cd]	tasmād anirdhāritahetumārgaḥ sarvatra sākṣād bhavatīti nityaḥ //
 {7}
+<vākyādhikaraṇa (VAA)>
 [7.1ab]	padārthapadasambandhanityatve sādhite 'pi vaḥ /
 [7.1cd]	naiva vedapramāṇatvaṃ vākyārthaṃ prati sidhyati //
 [7.2ab]	padāni gamayeyus taṃ pratyekaṃ saṃhatāni vā /
@@ -5991,7 +6016,7 @@
 [7.17ab]	yā tu svaviṣayā buddhiḥ pratiśabdam asāv api /
 [7.17cd]	na caikajñānajananaṃ bhinnais taiḥ kramavarttibhiḥ //
 [7.18ab]	na cāvayavaśo bodhād aikyaṃ vākyatadarthayoḥ /
-[7.18cd]	na cāvayavabuddh nāṃ bhrāntitvaṃ bādhakād ṛte //
+[7.18cd]	na cāvayavabuddhīnāṃ bhrāntitvaṃ bādhakād ṛte //
 [7.19ab]	ekanirbhāgatābuddher asatyāḥ satyatā katham /
 [7.19cd]	anurāgavyavacchedau buddhīnāṃ na ca siddhyataḥ //
 [7.20ab]	kṣaṇikatvād ato 'rthatvaṃ neṣṭaṃ saṃsargabhedayoḥ /
@@ -6130,7 +6155,7 @@
 [7.86cd]	kriyākārakasambandhamūlatvāt sarvasaṅgatiḥ //
 [7.87ab]	niṣedhyā tanniṣedhena svasvāmipitṛbandhuṣu /
 [7.87cd]	upasarganipātānāṃ kena cin na ca saṅgatiḥ //
-[7.88ab]	parasparaṃ tv asidhhaiva svātantryeṇa ca nāmabhiḥ /
+[7.88ab]	parasparaṃ tv asiddhaiva svātantryeṇa ca nāmabhiḥ /
 [7.88cd]	kriyāviśeṣaṇatvāc ca vinā naivopasargatā //
 [7.89ab]	vākyārtho 'sattvabhūtatvād etair na ca viśiṣyate /
 [7.89cd]	kriyādvārā'tha kalpyeta sāpi nākārakātmanaḥ //
@@ -6213,7 +6238,7 @@
 [7.128ab]	tadvad atrāpi sādṛśyaṃ yadi nāmāvadhāryate /
 [7.128cd]	siddhe 'vayavasatyatve mṛṣā nirbhāgakalpanā //
 [7.129ab]	asatā yat tu sādṛśyam asataḥ parikalpyate /
-[7.129cd]	dhruvaṃ śaśaviṣāṇena kharaśṛaṅgasya tad bhavet //
+[7.129cd]	dhruvaṃ śaśaviṣāṇena kharaśṛṅgasya tad bhavet //
 [7.130ab]	athāsattvena sādṛśyam atrāpy astīti manyate /
 [7.130cd]	sarvatraivaṃ samānatvāt kaś cin nāsadṛśo bhavet //
 [7.131ab]	bhāgaś citre 'pi dṛṣṇādir dṛṣṭa eva sadṛktayā /
@@ -6267,7 +6292,7 @@
 [7.155ab]	naiva hi prakriyāmātraṃ śāstrataḥ parikalpyate /
 [7.155cd]	pratyakṣaṃ hy eva tadrūpaṃ vācyam apy anyavācyavat //
 [7.156ab]	krameṇa hi pratīyete prakṛtipratyayau pade /
-[7.156cd]	tadāgame tadartho 'pi svsaṃvedyaḥ krameṇa naḥ //
+[7.156cd]	tadāgame tadartho 'pi svasaṃvedyaḥ krameṇa naḥ //
 [7.157ab]	anvayavyatirekābhyām apy artho gamyate tayoḥ /
 [7.157cd]	amādyupajanāpāye vṛkṣārtho hy anugamyate //
 [7.158ab]	vṛkṣaṃ vṛkṣeṇa cety atra vṛkṣatvaṃ tāvad eva hi /
@@ -6329,7 +6354,7 @@
 [7.186ab]	yathā ca puruṣākāre samāne 'py avagamyate /
 [7.186cd]	smaraṇād brāhmaṇatvādi prakṛtipratyayānvayāt //
 [7.187ab]	tathānvākhyānabhedena prakṛtipratyayādibhiḥ /
-[7.187cd]	nāmākhyātavyavsthānaṃ smaraṇenopalakṣyate //
+[7.187cd]	nāmākhyātavyavasthānaṃ smaraṇenopalakṣyate //
 [7.188ab]	aprāptasmṛtyupāyānāṃ viveko 'yaṃ na jāyate /
 [7.188cd]	ajñāte pitṛsaṃbandhe tulyo 'sau brāhmaṇādiṣu //
 [7.189ab]	tathā śrutyaiva sandigdhaṃ kiñ cin nirṇīyate padam /
@@ -6394,7 +6419,7 @@
 [7.218cd]	saṃhitāviṣaye cāsya smaryate sādhuśabdatā //
 [7.219ab]	etasmiṃs tu pratīmo 'rtham agṛhītāvadhāv api /
 [7.219cd]	tena saty api vicchede pade bhedo 'rthabhedataḥ //
-[7.220ab]	jñāyte cāvadhis tatra vyañjanānto na tūcyate /
+[7.220ab]	jñāyate cāvadhis tatra vyañjanānto na tūcyate /
 [7.220cd]	dadhiśabdāvabodhyatvān nityaṃ nityasamāsavat //
 [7.221ab]	etena rājarājñādiśabdānāṃ dattam uttaram /
 [7.221cd]	kiñ cid aṃśasamānaṃ hi tadarthaṃ tatpadāntaram //
@@ -6427,7 +6452,7 @@
 [7.235ab]	asattvabhūtamenaṃ hi pratipadyāmahe tataḥ /
 [7.235cd]	kriyākārakasaṃsargaviśiṣṭaḥ prāgasau kutaḥ //
 [7.236ab]	dharmiṇy anavabuddhe ca na taddharmāvadhāraṇam /
-[7.236cd]	na ca prāgbodhakaṃ kiñ cid vākyārthsyopapadyate //
+[7.236cd]	na ca prāgbodhakaṃ kiñ cid vākyārthasyopapadyate //
 [7.237ab]	avabuddhe tu vākyārthe yadi taddharmatā bhavet /
 [7.237cd]	vijñāte 'rthe tataḥ kiṃ nu prameyam avaśiṣyate //
 [7.238ab]	anvayaś ca padārthānāṃ na vākyārthair apekṣyate /
@@ -6450,7 +6475,7 @@
 [7.246cd]	janmādhikopayogī ca nānumāyās trilakṣaṇaḥ //
 [7.247ab]	śabdaprāmāṇyanirṇītyai padārthebhyo yatheṣyate /
 [7.247cd]	atyantādṛṣṭavākyārthapratipattis tathocyate //
-[7.248ab]	bhāvanāvacanas tāvat tāṃ smārayti lokavat /
+[7.248ab]	bhāvanāvacanas tāvat tāṃ smārayati lokavat /
 [7.248cd]	anvayavyatirekābhyāṃ pratyayārthas tu seṣyate //
 [7.249ab]	kaiś cit, anyais tu dhātvarthas tatsāmīpyopakārataḥ /
 [7.249cd]	aparaiḥ samudāyārthas tata eva hi gamyate //
@@ -6561,7 +6586,7 @@
 [7.302ab]	tatra vastvantaronmuktaṃ vastv evānuguṇaṃ ca tat /
 [7.302cd]	ākhyātapratyayair yoge nivṛttyarthaḥ pratīyate //
 [7.303ab]	tatra cājñātasandigdhaviparītārthavāraṇam /
-[7.303cd]	asti nāstīti sandehe pākṣikāstitbodhanam //
+[7.303cd]	asti nāstīti sandehe pākṣikāstitvabodhanam //
 [7.304ab]	nivartyate nañā, yad vā nāstitaivocyate satī /
 [7.304cd]	avyutpannasya tatraiva jāyate nāstitāmatiḥ //
 [7.305ab]	astitvamāninaḥ saiva vāryate viparītadhīḥ /
@@ -6605,7 +6630,7 @@
 [7.324ab]	tanmithyātvopasaṃkhyānāt pūrvabadhādisambhavaḥ /
 [7.324cd]	tatrāpi tu na tadrūpaṃ bādhyate na ca bodhyate //
 [7.325ab]	arthajñānādirūpāt tu phalato viprayujyate /
-[7.325cd]	pratibhānekadhā punsāṃ yady apy artheṣu jāyate //
+[7.325cd]	pratibhānekadhā puṃsāṃ yady apy artheṣu jāyate //
 [7.326ab]	tathāpi bāhya evārthas tasya vākyasya ceṣyate /
 [7.326cd]	vākyaprayojanatvena janyatvenātha vā yadi //
 [7.327ab]	ucyate pratibhāpy artho na naḥ kiñ cid virudhyate /
@@ -6695,6 +6720,7 @@
 [7.369ab]	teṣu ca dhriyamāṇeṣu na mūlāntarakalpanā /
 [7.369cd]	tathā hy adyatanasyāpi te kurvantīdṛśīṃ matim //
 {8}
+<vedapauruṣeyatādhikaraṇa (VPA)>
 [8.1ab]	vacanāntarasādharmyāt kartuḥ sāmānyasamplave /
 [8.1cd]	samākhyayā viśeṣo 'yaṃ kaṭhādiravadhāryate //
 [8.2ab]	anapekṣatvasūtre yā rūpāt kṛtakatoditā /
