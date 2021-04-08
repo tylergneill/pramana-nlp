@@ -11,7 +11,7 @@
 [1,1.9]	guṇāś ca guṇāntaram.
 [1,1.10]	karma karmasādhyaṃ na vidyate.
 [1,1.11]	kāryāvirodhi dravyaṃ kāraṇāvirodhi ca.
-[1,1.12]	ubhaytathā guṇaḥ.
+[1,1.12]	ubhayatathā guṇaḥ.
 [1,1.13]	kāryavirodhi karma.
 [1,1.14]	kriyāvad guṇavat samavāyikāraṇam iti dravyalakṣaṇam.
 [1,1.15]	dravyāśrayy aguṇavān saṃyogavibhāgeṣv akāraṇam anapekṣa iti guṇalakṣaṇam.
@@ -70,7 +70,7 @@
 [2,1.15]	vāyor iti sati snnikarṣe pratyakṣābhāvād dṛṣṭaṃ liṅgaṃ na vidyate.
 [2,1.16]	sāmānyatodṛṣṭāc cāviśeṣaḥ.
 [2,1.17]	tasmād āgamikam.
-[2,1.18]	saṃjñākarma tv asmadviśiṣtānāṃ liṅgam.
+[2,1.18]	saṃjñākarma tv asmadviśiṣṭānāṃ liṅgam.
 [2,1.19]	pratyakṣapūrvakatvāt saṃjñākarmaṇaḥ.
 [2,1.20]	niṣkramaṇaṃ praveśanam ity ākāśasya liṅgam.
 [2,1.21]	tad aliṅgam ekadravyavattvāt karmaṇaḥ.
@@ -262,7 +262,7 @@
 [6,1.12]	tad aduṣṭe na vidyate.
 [6,1.13]	viśiṣṭe pravṛttiḥ.
 [6,1.14]	same hīne cāpravṛttiḥ.
-[6,1.15]	etena hīnasamaviśiṣtadhārmikebhyaḥ parādānaṃ vyākhyātam.
+[6,1.15]	etena hīnasamaviśiṣṭadhārmikebhyaḥ parādānaṃ vyākhyātam.
 [6,1.16]	tathā viruddhānāṃ tyāgaḥ.
 [6,1.17]	sama ātmatyāgaḥ paratyāgo vā.
 [6,1.18]	viśiṣṭe ātmatyāgaḥ.
@@ -328,7 +328,7 @@
 [7,2.1]	rūparasagandhasparśavyatirekād arthāntaram ekatvaṃ tathā pṛthaktvam.
 [7,2.2]	tayor nityatvānityatve tejaso rūpasparśābhyāṃ vyākhyāte.
 [7,2.3]	niṣpattiś ca.
-[7,2.4]	ekatvapṛthaktvayor ekatvapṛthaktvābhāvo.
+[7,2.4]	ekatvapṛthaktvayor ekatvapṛthaktvābhāvo 'ṇutvamahattvābhyāṃ vyākhyātaḥ.
 [7,2.5]	karmabhiḥ karmāṇi guṇair guṇāḥ.
 [7,2.6]	niḥsaṃkhyatvāt karmaguṇānāṃ sarvaikatvaṃ na vidyate.
 [7,2.7]	ekatvasyābhāvād bhāktaṃ na vidyate.
@@ -370,7 +370,7 @@
 [8.9]	samavāyinaḥ śvaityāc chvaityabuddheḥ śvete buddhis te kāryakāraṇabhūte.
 [8.10]	dravyeṣv anitaretarakāraṇāt kāraṇāyaugapadyāt.
 [8.11]	tathā dravyaguṇakarmasu kāraṇāviśeṣāt.
-[8.12]	ayam eṣa kṛtaṃ tvayā bhojayāinam iti buddhyapekṣaṃ.
+[8.12]	ayam eṣa kṛtaṃ tvayā bhojayainam iti buddhyapekṣaṃ.
 [8.13]	dṛṣṭeṣu bhāvād adṛṣṭeṣv abhāvāt.
 [8.14]	artha iti dravyaguṇakarmasu.
 [8.15]	dravyeṣu pañcātmakaṃ pratyuktam.
@@ -396,7 +396,7 @@
 [9.15]	ātmendriyamano'rthasannikarṣāc ca.
 [9.16]	tatsamavāyāt karmaguṇeṣu.
 [9.17]	ātmasamavāyād ātmaguṇeṣu.
-[9.18]	asyedaṃ kāryaṃ kāraṇaṃ saṃbandhy ekārhtasamavāyi virodhi ceti laiṅgikam.
+[9.18]	asyedaṃ kāryaṃ kāraṇaṃ saṃbandhy ekārthasamavāyi virodhi ceti laiṅgikam.
 [9.19]	etena śābdaṃ vyākhyātam.
 [9.20]	hetur apadeśo liṅgaṃ nimittaṃ pramāṇaṃ kāraṇam ity anarthāntaram.
 [9.21]	asyedam iti buddhyapekṣatvāt.
@@ -430,4 +430,4 @@
 [10.18]	saṃyuktasamavāyād agner vaiśeṣikam.
 [10.19]	laiṅgikaṃ pramāṇaṃ vyākhyātam.
 [10.20]	dṛṣṭānāṃ dṛṣṭaprayojanānāṃ dṛṣṭābhāve prayogo 'bhyudayāya.
-[10.21]	tadvacanād āmnāyaprāmāṇyam iti.  
+[10.21]	tadvacanād āmnāyaprāmāṇyam iti.
