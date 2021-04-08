@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-## considers closest n documents to query document, prioritizes set of preferred texts, formats 
+## considers closest n documents to query document, prioritizes set of preferred texts, formats
 ## relies on modified metallo.go
 
 query_id = "NBhū_104,6^1"

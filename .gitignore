@@ -1,6 +1,12 @@
 .DS_Store
 .~lock*
 segmenter/data/
-data_prep/5_segmentation/data
-data_prep/5_segmentation/validation_files
+data_prep/4_segmentation/data/input/*.txt
+data_prep/4_segmentation/data/output/*.cex
+data_prep/4_segmentation/data/output/logging/1_original_doc_candidates/*.txt
+data_prep/4_segmentation/data/output/logging/2_resized_docs/*.txt
+data_prep/4_segmentation/data/output/logging/3_pre-word-split/*.txt
+data_prep/4_segmentation/data/output/logging/4_post-word-split/*.txt
+data_prep/4_segmentation/validation_files/*.txt
+data_prep/4_segmentation/validation_files/*.json
 __pycache__
