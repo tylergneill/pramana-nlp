@@ -1,27 +1,27 @@
 File Source: GRETIL
 
 
-Edition: S. Lévi 1925, Paris; (correction) Hakuju Ui 1953, Tokyo
+Edition: composite, based on S. Lévi 1925, Paris; Hakuju Ui 1953, Tokyo; and Silk 2018
 
 
 Extent: complete
 
 
-Input by: Takamichi Fukita
+Input by: Tyler Neill
 
 
 Structural Notes: 
 
 This text consists of Vasubandhu's Viṃśatikā as embedded in his prose autocommentary.
 
-Document candidates were generated from kārikā-and-vṛtti sections. This could usually be distinguished by the presence of introductory (avataraṇa) vṛtti material preceding quoted kārikā material. These boundaries were made to coincide with whole kārikās. Identifiers were then based on the simple kārikā numbering (1–22). No document grouping was performed.
+After inspecting available editions, it was decided that the text of Silk was closest to being able to meet the needs of the present project, but not without substantial modification. Therefore, Silk was taken as a basis, and then there were filled in gaps in the Sanskrit left by that edition (e.g. the first folios), and orthography and punctuation were reformed according to my own understanding. Page numbers also follow Silk, as do paragraph breaks (especially for prose, but also for verse material, which could not easily be affiliated with preceding or following prose material) and their grouping into sections (1–22).
 
-In a second round, an attempt likely ought to be made to treat the Viṃśatikā and Triṃśatikā in the same way rather than in different ways, as was done here.
+Document candidate identifiers were generated automatically based on page numbers and paragraph breaks, with commas and lowercase Roman numerals indicating the number of the “paragraph” (sometimes just indented metrical material) among all those starting on a given page. Document groups were based on section labels (1–22).
 
 
 Other Important Notes: 
 
-(none)
+1) For the first section, which must be reconstructed from Tibetan and Chinese translations and from the separately transmitted kārikā-only Sanskrit manuscript, and on which Silk 2018 (after comparing Lévi 1925 and Nasu Jisshū 1953) takes no clear overall position (instead just translating from Tibetan), I follow the reconstruction of Ui 1953 (available on GRETIL, digitized by Takamichi Fukita) except where Silk 2018 suddenly becomes available. For the Ui 1953 material, I correct several typographical and metrical errors as necessary. Page numbering for this part follows neither Silk 2018 nor Ui 1953 but rather Levi 1925 (as in the GRETIL text) for convenience. Paragraph breaks are a combination of Ui 1953 and Silk 2018, as available.
 
 
 (numerous other details recorded elsewhere)
