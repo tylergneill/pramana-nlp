@@ -1,0 +1,19 @@
+File Source: GRETIL
+
+
+Edition: electronic text of Douglas Bachman, "based on" edition of M. Saigusa 1984 (Tokyo), "revised to bring it into agreement with" edition of de Jong 1977 (Madras)
+
+
+Extent: complete
+
+
+Input by: Douglas Bachman, Richard Mahoney
+
+
+Structural Notes: The text consists of 27 chapters. Document candidates were created easily one per verse, and document grouping was by chapter.
+
+
+Other Important Notes: (none)
+
+
+(a few other details recorded elsewhere)

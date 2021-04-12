@@ -1,0 +1,21 @@
+File Source: SARIT
+
+
+Edition: Thakur 1974
+
+
+Extent: complete
+
+
+Input by: Aurorachana (Auroville) and Liudmila Olalde
+
+
+Structural Notes: The text is encoded as a simple <div> for 10 pages in Thakur 1974. Document candidates were created from prose paragraphs with identifiers of the type page_number,paragraph_number. No document grouping was performed.
+
+
+Other Important Notes: 
+
+1) A readthrough found and fixed numerous typos (e.g., “virahathya” > “virahayya”, “tadabhāvati” > “tadabhāvavati”, etc.), clarified some spacing and punctuation, and standardized orthography.
+
+
+(a few other details recorded elsewhere)

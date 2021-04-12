@@ -1,0 +1,53 @@
+File Source: partly GRETIL, partly original digitization
+
+
+Edition: (chs. 1–6) Eli Franco. Perception, Knowledge and Disbelief: a study of Jayarasi's scepticism. Stuttgart 1987. Alt und NeuIndische Studien, 35. 2nd ed. Delhi 1994. (chs. 7–14) Sanghavi, Sukhalalji and Parikh, R.C. Baroda 1940. Gaekwad's Oriental Series, 87.
+
+
+Extent: complete
+
+
+Input by: chs. 1–6 based on Franco 1987 originally by Somadeva Vasudeva, 2000, found on GRETIL and completely redone by Tyler Neill, 2020; chs. 7–14 new from scan of Sanghavi and Parikh 1940 by Tyler Neill, 2020.
+
+
+Structural Notes: 
+
+1) Chapter Overview by pramāṇa Topics
+
+First part, on pratyakṣa (re-edited by Franco)
+	1 Nyāya on pratyakṣa
+	2 Mīmāṃsā on pramāṇa
+	3 Buddhism on pramāṇa
+	4 Buddhism on pratyakṣa
+	5 Mīmāṃsā on pratyakṣa
+	6 Sāṃkhya on pratyakṣa
+
+Second part, on anumāna etc. (not re-edited)
+	7 Nyāya on anumāna
+	8 ātmānumāna
+	9 Buddhism on anumāna
+	10 Mīmāṃsā on arthāpatti
+	11 upamāna
+	12 abhāva
+	13 saṃbhava and aitihya
+	14 śabda
+
+2) For the first part (chs. 1–6), Franco's paragraph breaks are of two types (confirmed in a personal communication): indented for “true” paragraphs, and not indented for mere shifts between alternatives (vikalpas) or voices (i.e., pūrvapakṣa and siddhānta). This is retained here with double- and single-newline, respectively.
+
+3) For both parts, document candidates were generated from (“true”) paragraphs, and identifiers created of the type page_number,paragraph_number.
+
+4) Franco's analytic outline headers are retained as tertiary notes, here with additional periods, e.g., [3.3.3.1], [a.2.b]. In terms of just the single original period, e.g., [3.331], [a.2b], Franco 1987 explains: "Numbers on the left side of the point indicate chapters; letters on the left side of the point indicate digressions or appendices. Numbers on the right side of the point indicate a linear train of thought; letters on the right side of the point indicate aspects. Example: 1.11 and 1.12 convey direct reasons to the statement of 1.1; 1.1a considers the statement of 1.1 from a different point of view..." 
+
+5) For part 1, document candidate grouping labels were created for each chapter (0–6) and around each digression (a-f) as well as for subchapter 4.2 (it was thought better not to use all of Franco's analytic outline headers, since their sections vary widely in size). In part 2, they were created for all chapter and subchapter headers (e.g., 1, 2, 3; 7.4, 9.12, etc.)
+
+
+Other Important Notes: 
+
+1) Punctuation in part 1, including the use of em-dashes, is restored here. In a few cases, I also extended the use of punctuation marks to be more consistent (e.g., the added first question mark in "keyaṃ pararūpānusyūtatā? kiṃ tattādātmyaṃ tatsamavāyo vā?", p. 80).
+
+2) I also corrected a few obvious printing errors in part 1 (e.g. reattaching "tvam" suffix on p.110 bottom line, fixing avagraha problems gamayaty anyatarāsattvaṃ, p.242, and pravartate 'nūdya, p. 276).
+
+3) Occasional metrical material is marked in both parts with tab and forward slash.
+
+
+(numerous other details recorded elsewhere)
