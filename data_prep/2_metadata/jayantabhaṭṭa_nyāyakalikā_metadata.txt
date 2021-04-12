@@ -1,0 +1,20 @@
+File Source: original digitization
+
+
+Edition: Kataoka, Kei. A Critical Edition of Bhaṭṭa Jayanta's Nyāyakalikā (Part 1). The Memoirs of Institute for Advanced Studies on Asia， No. 163，March 2013，p.236(1) - 184(53). (東洋文化研究所紀要, 第163_, 平成 25 年, 3 月, 抜刷)
+
+
+Extent: "part 1" is through §9 (nirṇayaḥ).
+
+
+Input by: Tyler Neill, 2018 (edited text only, manually retyped from PDF into IAST transliteration with additional spaces between words, proofread once)
+
+
+Structural Notes:
+
+Structural markup in [] retained, with numerical portion made into document identifiers and verbose part made into associated tertiary labels. Document grouping labels were created for certain of the main numerical headers based on size (0, 1, 2, 3, 4–6, 7, 8–9).
+
+
+Other Important Notes: 
+
+(none)
