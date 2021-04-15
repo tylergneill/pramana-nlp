@@ -3,23 +3,24 @@
 "common": {
 
 	"bhāsarvajña_nyāyabhūṣaṇa" : "NBhū",
-	"vātsyāyana_nyāyabhāṣya" : "NBh",
-	"uddyotakara_nyāyavārttika" : "NV",
-	"dharmakīrti_pramāṇavārttikasvavṛtti" : "PVSV",
-	"dharmakīrti_pramāṇavārttika" : "PV",
-	"dharmakīrti_pramāṇaviniścaya" : "PVin",
 	"dharmakīrti_hetubindu" : "HB",
-	"prajñākaragupta_pramāṇavārttikālaṅkāra" : "PVA",
-	"jayarāśi_tattvopaplavasiṃha" : "TUS",
+	"dharmakīrti_pramāṇavārttika" : "PV",
+	"dharmakīrti_pramāṇavārttikasvavṛtti" : "PVSV",
+	"dharmakīrti_pramāṇaviniścaya" : "PVin",
 	"dignāga_pramāṇasamuccaya" : "PS",
-	"kumārilabhaṭṭa_ślokavārttika" : "ŚV",
-	"vasubandhu_viṃśatikāvṛtti" : "Viṃś",
-	"kaṇāda_vaiśeṣikasūtra" : "VS",
 	"jaimini_mīmāṃsāsūtra" : "MS",
-	"nāgārjuna_mūlamadhyamakakārikā" : "MMK",
-	"vyomaśiva_vyomavatī" : "VyV",
 	"jayantabhaṭṭa_nyāyakalikā" : "NyKal",
-	"paṇḍitāśoka_avayavinirākaraṇa" : "AvNir"
+	"jayarāśi_tattvopaplavasiṃha" : "TUS",
+	"kaṇāda_vaiśeṣikasūtra" : "VS",
+	"kumārilabhaṭṭa_ślokavārttika" : "ŚV",
+	"nāgārjuna_mūlamadhyamakakārikā" : "MMK",
+	"nāgārjuna_vigrahavyāvartanī" : "VigVy",
+	"paṇḍitāśoka_avayavinirākaraṇa" : "AvNir",
+	"prajñākaragupta_pramāṇavārttikālaṅkāra" : "PVA",
+	"uddyotakara_nyāyavārttika" : "NV",
+	"vasubandhu_viṃśatikāvṛtti" : "Viṃś",
+	"vātsyāyana_nyāyabhāṣya" : "NBh",
+	"vyomaśiva_vyomavatī" : "VyVat"
 
 },
 

@@ -1,0 +1,24 @@
+File Source: original digitization
+
+
+Edition: Johnston & Kunst, original 1948-1951, Motilal Banarsidas 1978, 1986 reprint
+
+
+Extent: complete
+
+
+Input by: Tyler Neill 2021 (some small typos silently corrected, slight homogenization of punctuation)
+
+
+Structural Notes: 
+
+This miśraka-style text consists of two parts: 1) twenty verses of Pūrvapakṣa, and 2) fifty verses of Siddhānta, in which most of the Pūrvapakṣa verses are repeated. Prose commentary accompanies all verses.
+
+Johnston & Kunst produced a readable edition of plausible Sanskrit text, while Yonezawa produced a diplomatic transcription of the manuscript, complete with many scribal errors. Hence, the readable text was preferred, with only small departures regarding affiliation of introductory sentences and phrases to following verses according to Yonezawa's edition.
+
+Document candidates were generated from prose paragraphs and verses (some of the latter being accompanied by introductory material). Identifiers are of the type page_number,paragraph_number. One document group was established for each of the seventy sections, plus a conclusion.
+
+
+Other Important Notes: 
+
+(none)
