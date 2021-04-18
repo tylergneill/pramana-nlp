@@ -1,0 +1,20 @@
+File Source: GRETIL
+
+
+Edition: N. Aiyaswami Shastri 1942 (Madras)
+
+
+Extent: complete
+
+
+Input by: members of the Sanskrit Buddhist Input Project, revised by Tyler Neill 2020 (proofread, fixed typos, added verse markup, created paragraphs)
+	
+
+Structural Notes: 
+
+Document candidates created for paragraphs constructed on basis of Frauwallner 1930 (based on double-daṇḍas and/or close reading). Identifiers are of type page,line. No document grouping.
+
+
+Other Important Notes: 
+
+(none)
