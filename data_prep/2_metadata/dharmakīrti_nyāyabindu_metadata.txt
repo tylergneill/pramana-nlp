@@ -1,0 +1,22 @@
+File Source: GRETIL
+
+
+Edition: Dwarikadas Shastri 1994 (Bauddha bharati)
+
+
+Extent: complete
+
+
+Input by: Sanskrit Buddhist Input Project, Tyler Neill (proofreading)
+
+
+Structural Notes: 
+
+1) The text consists of three chapters of aphoristic statements, each of which is numbered in Dwarikadas Shastri's edition.
+
+2) One document candidates was created for each numbered aphorism, with logical identifiers. Grouping is by chapter.
+
+
+Other Important Notes: 
+
+1) Proofreading started on the basis of the version by the Sanskrit Buddhist Input Project, which corresponded more closely to the printed edition. Typos were silently corrected (including those few that could be found in the edition), and spaces were added between words.
