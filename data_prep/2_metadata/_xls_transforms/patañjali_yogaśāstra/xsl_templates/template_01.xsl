@@ -18,4 +18,6 @@
 <xsl:value-of select="."/>
 </xsl:template>
 
+<xsl:template match="pb">〈<xsl:value-of select="@n"/>〉</xsl:template>
+
 </xsl:stylesheet>
