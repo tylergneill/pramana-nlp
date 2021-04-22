@@ -12,18 +12,16 @@ Input by: Takamichi Fukita and Klaus Wille
 
 Structural Notes: 
 
-This text consists of Sthiramati's Bhāṣya on Vasubandhu's Triṃśikā, which he quotes in full and which is therefore considered here as an integral part of Sthiramati's own text.
+1) This miśraka-style text consists of Sthiramati's Bhāṣya on Vasubandhu's Triṃśikā, which he quotes in full and which is therefore considered here as an integral part of Sthiramati's own text.
 
-Document candidates were generated from paragraphs, as indicated by newlines in the source file. Identifiers were based on page numbers, which were provided, plus the paragraph count since the last change in page number.
+2) Document candidates were generated from paragraphs, as indicated by newlines in the source file (including for blocks of metrical material). Identifiers are of the type page_number,paragraph_number.
 
-Document grouping was performed according to kārikā-and-bhāṣya sections. This could usually be distinguished by the presence of introductory (avataraṇa) bhāṣya material preceding quoted kārikā material. These boundaries often coincided with whole kārikās, but in numerous cases, smaller parts of different kārikās end up grouped together, e.g., 21c_22. The labels for this grouping were then based on the simple kārikā numbering.
-
-In a second round, both of these ways of dividing the text might be reconsidered through more detailed philological consideration.
+3) Document grouping was performed according to kārikā-and-bhāṣya sections. This could usually be distinguished by the presence of introductory (avataraṇa) bhāṣya material preceding quoted kārikā material. These boundaries often coincided with whole kārikās, but in numerous cases, smaller parts of different kārikās end up grouped together, e.g., 21c_22. The labels for this grouping were then based on the simple kārikā numbering.
 
 
 Other Important Notes: 
 
-(none)
+1) Markup of metrical material extended with tabs, forward slash, and elipses for partial verses. Marking of partial verses with 'abcd' was removed for proper verses but retained for repeated material. Meanwhile, vertical bars for punctuating prose were converted to daṇḍas.
 
 
 (numerous other details recorded elsewhere)

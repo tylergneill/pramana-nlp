@@ -249,7 +249,9 @@ if __name__ == '__main__':
 	if "--output_bracketless" in sys.argv:
 		output_bracketless = True
 
-	if "--prompt_update_ngrams" in sys.argv:
+	if ("--prompt_update_ngrams" in sys.argv
+		or "-u" in sys.argv
+		):
 		prompt_update_ngrams = True
 
 	with open(fn,'r') as f_in:

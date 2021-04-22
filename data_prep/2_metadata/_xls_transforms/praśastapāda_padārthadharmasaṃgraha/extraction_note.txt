@@ -1,26 +1,34 @@
 Structural Summary
 
-In this file of Praśastapāda's Padārthadharmasaṃgraha, an effort has been made to separately encode whitespace-separated chunks of text as words with the <w> element, although this encodes no additional information over and above the whitespace itself, e.g., "<w>tadā</w><w>saiva</w><w>cintāsantatiḥ</w>" etc. Furthermore, the normal interpretation of the <p> element is compromised when it is in turn used to contain a single punctuated sentence (or occasionally several of them), e.g.:
+1) This text consists of a prose work based loosely on the structure of Kaṇāda's Vaiśeṣikasūtra, which it does not quote in full.
 
-<p n="8.12.1.4"><rs type="text_location" xml:lang="en">8.12.1.4: </rs><pb n="184"/> <w>tatra</w><w>saṃskārapāṭavāt</w>
-<w>tāvat</w>
-...
-<w>pratyakṣākārā</w>
-<w>saṃjāyate</w> / 
-</p>
-<p n="8.12.1.4"><rs type="text_location" xml:lang="en">8.12.1.4: </rs><pb n="184"/> <w>dhātudoṣād</w>
-...
+2) At the top structural level, the XML file uses <div> and <head> to encode the following (some labels simplified):
+	1 introduction
+	2–5 uddeśa etc., dravyāsaṅkara, vaidharmya, sṛṣṭisaṃhāravidhi (respectively)
+	6–12 dravya, guṇanirūpaṇa, guṇa, karma, sāmānya, viśeṣa, samavāya (respectively)
+	13 conclusion
 
-Therefore, in order to recover the desired natural-language text paragraphs, each of these <p> sentences must first be reconstituted by joining back together its constituent <w> elements, and then they must themselves be joined with their proper <p> neighbors, as indicated by a shared @n attribute (see example above). This attribute fortunately provides very useful structural labels.
+At the bottom level, the file uses <w> to redundantly mark whitespace-separated chunks of text (with some non-coalescent sandhi dissolved).
 
-Document candidates were thus generated from these reconstitued paragraphs based on a given @n attribute, with identifiers based simply on this structural label.
+The <pb> element was used to encode page (and occasionally line) information, not to mark the actual place of page "breaks", as expected. Many were used redundantly, to indicate multiple <p> elements associated with a given page, and dash following the line number (only occasionally) seems to convey a sentence start in the middle of the line.
 
-Document grouping labels were generated easily from <head> elements.
+Finally, the <p> element was left with two distinct jobs: 1) to gather together not only <w> elements into sentences but also occasionally such sentences into larger groups of paragraphs (or parts of paragraphs), and 2) to mark affiliation to an implicit substructure (not marked elsewhere) with its @n attribute (see e.g. 6.4, 6.5).
+
+These numerous markup idiosyncracies and inconsistencies thus required much original new markup.
+
+3) After extracting available information from the XML file, new markup was created according to the following:
+	Retention of both structure (<div>) and substructure (<p>) markup in XML.
+	Reconstitution of sentences and paragraphs.	
+	Document candidates created for paragraphs (<p>).
+	Manual markup of all page breaks where they occur (e.g. mid-word).
+	Manual completion of all line numbers for beginning of paragraphs.
+	Identifiers of the type page_number,line_number.
+	Document grouping by top structure (<div>, including also substructure e.g. in section 8).
 
 
 Other Notable Encoding Issues
 
-(none)
+1) Numerous typos were silently corrected. One missing page (204) was supplied.
 
 
-(many further details recorded elsewhere)
+(some further details recorded elsewhere)
