@@ -1,0 +1,20 @@
+File Source: GRETIL
+
+
+Edition: S.D. Shastri, Vadanyayaprakarana of acharya Dharmakirtti with the commentary Vipanchitartha of acharya Santaraksita and Sambandhapariksa with the commentary of acharya Prabhachandra. Varanasi 1972; v.23-v.25: H. YAITA, Tarkarahasya kenkyu (1). Naritasan Bukkyo kenkyuujo kiyo 12, 1989, 75-98.
+
+
+Extent: complete
+
+
+Input by: Motoi Ono
+
+
+Structural Notes: 
+
+This is a short work of 25 verses. The commentary by Prabhācandra is not included here. Each verse is its own document with a numerical identifier, and no document grouping was performed.
+
+
+Other Important Notes: 
+
+1) A few typos and metrical problems were silently corrected. The improper ma-vipulā in verse 15ab remains unresolved.

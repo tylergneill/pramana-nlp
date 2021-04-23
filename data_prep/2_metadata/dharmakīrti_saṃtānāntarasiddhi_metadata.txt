@@ -1,0 +1,26 @@
+File Source: GRETIL + original digitization
+
+
+Edition: Partial text edited on basis of fragmentary Sanskrit manuscript from Junjie Chu, Sanskrit fragments of Dharmakīrti's Sāntanāntarasiddhi, in Krasser et al. (eds.), Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference. Vienna, August 23–27, 2005. Wien 2011, pp. 33–42. Sanskrit text reconstructed on the basis of Tibetan translation from J.S. Negi: Santānāntarasiddhi kārikā ṭīkā. Sarnath: Central Institute of Higher Tibetan Studies, 1997, 1-30.
+
+
+Extent: complete (reconstruction; partial edition)
+
+
+Input by: members of the Digital Sanskrit Buddhist Canon Input Project, Tyler Neill (restructuring and proofreading)
+
+
+Structural Notes: 
+
+This text consists of 93 aphorisms. The commentaries by Vinītadeva and by the anonymous author described in Chu 2011 are not included here.
+
+Document candidates and their identifiers were rearranged to coincide as closely as possible to Chu 2011. Where possible, individual aphorisms were replaced with edited material from Chu 2011, and individual identifiers were asisgned, otherwise only the text of Negi 1997 was kept and aphorisms were included together under a single identifier.
+
+No document grouping was performed.
+
+
+Other Important Notes: 
+
+1) Chu's text is encoded with 〈〉 and replaces Negi text in ().
+
+2) Some typos were corrected and spaces added.
