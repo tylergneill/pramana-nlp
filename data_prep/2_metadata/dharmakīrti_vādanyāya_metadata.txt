@@ -1,4 +1,4 @@
-File Source: GRETIL
+File Source: GRETIL + original digitization
 
 
 Edition: M.T. Much 1991, Vienna
@@ -7,23 +7,60 @@ Edition: M.T. Much 1991, Vienna
 Extent: complete
 
 
-Input by: M. Ono
+Input by: Motoi Ono, Tyler Neill (restructuring and thorough proofreading according to edition)
 
 
 Structural Notes: 
 
-This text consists of an independent prose treatise. 
+This text consists of an independent prose treatise in two parts: 1) a characterization of nigrahasthāna, and 2) an enumeration of types.
 
-For creating document candidates, the starting point was Ono's comprehensive marking of page and line numbers, as was the case with the treatment of Dharmakīrti's (mostly prose) Pramāṇavārttikasvavṛtti (q.v.) Accordingly, given the lack of paragraph markup, and in order to acheive some sort of thematic coherence for the final documents, an attempt was made to turn the editor's analytical outline of the text into a series of document grouping labels; cp. similar attempt with Ono's digitization of Miyasaka's edition of the Pramāṇavārttika.
+Document candidates were produced from paragraphs, which were restored in re-digitization. Identifiers are of the type page_number,line_number, the markup for which was manually extended as needed.
 
-However, in this case, utilizing Much's analysis (edition part II, appendix 1) proved to be very difficult, due to its alternating between decimal and non-decimal numbering (with a handful of numbering typos, as well) and due to its having both parent and nested child nodes containing text, rather than having only child nodes do so (cp. similar problems with use of nested <div> elements in SARIT texts like that for the Pramāṇavārttikālaṅkāra). Thus, the document grouping labels, which for other texts can often represent containers (such as <div> elements), were here reduced to mere milestones, with little claim to comprehensiveness. In the end, the laboriously won result may be a bit more readable, and the documents more thematically cohesive than they otherwise would have been, but much doubt remains as to whether this was the best approach.
+Document grouping was performed according to sections in Much's analysis, prioritizing those that appear as page headers in Much's edition and translation. For part 1 of the work, this was rather difficult. Much's analysis and page headers were found to sometimes be at odds, seemingly reflecting overlapping structural descriptions. The compromise reached was to mark the following sections: 0, 1, b, c, c212, c22, c222, 112, 121, 122. By contrast, part 2 was much simpler, with its clearly distinguished sections for nigrahasthāna types. The following table shows the grouping labels used and serves as a reduced form of Much's analysis:
+
+section		description			page,line
+{0}			intro				1,1–
+{1}			nigrahasthāna		1,6–
+	<a 		svabhāvahetu>		1,13–
+	{b} 	kāryahetu			3,18–
+	{c} 	anupalabdhihetu		4,20–
+	{c212}	...					5,18–
+	{c22}	...					9,20–
+	{c222}	...					10,1–
+	{112}	asādhanāṅgavacana	17,9–
+	{121}	doṣānudbhāvana		21,9–
+	{122}	adoṣodbhāvana		23,7–
+{2}			...					25,1–
+	{2.1}	pratijñāhāni		25,4–
+	{2.2}	pratijñāntara		26,17–
+	{2.3}	pratijñāvirodha		29,12–
+	{2.4}	pratijñāsaṃnyāsa	38,7–
+	{2.5}	hetvantara			39,3–
+	{2.6}	arthāntara			40,9–
+	{2.7}	nirarthaka			41,5–
+	{2.8}	avijñātārtha		42,15–
+	{2.9}	apārthaka			43,11–
+	{2.10}	aprāptakāla			44,8–
+	{2.11}	nyūna				49,6–
+	{2.12}	adhika				49,15–
+	{2.13}	punarukta			50,1–
+	{2.14}	ananubhāṣaṇa		52,6–
+	{2.15}	ajñāna				56,8–
+	{2.16}	apratibhā			58,15–
+	{2.17}	vikṣepa				59,1–
+	{2.18}	matānujñā			61,13–
+	{2.19}	paryanuyojyopekṣaṇa	62,12–
+	{2.20}	niranuyojyānuyoga	64,9–
+	{2.21}	apasiddhānta		65,9–
+	{2.22}	hetvābhāsa			68,1–
+{conclusion}					68,10–
 
 
 Other Important Notes: 
 
-1) Ono's partial sandhi analysis was automatically undone prior to further modeling preprocessing.
+1) Starting with the Ono GRETIL text, sandhi was restored (including coalescent sandhi in almost all cases).
 
-2) See Ono's "Explanatory Remarks" for further remarks on the original encoding.
+2) Numerous typos were also silently corrected in the e-text to restore Much readings, and occasionally changes were also made to correct clear mistakes in the edition.
 
 
 (a few other details recorded elsewhere)
