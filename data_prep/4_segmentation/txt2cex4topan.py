@@ -54,6 +54,12 @@ from skrutable.splitter.wrapper import Splitter
 import resize
 from validate import validate_structure, validate_content
 
+force_validate = False
+if ("--force_validate" in sys.argv or "-fv" in sys.argv): force_validate = True
+
+validate_only = False
+if ("--validate_only" in sys.argv or "-vo" in sys.argv): validate_only = True
+
 input_path = 'data/input/'
 output_path = 'data/output/'
 
@@ -161,13 +167,27 @@ for fn in fns:
 
 	success = validate_structure(text)
 	if not(success):
-		choice = input("%s did not validate (structure). continue? (Y\\n) " % fn)
-		if choice.lower() in ["n", "no"]: exit()
+		if force_validate:
+			print("%s did not validate (structure) but proceeding anyway..." % fn)
+		else:
+			choice = input("%s did not validate (structure). continue? (Y\\n) " % fn)
+			if choice.lower() in ["n", "no"]: exit()
 
 	success = validate_content(text)
 	if not(success):
-		choice = input("%s did not validate (content). continue? (Y\\n) " % fn)
-		if choice.lower() in ["n", "no"]: exit()
+		if force_validate:
+			print("%s did not validate (content) but proceeding anyway..." % fn)
+		else:
+			choice = input("%s did not validate (content). continue? (Y\\n) " % fn)
+			if choice.lower() in ["n", "no"]: exit()
+
+	text_name = fn[:fn.rfind('.txt')]
+	while text_name not in text_abbreviations[abbrv_type_pref].keys():
+		choice = input("Abbreviation not found for '%s'.\nEnter new text_name or 'quit': " % text_name)
+		if choice == "quit": exit()
+		else: text_name = choice
+
+	if validate_only: continue
 
 	text = preclean_1(text)
 
@@ -255,11 +275,6 @@ for fn in fns:
 	3) finalize_cex
 	"""
 
-	text_name = fn[:fn.rfind('.txt')]
-	if text_name not in text_abbreviations[abbrv_type_pref].keys():
-		choice = input("abbreviation not found for %s. continue? (Y\\n) " % fn)
-		if choice.lower() in ["n", "no"]: exit()
-
 	text_abbrv = text_abbreviations[abbrv_type_pref][text_name]
 
 	modified_ids = [text_abbrv + '_' + id for id in all_doc_identifiers]
@@ -267,6 +282,10 @@ for fn in fns:
 	for id, content in zip(modified_ids, all_doc_contents):
 		id = re.sub('[\[\]]','', id) # finally remove square brackets
 		cex_buffer += id + '#' + content + '\n'
+
+if validate_only:
+	print("validate_only == True, exiting.")
+	exit()
 
 # output stats for all files
 full_logging_f_path = os.path.join(logging_path_prefix, 'stats.tsv')
