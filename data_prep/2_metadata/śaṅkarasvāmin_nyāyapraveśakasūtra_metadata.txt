@@ -1,22 +1,20 @@
-File Source: private collection of Eli Franco, original likely derives from Vienna
+File Source: private exchange + original digitization
 
 
-Edition: A.B. Dhruva 1930, GOS 38, Nyāyapraveśa with three commentaries
+Edition: A.B. Dhruva 1930 (GOS 38), “Nyāyapraveśa with three commentaries”, revised according to Tachikawa 1971, pp. 140–144 (said to be based on Dhruva 1930)
 
 
 Extent: complete
 
 
-Input by: not yet determined 
+Input by: unknown + Tyler Neill (restructured, proofread)
 
 
 Structural Notes: 
 
-The text consists of Śaṅkarasvāmin's (elsewhere, such as with Jambūvijaya-ji: Dignāga's) short Nyāyapraveśa, extracted from the commentary. The file includes a detailed structural analysis.
+The text consists of Śaṅkarasvāmin's short Nyāyapraveśa or Nyāyapraveśakasūtra, extacted from Candrasūri's commentary. (On the earlier attribution of the Sūtras to Dignāga and of the Vṛtti to Haribhadrasūri, see Tucci 1928 “Is the Nyāyapraveśa by Dignāga?”). The file obtained via private exchange included a structural analysis mostly corresponding to Tachikawa 1971 and was subsequently brought back into better accord with this (but verbose headers added in initial digitization were mostly kept). Page numbers and some line numbers were also added corresponding to Dhruva 1930.
 
-Document candidates were generated from the individual sections of the structural analysis, using the provided numbers as identifiers. (Cp. the alternative method adopted for Candrasūri's (elsewhere: "Haribhadrasūri's") Nyāyapraveśavṛtti.)
-
-For document grouping, the seven 7 top level distinctions of the same structural analysis were used.
+Document candidates were generated for indented paragraphs in Tachikawa 1971, with identifiers of the type page_number,line_number corresponding to Dhruva 1930. Major numbered sections of the structural analysis (1–8, latter added here) were used to group documents.
 
 
 Other Important Notes: 
@@ -24,4 +22,4 @@ Other Important Notes:
 (none)
 
 
-(numerous other details recorded elsewhere)
+(a few other details recorded elsewhere)
