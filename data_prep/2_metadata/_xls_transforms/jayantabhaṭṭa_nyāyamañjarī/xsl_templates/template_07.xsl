@@ -10,7 +10,7 @@
 
 <xsl:template match="quote/p">
 
-[<xsl:value-of select="parent::quote/@pb-n"/>.<xsl:number count="p"/>]
+<!-- [<xsl:value-of select="parent::quote/@p"/>.<xsl:number count="p"/>] -->
 
 <xsl:value-of select="."/>
 </xsl:template>

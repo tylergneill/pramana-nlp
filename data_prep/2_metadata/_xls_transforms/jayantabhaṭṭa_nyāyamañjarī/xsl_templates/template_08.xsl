@@ -8,11 +8,28 @@
 </xsl:copy>
 </xsl:template>
 
-<xsl:template match="quote">
+<xsl:template match="head">
 
-[<xsl:value-of select="@pb-n"/>.0]
+{<xsl:value-of select="."/>}
 
-<xsl:value-of select="."/>
+</xsl:template>
+
+<xsl:template match="label[@type='head']">
+
+{<xsl:value-of select="."/>}
+
+</xsl:template>
+
+<xsl:template match="label[@type='trailer']">
+
+〈||<xsl:value-of select="."/>〉
+
+</xsl:template>
+
+<xsl:template match="trailer">
+
+〈||<xsl:value-of select="."/>〉
+
 </xsl:template>
 
 </xsl:stylesheet>
