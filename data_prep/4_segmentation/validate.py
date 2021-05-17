@@ -19,7 +19,8 @@ together ensure proper bracket pairing
 """
 abs = '\[\]{}<>\(\)〈〉' # all_brackets_string
 empty_bracket_pair_regex = '(\[\])|({})|(<>)|(\(\))|(〈〉)'
-full_bracket_pair_regex = '(\[[^%s]*?\])|({[^%s]*?})|(<[^%s]*?>)|(\([^%s]*?\))' % tuple([abs]*4)
+full_deletable_bracket_pair_regex = '(\[[^%s]*?\])|({[^%s]*?})|(<[^%s]*?>)|(\([^%s]*?\))' % tuple([abs]*4)
+full_keepable_bracket_pair_regex = '〈([^%s]*?)〉' % abs
 
 def view_problem_brackets(problem_brackets, raw_input_text):
 
@@ -102,10 +103,14 @@ def validate_content(raw_input_text, verbose=False):
 
 	content = raw_input_text
 
-	# remove brackets and their contents, iteratively in case nested
+	# remove deletable brackets and their contents, iteratively in case nested
 	# leave behind only text content
-	while bool( re.search(full_bracket_pair_regex, content) ) == True:
-		content = re.sub(full_bracket_pair_regex, '', content)
+	while bool( re.search(full_deletable_bracket_pair_regex, content) ) == True:
+		content = re.sub(full_deletable_bracket_pair_regex, '', content)
+
+	# keep content of keepable brackets
+	while bool( re.search(full_keepable_bracket_pair_regex, content) ) == True:
+		content = re.sub(full_keepable_bracket_pair_regex, '\\1', content)
 
 	# clean up extra whitespace
 	regex_replacements = [

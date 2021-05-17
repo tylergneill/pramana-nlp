@@ -1,30 +1,30 @@
-File Source: private collection of Eli Franco, original likely derives from Vienna
+File Source: SARIT
 
 
 Edition: Dharmottarapradīpa, D.B. Malvania, Patna 1955
 
 
-Extent: Cuts off abruptly in middle of 2.46; miscellaneous material thereafter (e.g. isolated 3.71) excluded here.
+Extent: complete
 
 
-Input by: Not yet determined. (An apparent second hand, with different punctuation, begins at 2.41.)
+Input by: Aurorachana, Auroville; Liudmila Olalde
 
 
 Structural Notes: 
 
-Overview of underlying Nyāyabindu for reference:
+Prose commentary based on the aphoristic Nyāyabindu, of which the chapter.sūtra structure is:
 	1.1–21
 	2.1–48
 	3.1–140
 
-Document candidates generated from sūtra-with-commentary sections, identifiers reflects simply chapter.sūtra numbering.
+Based on the pratīka-style of citation, the commentary is understood to not contain the full text of the Nyāyabindu. Therefore the latter, which was supplied in the edition, has been annotated as removable structural material here.
 
-Document grouping based on two chapters only.
+Document candidates generated from prose paragraphs with identifiers of the type page_number,paragraph_number. Document grouping based on chapter.sūtra structure.
 
 
 Other Important Notes: 
 
-1) (...) material left to be automatically deleted later.
+1) (none)
 
 
-(numerous other details recorded elsewhere)
+(several other details recorded elsewhere)

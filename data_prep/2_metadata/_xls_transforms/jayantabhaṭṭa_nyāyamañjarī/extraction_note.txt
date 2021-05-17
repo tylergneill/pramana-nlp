@@ -1,21 +1,15 @@
 Structural Summary
 
-In this file, the desired natural-language text, Jayantabhaṭṭa's Nyāyamañjarī (NM), is found by selectively extracting the NM <quote> elements from the surrounding Nyāyasaurabhaṭippaṇī (NSṬ) commentary that makes up the <body> element. This encoding reflects that the NSṬ was printed below the NM on the pages of Varadacharya's 1969-1983 Mysore edition; the NSṬ does not quote the NM in full. The NSṬ only extends for the first 3 out of 12 āhnikas. Nevertheless, for āhnikas 4–12, the same <quote> within <div> structure holds. Thus, the basic NM text is reconstituted by reconstructing the two-level <div> structure within the main <body> element with only the NM <quote> elements inside.
+In this file, the desired natural-language text, Jayantabhaṭṭa's Nyāyamañjarī (NM), is found by selectively extracting the NM <quote> elements from the surrounding Nyāyasaurabhaṭippaṇī (NSṬ) commentary that makes up the <body> element. This encoding reflects that the NSṬ was printed below the NM on the pages of Varadacharya's 1969-1983 Mysore edition; the NSṬ does not quote the NM in full. The NSṬ only extends for the first 3 out of 12 āhnikas. Nevertheless, for āhnikas 4–12, the same <quote> within <div> structure holds. Thus, the basic NM text is reconstituted by reconstructing the two-level <div> structure within the main <body> element with basically only the NM <quote> elements inside (plus <pb> etc.)
 
 The two-level <div> structure is: 1) physical volume, 2) logical āhnika. Vol. I contains āhnikas 1–4, vol. II contains āhnikas 5–12.
 
-Within the āhnikas, there are two kinds of further structural markup. Again, one is physical, the other logical. The logical markup is division into prose paragraphs with <p> elements. This generates the basic document candidates used for modeling.
-
-The physical markup is the printed edition page number, which is the basis for creating identifiers. An attempt was made to salvage this information from the @n attributes of <pb> elements, which are located consistently just outside of, and specifically prior to, the desired NM <quote> elements (at least near the beginning of the file), by relocating them to be novel @pb-n attributes of NM <quote> elements, as reflected in the "modified" file ultimately used for transformation. However, this solution was not entirely successful, since the majority of <pb> elements begin to be located within <quote> elements after the NSṬ ceases at the end of āhnika 3 (the few exceptions: II.3, II.143, II.263, II.360, II.430, II.522, II.584, II.645). There are thus many <pb> elements per NM <quote> element rather than just one, as before. The resulting identifiers are therefore currently not yet very useful for humans and should be redone with different handling of the variously-located <pb> elements.
-
-Currently, document identifiers are built from the volume number, āhnika number, preceding page number (determined in the above-mentioned way), and the number of the paragraph starting from the last time the page number changed.
-
-Document grouping labels were produced from topic headers marked the by <head> element.
+From out of this structure, paragraphs were retained as the primary document candidate, with identifiers of the type page_number,paragraph_number (the latter in roman numerals). Grouping was performed on the basis of verbose section headers.
 
 
 Other Notable Encoding Issues
 
-1) Inconsistencies found with <lb break="no"/>.
+1) Inconsistencies such as with <lb break="no"/> necessitated extensive prooreading of page and paragraph breaks.
 
 
 (many further details recorded elsewhere)

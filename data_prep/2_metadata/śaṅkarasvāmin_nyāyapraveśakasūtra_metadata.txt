@@ -12,9 +12,9 @@ Input by: unknown + Tyler Neill (restructured, proofread)
 
 Structural Notes: 
 
-The text consists of Śaṅkarasvāmin's short Nyāyapraveśa or Nyāyapraveśakasūtra, extacted from Candrasūri's commentary. (On the earlier attribution of the Sūtras to Dignāga and of the Vṛtti to Haribhadrasūri, see Tucci 1928 “Is the Nyāyapraveśa by Dignāga?”). The file obtained via private exchange included a structural analysis mostly corresponding to Tachikawa 1971 and was subsequently brought back into better accord with this (but verbose headers added in initial digitization were mostly kept). Page numbers and some line numbers were also added corresponding to Dhruva 1930.
+The text consists of Śaṅkarasvāmin's short Nyāyapraveśa or Nyāyapraveśakasūtra, extacted from Candrasūri's commentary. (On the earlier attribution of the Sūtras to Dignāga and of the Vṛtti to Haribhadrasūri, see Tucci 1928 “Is the Nyāyapraveśa by Dignāga?”). The file obtained via private exchange included a structural analysis mostly corresponding to Tachikawa 1971 and was subsequently brought back into better accord with this (with the exception that most verbose headers added in initial digitization were kept). Page numbers and some line numbers were also added corresponding to Dhruva 1930.
 
-Document candidates were generated for indented paragraphs in Tachikawa 1971, with identifiers of the type page_number,line_number corresponding to Dhruva 1930. Major numbered sections of the structural analysis (1–8, latter added here) were used to group documents.
+Document candidates were generated for indented paragraphs in Tachikawa 1971, with identifiers of the type page_number,line_number corresponding to (NB!) Dhruva 1930. Major numbered sections of the structural analysis (1–8, latter added here) were used to group documents.
 
 
 Other Important Notes: 

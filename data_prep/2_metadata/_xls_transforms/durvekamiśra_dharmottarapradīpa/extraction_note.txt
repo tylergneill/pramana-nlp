@@ -1,21 +1,19 @@
 Structural Summary
 
-In this file, the desired natural-language text, Durvekamiśra's subcommentary Dharmottarapradīpa (DUP), is found by extracting the <body> element minus its <quote> elements containing base-text Nyāyabindu (NB) and commentary Nyāyabinduṭīkā (NBṬ), which Malvania's 1971 edition prints at the top of the page but which Durvekamiśra himself did not actually quote in full. By contrast, Durvekamiśra's own quotes are often abbreviated and seem to receive no mark-up here, e.g., p.16, NBṬ material <quote type="commentary1" ana="nbṭ"><p>...तया प्रेक्षावन्तः...</quote>... referred to soon after in DUP <p> element as simple “इत्याह तया--इति ।”. In the future, it might make sense to separately extract the full text of the Nyāyabinduṭīkā, as well.
+Malvania's 1971 edition printed the NBṬ and NB at the top of the page and DUP at the bottom, but judging from the latter's pratīka-style of citation, Durvekamiśra himself did not actually quote his base-texts in full. Thus, two separate works were extracted from this file: Dharmottara's Nyāyabinduṭīkā (NBṬ) and Durvekamiśra's subcommentary Dharmottarapradīpa (DUP).
 
-Within <body>, 3 <div> elements correspond to the three chapters of the NB (pratyakṣa, etc.). Within each of these chapters, the quoted NB material is numbered (1.1–21, 2.1–48, 3.1–140) with an @xml:id attribute. However, since the placement of these NB <quote> elements prioritizes the physical layout of the printed edition over the logical structure of Durvekamiśra's prose, it is not possible to reliably associate this logical information with the <p> elements for Dharmottarapradīpa paragraphs, resulting in less-than-ideal identifiers.
+Since the <body> element encodes the latter with the former in <quote> elements, the former was obtained by extracting basically only the <quote> elements from within the <body> element (plus <pb> etc.), while the latter was extracted by doing the opposite, i.e., extracting everything but the <quote> elements.
 
-Thus, document candidates were created from DUP <p> elements and given identifiers of the format [edition_page_#.#_of_paragraph_on_starting_page] (e.g., [89.2]). These edition page numbers were inherited from immediately preceding <pb> elements. Time permitting, it may be worth redoing these identifiers as [page_#,line_#], if this proves to be possible with current <pb> and <lb> encoding (this may be especially difficult, e.g., when these occur within <supplied> and <quote> elements).
-
-In turn, document grouping labels were created by combining two of the above-mentioned @xml:id attributes into a transition range (e.g., {nb.2.3_nb.2.4}) and placing this before the <p> element within which the <quote> element with the new @xml:id value was found (e.g., before [90.1]).
+Document candidates were created on the basis of prose paragraphs for both texts, with identifiers of the type page_number,paragraph_number (the latter in roman numerals). Document grouping was performed on the basis of chapter.sūtra structure.
 
 
 Other Notable Encoding Issues
 
-1) Inconsistencies found with <lb break="no"/>, including issues with hyphen.
+1) Inconsistencies such as with placement of <pb>, placement of base-text NB <quote> elements, and <lb break="no"/> (including issues with hyphen) necessitated proofreading of page and paragraph breaks.
 
-2) Inconsistencies found with nesting of NB <quote> within NBṬ <quote>, i.e., sometimes NB <quote> placed before respective NBṬ <quote>, sometimes placed within it, seemingly depending on whether NBṬ has any introductory material to say first.
+2) For extraction of the NBṬ, placement of NB <quote> elements was found to prioritize the physical layout of the printed edition over the logical structure of Durvekamiśra's prose. Thus it was necessary to manually proofread (e.g., on the basis of double-daṇḍas) association of such material with NBṬ commentary.
 
 3) Mark-up found to be lacking for some commentary material, e.g., nb.1.11 (p.67) <quote type="commentary1" ana="nbṭ"> ends too early, leaving "bhūtaḥ sadbhūto'rthaḥ । pramāṇena dṛṣṭaśca sadbhūtaḥ । yathā catvāryāryasatyāni ... tāvat tasyagamanam ।" encoded as DUP altho in fact this still NBṬ. This one case corrected in "modified" file used for transform.
 
 
-(many further details recorded elsewhere)
+(numerous further details recorded elsewhere)
