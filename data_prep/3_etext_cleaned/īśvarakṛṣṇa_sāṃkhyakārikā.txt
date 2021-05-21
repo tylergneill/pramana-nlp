@@ -27,8 +27,8 @@
 [25]	sāttvika ekādaśakaḥ pravartate vaikṛtād ahaṃkārāt / bhūtādes tanmātraḥ sa tāmasas taijasād ubhayaṃ //
 [26]	buddhī'ndriyāṇi cakṣuḥ śrotraghrāṇarasanatvagākhyāni / vākpāṇipādapāyū 'pasthān karm'endriyāny āhuḥ //
 [27]	ubhayātmakam atra manaḥ saṃkalpakam indriyaṃ ca sādharmyāt / guṇapariṇāmaviśeṣān nānātvam bāhyabhedāc ca //
-[28]	śabdādiṣu pañcānām ālocanamātram iṣyate vṛttiḥ / vacanādānaviharaṇ'otsargānandāś ca pañcānām //
-[29]	svālakṣaṇyaṃ vṛttis trayasya saiṣā bhavaty asāmānyā / sāmānyakaṛaṇavṛttiḥ prāṇādyā vāyavaḥ pañca //
+[28]	śabdādiṣu pañcānām ālocanamātram iṣyate vṛttiḥ / vacanādānaviharaṇotsargānandāś ca pañcānām //
+[29]	svālakṣaṇyaṃ vṛttis trayasya saiṣā bhavaty asāmānyā / sāmānyakaraṇavṛttiḥ prāṇādyā vāyavaḥ pañca //
 [30]	yugapac catuṣṭayasya tu vṛttiḥ kramaśaś ca tasya nirdiṣṭā / dṛṣṭe tathāpy adṛṣṭe trayasya tatpūrvikā vṛttiḥ //
 [31]	svāṃ svām pratipadyante parasparākūtahetukāṃ vṛttim / puruṣā'rtha eva hetur na kena cit kāryate karaṇam //
 [32]	karaṇaṃ trayodaśavidhaṃ tad āharaṇadhāraṇaprakāśakaram / kāryaṃ ca tasya daśadhāhāryaṃ, dhāryam prakāśyaṃ ca //
@@ -39,7 +39,7 @@
 [37]	sarvam pratyupabhogaṃ yasmāt puruṣasya sādhayati buddhiḥ / saiva ca viśinaṣṭi punaḥ pradhānapuruṣā'ntaraṃ sūkṣmam //
 [38]	tanmātrāṇy aviśeṣās tebhyo bhūtāni pañca pañcabhyaḥ / ete smṛtā viśeṣāḥ śāntā ghorāś ca mūḍhāś ca //
 [39]	sūkṣmā mātāpitṛjāḥ saha prabhūtais tridhā viśeṣāḥ syuḥ / sūkṣmās teṣāṃ niyatā mātāpitṛjā nivartante //
-[40]	pūrv'otpannam asaktaṃ niyatam mahadādi sūkṣmaparyantam / saṃsarati nirupabhogam bhāvair adhivāsitaṃ liṅgam //
+[40]	pūrvotpannam asaktaṃ niyatam mahadādi sūkṣmaparyantam / saṃsarati nirupabhogam bhāvair adhivāsitaṃ liṅgam //
 [41]	citraṃ yathāśrayam ṛte sthāṇvādibhyo vinā yathā chāyā / tadvad vināviśeṣair na tiṣṭhati nirāśrayaṃ liṅgam //
 [42]	puruṣā'rthahetukam idaṃ nimittanaimittikaprasaṅgena / prakṛter vibhutvayogān naṭavad vyavatiṣṭhate liṅgam //
 [43]	sāṃsiddhikāś ca bhāvāḥ prākṛtikā vaikṛtāś ca dharmādyāḥ / dṛṣṭāḥ karaṇāśrayiṇaḥ kāryāśrayiṇaś ca kalalādyāḥ //
@@ -48,8 +48,8 @@
 [46]	eṣa pratyayasargo viparyayā'śaktituṣṭisiddhyākhyaḥ / guṇavaiṣamyavimardāt tasya ca bhedās tu pañcāśat //
 [47]	pañca viparyayabhedā bhavanty aśakteś ca karaṇavaikalyāt / aṣṭāviṃśatibhedās tuṣṭir navadhāṣṭadhā siddhiḥ //
 [48]	bhedas tamaso 'ṣṭavidho mohasya ca daśavidho mahāmohaḥ / tāmisro 'ṣṭādaśadhā tathā bhavaty andhatāmisraḥ //
-[49]	ekādaś' endriyavadhāḥ saha buddhivadhair aśaktir uddiṣṭā / saptadaśa vadhā buddher viparyayāt tuṣṭisiddhīnām //
-[50]	ādhyātmikāś catasraḥ prakṛtyupādānakālabhāgyākhyāḥ / bāhyā viṣay'oparamāc ca pañca nava tuṣṭayo 'bhimatāḥ //
+[49]	ekādaśendriyavadhāḥ saha buddhivadhair aśaktir uddiṣṭā / saptadaśa vadhā buddher viparyayāt tuṣṭisiddhīnām //
+[50]	ādhyātmikāś catasraḥ prakṛtyupādānakālabhāgyākhyāḥ / bāhyā viṣayoparamāc ca pañca nava tuṣṭayo 'bhimatāḥ //
 [51]	ūhaḥ śabdo 'dhyayanaṃ duḥkhavighātās trayaḥ suhṛtprāptiḥ / dānaṃ ca siddhayo 'ṣṭau siddheḥ pūrvo 'ṅkuśas trividhaḥ //
 [52]	na vinā bhāvair liṅgaṃ na vinā liṅgena bhāvanirvṛttiḥ / liṅgākhyo bhāvākhyas tasmād dvividhaḥ pravartate sargaḥ //
 [53]	aṣṭavikalpo daivas tairyagyonaś ca pañcadhā bhavati / mānuṣyaś c' aikavidhaḥ samāsato bhautikaḥ sargaḥ //

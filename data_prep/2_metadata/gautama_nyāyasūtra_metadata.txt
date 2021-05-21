@@ -1,0 +1,17 @@
+File Source: SARIT GitHub page
+
+
+Edition: Calcutta 1936–1944, T. and A. Tarkatīrtha
+
+
+Extent: complete
+
+
+Input by: Young Buddhist Association of the University of Tokyo (Bussei); Dominik Wujastyk
+
+
+Structure Etc.: 
+
+Content simply extracted from corresponding text file of Vātsyāyana's Nyāyabhāṣya in this corpus, q.v.
+
+One document candidate per sūtra, simple grouping by āhnika (e.g., 1.1, 1.2, 2.1).
