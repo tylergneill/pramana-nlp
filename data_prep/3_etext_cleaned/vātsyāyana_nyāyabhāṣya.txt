@@ -630,11 +630,11 @@ saṃjñāśabdaiḥ pṛthagupadeśo bhūtānāṃ vibhaktānāṃ suvacaṃ k�
 [0202,i]
 
 ime tu khalu —
-"gandharasarūpasparśaśabdāḥ pṛthivyādiguṇās tadarthāḥ //
+"gandharasarūpasparśaśabdāḥ pṛthivyādiguṇās tadarthāḥ //" (1.1.14)
 
 [0202,iii]
 
-pṛthivyādīnāṃ yathāviniyogaṃ guṇā indriyāṇāṃ yathākramam arthā viṣayā iti //" (1.1.14)
+pṛthivyādīnāṃ yathāviniyogaṃ guṇā indriyāṇāṃ yathākramam arthā viṣayā iti //
 
 {1.1.15}
 
@@ -2871,11 +2871,11 @@ tridhā khalu brāhmaṇavākyāni viniyuktāni — vidhivacanāny arthavādavac
 [0557,i]
 
 tatra —
-"vidhir vidhāyakaḥ //
+"vidhir vidhāyakaḥ //" (2.1.63)
 
 [0557,iii]
 
-yad vākyaṃ vidhāyakaṃ codakaṃ sa vidhiḥ / vidhis tu niyogo 'nujñā vā / yathā "agnihotraṃ juhuyāt svargakāmaḥ" ityādi //" (2.1.63)
+yad vākyaṃ vidhāyakaṃ codakaṃ sa vidhiḥ / vidhis tu niyogo 'nujñā vā / yathā "agnihotraṃ juhuyāt svargakāmaḥ" ityādi //
 
 {2.1.64}
 
