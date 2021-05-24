@@ -14,17 +14,14 @@ Input by: Sanskrit Buddhist Input Project
 
 Structural Notes:
 
-Consists of 27 prakaraṇas commenting on respective chapters of Nāgārjuna's Mūlamadhyamakakārikā.
+Consists of 27 prakaraṇas commenting on respective chapters of Nāgārjuna's Mūlamadhyamakakārikā (the final kārikā numbers of which are: 1.16, 2.25, 3.9, 4.9, 5.8, 6.10, 7.34, 8.13, 9.12, 10.16, 11.8, 12.10, 13.8, 14.8, 15.11, 16.10, 17.33, 18.12, 19.6, 20.24, 21.21, 22.16, 23.25, 24.40, 25.24, 26.12, 27.30).
 
-Documents generated from both prose commentarial paragraphs and quoted (and indented) verse material.
-
-Document grouping based on numbered prakaraṇas.
+Document candidates were generated from indented prose paragraphs and verse material (the latter when not preceded by an em-dash or similar direct lead-in). Document grouping based on numbered kārikā-commentary sections.
 
 
 Other Important Notes:
 
-1) (...) and [...] material silently accepted as suggestions; function not entirely clear; spacing unpredictable.
-
+(none)
 
 
 (numerous other details recorded elsewhere)
