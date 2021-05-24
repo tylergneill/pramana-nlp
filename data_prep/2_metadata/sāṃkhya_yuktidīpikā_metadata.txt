@@ -1,0 +1,23 @@
+File Source: GRETIL
+
+
+Edition: Delhi 1990-1992, eds. Shiv Kumar and D.N. Bhargava (2 vols.)
+
+
+Extent: complete
+
+
+Input by: Dhaval Patel
+
+
+Structural Notes: 
+
+A prose commentary on the 72 Sāṃkhyakārikās. Document candidates were generated from indented prose paragraphs and metrical material (the latter when not directly introduced by an em-dash etc.) Document grouping was performed according to kārikā-commentary sections.
+
+
+Other Important Notes: 
+
+1) Page numbers and paragraph breaks were reviewed and/or restored manually.
+
+
+(a few other details recorded elsewhere)
