@@ -141,7 +141,7 @@ def preclean_2(text):
 	"""
 	regex_replace = [
 		['([\|/])+([\d\.,– ]+)(\\1)+', '\\1'], # discard punctuation adjacent to numbers
-		['[\d"“”\t]', ''], # discard numbers, quotation marks
+		['[\d"“”\t\*]', ''], # discard numbers, quotation marks
 		[' {2,}', ' '], # discard extra spacing
 		['([\|/\.] ?)+', '\\1'], # simplify duplicate punctuation (also with intervening spaces)
 		[u'([^ ])([\|/\.,;:—\?])', '\\1 \\2'], # space out punctuation as necessary

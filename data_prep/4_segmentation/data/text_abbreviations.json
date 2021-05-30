@@ -3,7 +3,7 @@
 "common": {
 
 	"bhāsarvajña_nyāyabhūṣaṇa" : "NBhū",
-	"candrakīrti_prasannapadā" : "PPad",
+	"candrakīrti_prasannapadā" : "PPad",
 	"candrānanda_vaiśeṣikasūtraṭīkā" : "VSṬ",
 	"dharmakīrti_hetubindu" : "HB",
 	"dharmakīrti_nyāyabindu" : "NB",
@@ -16,6 +16,8 @@
 	"dharmottara_nyāyabinduṭīkā" : "NBṬ",
 	"dignāga_ālambanaparīkṣāvṛtti" : "AP",
 	"dignāga_pramāṇasamuccayavṛtti" : "PSV",
+	"gautama_nyāyasūtra" : "NS",
+	"īśvarakṛṣṇa_sāṃkhyakārikā" : "SK",
 	"jaimini_mīmāṃsāsūtra" : "MS",
 	"jayantabhaṭṭa_nyāyakalikā" : "NyKal",
 	"jayantabhaṭṭa_nyāyamañjarī" : "NM",
@@ -32,7 +34,7 @@
 	"śaṅkarasvāmin_nyāyapraveśakasūtra" : "NPS",
 	"sāṃkhya_yuktidīpikā" : "YD",
 	"sthiramati_triṃśikābhāṣya" : "TriṃśBh",
-	"sucaritamiśra_ślokavārttikakāśikā" : "ŚVK",
+	"sucaritamiśra_ślokavārttikakāśikā" : "ŚVK",
 	"uddyotakara_nyāyavārttika" : "NV",
 	"vasubandhu_viṃśatikāvṛtti" : "ViṃśV",
 	"vātsyāyana_nyāyabhāṣya" : "NBh",
