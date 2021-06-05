@@ -62,7 +62,7 @@ validate_only = False
 if ("--validate_only" in sys.argv or "-vo" in sys.argv): validate_only = True
 
 resize_only = False
-if ("--resize_only" in sys.argv or "-vo" in sys.argv): resize_only = True
+if ("--resize_only" in sys.argv or "-ro" in sys.argv): resize_only = True
 
 input_path = 'data/input/'
 output_path = 'data/output/'
@@ -158,6 +158,10 @@ processing_starting_time = datetime.now().time()
 section_labels = {}
 section_labels_json_fn = 'section_labels.json'
 
+# initialize dictionary of unsplit original full text with punctuation by doc id
+doc_original_fulltext = {}
+doc_original_fulltext_json_fn = 'doc_original_fulltext.json'
+
 fns = os.listdir(input_path)
 fns.sort()
 for fn in fns:
@@ -245,9 +249,9 @@ for fn in fns:
 			all_doc_identifiers.append(doc_id)
 			all_doc_contents.append(doc_c)
 
-			# save section label for lookup later
-			section_labels[text_abbrv][doc_id] = S.section_label
-
+			# save section label and original fulltext for lookup later
+			section_labels[text_abbrv + '_' + doc_id[1:-1]] = S.section_label[1:-1] # drop both brackets here
+			doc_original_fulltext[text_abbrv + '_' + doc_id[1:-1]] = doc_c # drop id brackets
 
 	doc_count_after_resize = len(all_doc_contents)
 
@@ -256,8 +260,14 @@ for fn in fns:
 	# also log section_labels dict as json
 	full_f_path = os.path.join(output_path, section_labels_json_fn)
 	with open(full_f_path,'w') as f_out:
-		json_object = {}
-		json_object["section_labels"] = section_labels
+		json_object = section_labels
+		json.dump(json_object, f_out, indent=4, ensure_ascii=False)
+
+	log_2col_data('3_pre-word-split/', all_doc_identifiers, all_doc_contents)
+
+	full_f_path = os.path.join(output_path, doc_original_fulltext_json_fn)
+	with open(full_f_path,'w') as f_out:
+		json_object = doc_original_fulltext
 		json.dump(json_object, f_out, indent=4, ensure_ascii=False)
 
 	if resize_only: continue
@@ -271,8 +281,6 @@ for fn in fns:
 	# join and preclean for word-splitting
 	presegmentation_content = '\n'.join(all_doc_contents)
 	presegmentation_content = preclean_2(presegmentation_content)
-
-	log_2col_data('3_pre-word-split/', all_doc_identifiers, all_doc_contents)
 
 	# first do manual segmentation
 	presegmentation_content = presegmentation_content.replace('-', ' ')
