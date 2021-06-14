@@ -213,7 +213,6 @@ for fn in fns:
 	all_Sections = [] # list of Section objects
 	all_doc_identifiers = [] # list of strings
 	all_doc_contents = [] # list of strings
-	section_labels[text_abbrv] = {} # dict of dicts
 
 	for raw_section in raw_section_data:
 
@@ -337,7 +336,7 @@ delta = datetime.combine(
 	processing_ending_time) - datetime.combine(date.today(),
 	processing_starting_time
 	)
-print("%s finished in %d:%d" % (
+print("%s finished in %d:%02d" % (
 	os.path.basename(__file__),
 	delta.seconds//60, delta.seconds%60)
 	)

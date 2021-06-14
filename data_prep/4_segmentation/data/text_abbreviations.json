@@ -17,6 +17,8 @@
 	"dharmottara_nyayabindutika" : "NBṬ",
 	"dignaga_alambanapariksavrtti" : "AP",
 	"dignaga_pramanasamuccayavrtti" : "PSV",
+	"gadadhara_muktivada" : "MV",
+	"gangesa_tattvacintamani" : "TCM",
 	"gautama_nyayasutra" : "NS",
 	"isvarakrsna_samkhyakarika" : "SK",
 	"jaimini_mimamsasutra" : "MS",
@@ -25,7 +27,7 @@
 	"jayarasi_tattvopaplavasimha" : "TUS",
 	"jinendrabuddhi_pramanasamuccayatika" : "PSṬ",
 	"kanada_vaisesikasutra" : "VS",
-	"kumarila_slokavarttika" : "ŚV",
+	"kumarila_slokavartika" : "ŚV",
 	"nagarjuna_mulamadhyamakakarika" : "MMK",
 	"nagarjuna_vigrahavyavartani" : "ViVy",
 	"patanjali_yogasutrabhasya" : "YSBh",
@@ -38,6 +40,7 @@
 	"uddyotakara_nyayavartika" : "NV",
 	"vasubandhu_vimsikavrtti" : "ViṃśV",
 	"vatsyayana_nyayabhasya" : "NBh",
+	"vidyanandin_satyasasanapariksa": "SŚP",
 	"vyomasiva_vyomavati" : "VyV"
 
 },
