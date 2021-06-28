@@ -14,7 +14,7 @@ oṃ namo vīttarāgāya ।
 
 [1,ii]
 
-("samyagjñānapūrvikā sarvapuruṣārthasiddhiriti tad vyutpādyate ॥ 1 ॥") (NB 1.1)
+("samyagjñānapūrvikā sarvapuruṣārthasiddhiriti tad vyutpādyate ॥ 1 ॥")(NB 1.1)
 
 <ācāryadharmottaraviracitā nyāyabinduṭīkā>
 
@@ -212,7 +212,7 @@ vyutpādyate iti vipratipattinirākaraṇena pratipādyate iti ॥
 [35,i]
 
 caturvidhā cātra vipratipattiḥ saṃkhyālakṣaṇagocaraphalaviṣayā । tatra saṃkhyāvipratiprattiṃ nirākarttumāha —
-("dvividhaṃ samyagjñānam ॥ 2 ॥") (NB 1.2)
+("dvividhaṃ samyagjñānam ॥ 2 ॥")(NB 1.2)
 
 [35,ii]
 
@@ -231,7 +231,7 @@ dve eva samyagjñānavyaktī iti । vyaktibhede ca pradarśite prativyaktiniyat
 [37,i]
 
 kiṃ punastad dvaividhyamityāha —
-("pratyakṣamanumānañceti ॥ 3 ॥") (NB 1.3)
+("pratyakṣamanumānañceti ॥ 3 ॥")(NB 1.3)
 
 <38>
 
@@ -253,7 +253,7 @@ mīyate'neneti mānam । karaṇasādhanena mānaśabdena sārūpyalakṣaṇa�
 
 [40,i]
 
-("tatra pratyakṣaṃ kalpanā'poḍhamabhrāntam ॥ 4 ॥") (NB 1.4)
+("tatra pratyakṣaṃ kalpanā'poḍhamabhrāntam ॥ 4 ॥")(NB 1.4)
 
 [40,ii]
 
@@ -294,7 +294,7 @@ na tu avisaṃvādakamabhrāntamiha grahītavyam । yataḥ samyagjñānameva p
 [47,ii]
 
 kīdṛśī punaḥ kalpaneha gṛhyata ityāha —
-("abhilāpasaṃsargayogyapratibhāsā pratītiḥ kalpanā ॥ 5 ॥") (NB 1.5)
+("abhilāpasaṃsargayogyapratibhāsā pratītiḥ kalpanā ॥ 5 ॥")(NB 1.5)
 
 [47,iii]
 
@@ -344,7 +344,7 @@ anenaiva nyāyena yogijñānamapi sakalaśabdārthāvabhāsitve'pi saṃketakāl
 
 [54,i]
 
-("tayā rahitaṃ timirāśubhramaṇanauyānasaṃkṣobhādyanāhitavibhramaṃ jñānaṃ pratyakṣam ॥ 6 ॥") (NB 1.6)
+("tayā rahitaṃ timirāśubhramaṇanauyānasaṃkṣobhādyanāhitavibhramaṃ jñānaṃ pratyakṣam ॥ 6 ॥")(NB 1.6)
 
 [54,ii]
 
@@ -371,7 +371,7 @@ tairanāhito vibhramo yasmiṃstathāvidhaṃ jñānaṃ pratyakṣam ॥
 [56,i]
 
 tadevaṃ lakṣaṇamākhyāya yairindriyameva draṣṭṛ kalpitaṃ mānasapratyakṣalakṣaṇe ca doṣa udbhāvitaḥ, svasaṃvedanaṃ ca nābhyupagatam, yogijñānaṃ ca; teṣāṃ vipratipattinirākaraṇārthaṃ prakārabhedaṃ pratyakṣasya darśayannāha —
-("tat caturvidham ॥ 7 ॥") (NB 1.7)
+("tat caturvidham ॥ 7 ॥")(NB 1.7)
 
 [56,ii]
 
@@ -381,7 +381,7 @@ tat caturvidhamiti ॥
 
 [56,iii]
 
-("indriyajñānam ॥ 8 ॥") (NB 1.8)
+("indriyajñānam ॥ 8 ॥")(NB 1.8)
 
 [56,iv]
 
@@ -394,7 +394,7 @@ indriyasya jñānam indriyajñānam । indriyāśritaṃ yat tat pratyakṣam �
 [57,i]
 
 mānasa pratyakṣe parairyo doṣa udbhāvitastaṃ nirākarttuṃ mānasapratyakṣalakṣaṇamāha —
-("svaviṣayānantaraviṣayasahakāriṇendriyajñānena samanantarapratyayena janitaṃ tanmanovijñānam ॥ 9 ॥") (NB 1.9)
+("svaviṣayānantaraviṣayasahakāriṇendriyajñānena samanantarapratyayena janitaṃ tanmanovijñānam ॥ 9 ॥")(NB 1.9)
 
 <58>
 
@@ -447,7 +447,7 @@ etacca siddhāntaprasiddhaṃ mānasaṃ pratyakṣam । na tvasya prasādhakam
 [64,i]
 
 svasaṃvedanamākhyātumāha —
-("sarvacittacaittānāmātmasaṃvedanam ॥ 10 ॥") (NB 1.10)
+("sarvacittacaittānāmātmasaṃvedanam ॥ 10 ॥")(NB 1.10)
 
 [64,ii]
 
@@ -484,7 +484,7 @@ tacca jñānarūpavedanamātmanaḥ sākṣātkāri nirvikalpakamabhrāntaṃ ca
 [67,i]
 
 yogipratyakṣaṃ vyākhyātumāha
-("bhūtārthabhāvanāprakarṣaparyantajaṃ yogijñānaṃ ceti ॥ 11 ॥") (NB 1.11)
+("bhūtārthabhāvanāprakarṣaparyantajaṃ yogijñānaṃ ceti ॥ 11 ॥")(NB 1.11)
 
 [67,ii]
 
@@ -527,7 +527,7 @@ yogaḥ samādhiḥ । sa yasyāsti sa yogī । tasya jñānaṃ pratyakṣam 
 [70,iii]
 
 tadevaṃ pratyakṣasya kalpanāpoḍhatvābhrāntatvayuktasya prakārabhedaṃ pratipādya viṣayavipratipattiṃ nirākarttumāha —
-("tasya viṣayaḥ svalakṣaṇam ॥ 12 ॥") (NB 1.12)
+("tasya viṣayaḥ svalakṣaṇam ॥ 12 ॥")(NB 1.12)
 
 [70,iv]
 
@@ -556,7 +556,7 @@ sa punarāropito'rtho gṛhyamāṇaḥ svalakṣaṇatvenāvasīyate yataḥ, t
 [74,i]
 
 kaḥ punarasau viṣayo jñānasya yaḥ svalakṣaṇaṃ pratipattavya ityāha —
-("yasyārthasya saṃnidhānāsaṃnidhānābhyāṃ jñānapratibhāsabhedastat svalakṣaṇam ॥ 13 ॥") (NB 1.13)
+("yasyārthasya saṃnidhānāsaṃnidhānābhyāṃ jñānapratibhāsabhedastat svalakṣaṇam ॥ 13 ॥")(NB 1.13)
 
 [74,ii]
 
@@ -569,7 +569,7 @@ yasyārthasyetyādi । arthaśabdo viṣayaparyāyaḥ । yasya jñānaviṣay
 [75,i]
 
 kasmāt punaḥ pratyakṣaviṣaya eva svalakṣaṇam ? tathā hi vikalpaviṣayo'pi vahnirdṛśyātmaka evāvasīyata ityāha —
-("tadeva paramārthasat ॥ 14 ॥") (NB 1.14)
+("tadeva paramārthasat ॥ 14 ॥")(NB 1.14)
 
 [75,ii]
 
@@ -582,7 +582,7 @@ tadeva paramārthasaditi । paramo'rtho'kṛtrimamanāropitaṃ rūpam । ten�
 [76,i]
 
 kasmāt punastadeva paramārthasadityāha —
-("arthakriyāsāmarthyalakṣaṇatvādvastunaḥ ॥ 15 ॥") (NB 1.15)
+("arthakriyāsāmarthyalakṣaṇatvādvastunaḥ ॥ 15 ॥")(NB 1.15)
 
 [76,ii]
 
@@ -592,7 +592,7 @@ arthyata ityarthaḥ । heya upādeyaśca । heyo hi hātumiṣyate upādeyaś
 
 [77,i]
 
-("anyat sāmānyalakṣaṇam ॥ 16 ॥") (NB 1.16)
+("anyat sāmānyalakṣaṇam ॥ 16 ॥")(NB 1.16)
 
 [77,ii]
 
@@ -609,7 +609,7 @@ samāropyamāṇaṃ hi rūpaṃ sakalavahnisādhāraṇam । tataḥ tat sām�
 [78,i]
 
 taccānumānasya grāhyaṃ darśayitumāha —
-("so'numānasya viṣayaḥ ॥ 17 ॥") (NB 1.17)
+("so'numānasya viṣayaḥ ॥ 17 ॥")(NB 1.17)
 
 [78,ii]
 
@@ -626,7 +626,7 @@ sāmānyalakṣaṇamanumānasya viṣayaṃ vyākhyātukāmenāyaṃ svalakṣa
 [79,i]
 
 viṣayavipratipattiṃ nirākṛtya phalavipratiparttiṃ nirākarttumāha —
-("tadeva ca pratyakṣaṃ jñānaṃ pramāṇaphalam ॥ 18 ॥") (NB 1.18)
+("tadeva ca pratyakṣaṃ jñānaṃ pramāṇaphalam ॥ 18 ॥")(NB 1.18)
 
 [79,ii]
 
@@ -637,7 +637,7 @@ tadeveti । yadevānantaramuktaṃ pratyakṣaṃ jñānaṃ tadeva pramāṇas
 [79,iii]
 
 kathaṃ pramāṇaphalamityāha —
-("arthapratītirūpatvāt ॥ 19 ॥") (NB 1.19)
+("arthapratītirūpatvāt ॥ 19 ॥")(NB 1.19)
 
 [79,iv]
 
@@ -662,7 +662,7 @@ tadeva ca pratyakṣam arthapratītirūpam arthapradarśanarūpam । atastadeva
 [81,i]
 
 yadi tarhi jñānaṃ pramitirūpatvāt pramāṇaphalam, kiṃ tarhi pramāṇamityāha —
-("arthasārūpyamasya pramāṇam ॥ 20 ॥") (NB 1.20)
+("arthasārūpyamasya pramāṇam ॥ 20 ॥")(NB 1.20)
 
 [81,ii]
 
@@ -673,7 +673,7 @@ arthena saha yat sārūpyaṃ sādṛśyam asya jñānasya tat pramāṇam । i
 [81,iii]
 
 nanu ca jñānādavyatiriktaṃ sādṛśyam । tathā ca sati tadeva jñānaṃ pramāṇaṃ tadeva ca pramāṇaphalam । na caikaṃ vastu sādhyaṃ sādhanaṃ copapadyate । tat kathaṃ sārūpyaṃ pramāṇamityāha —
-("tadvaśādarthapratītisiddheriti ॥ 21 ॥") (NB 1.21)
+("tadvaśādarthapratītisiddheriti ॥ 21 ॥")(NB 1.21)
 
 <॥ pratyakṣaparicchedaḥ ॥>
 
@@ -734,7 +734,7 @@ yadyevamadhyavasāyasahitameva pratyakṣaṃ pramāṇaṃ syāt na kevalamiti 
 [87,i]
 
 evaṃ pratyakṣaṃ vyākhyāyānumānaṃ vyākhyātukāma āha —
-("anumānaṃ dvidhā ॥ 1 ॥") (NB 2.1)
+("anumānaṃ dvidhā ॥ 1 ॥")(NB 2.1)
 
 [87,ii]
 
@@ -747,7 +747,7 @@ anumānaṃ dvidhā dviprakāram । athānumānalakṣaṇe vaktavye kimakasmā
 [88,i]
 
 kiṃ punastad dvaividhyamityāha —
-("svārthaṃ parārthaṃ ca ॥ 2 ॥") (NB 2.2)
+("svārthaṃ parārthaṃ ca ॥ 2 ॥")(NB 2.2)
 
 [88,ii]
 
@@ -759,7 +759,7 @@ svasmāyidaṃ svārtham । yena svayaṃ pratipadyate tat svārtham । parasm
 
 [89,i]
 
-("tatra svārthaṃ trirūpālliṅgād yadanumeye jñānaṃ tadanumānam ॥ 3 ॥") (NB 2.3)
+("tatra svārthaṃ trirūpālliṅgād yadanumeye jñānaṃ tadanumānam ॥ 3 ॥")(NB 2.3)
 
 [89,ii]
 
@@ -774,7 +774,7 @@ trirūpālliṅgādyadutpannamanumeyālambanaṃ jñānaṃ tat svārthamanumān
 [90,ii]
 
 lakṣaṇavipratipattiṃ nirākṛtya phalavipratipattiṃ nirākarttumāha —
-("pramāṇaphalavyavasthā'trāpi pratyakṣavat ॥ 4 ॥") (NB 2.4)
+("pramāṇaphalavyavasthā'trāpi pratyakṣavat ॥ 4 ॥")(NB 2.4)
 
 [90,iii]
 
@@ -791,7 +791,7 @@ yathā hi nīlasarūpaṃ pratyakṣamanubhūyamānaṃ nīlabodharūpamavasthā
 [91,ii]
 
 evamiha saṃkhyālakṣaṇaphalavipratipattayaḥ । pratyakṣaparicchede tu gocaravipratipattirnirākṛtā । lakṣaṇanirdeśaprasaṅgena tu trirūpaṃ liṅgaṃ prastutam । tadeva vyākhyātumāha —
-("trairūpyaṃ punarliṅgasyānumeye sattvameva, sapakṣa eva sattvam, asapakṣe cāsattvameva niścitam ॥ 5 ॥") (NB 2.5)
+("trairūpyaṃ punarliṅgasyānumeye sattvameva, sapakṣa eva sattvam, asapakṣe cāsattvameva niścitam ॥ 5 ॥")(NB 2.5)
 
 [91,iii]
 
@@ -821,7 +821,7 @@ trairūpyakathanaprasaṅgenānumeyaḥ sapakṣo vipakṣaścoktaḥ । teṣ�
 
 [96,ii]
 
-("anumeyo'tra jijñāsitaviśeṣo dharmī ॥ 6 ॥") (NB 2.6)
+("anumeyo'tra jijñāsitaviśeṣo dharmī ॥ 6 ॥")(NB 2.6)
 
 <97>
 
@@ -834,7 +834,7 @@ anumeyo'tretyādi । atra hetulakṣaṇe niścetavye dharmo anumeyaḥ । any
 [97,ii]
 
 kaḥ sapakṣaḥ ?
-("sādhyadharmasāmānyena samāno'rthaḥ sapakṣaḥ ॥ 7 ॥") (NB 2.7)
+("sādhyadharmasāmānyena samāno'rthaḥ sapakṣaḥ ॥ 7 ॥")(NB 2.7)
 
 [97,iii]
 
@@ -851,7 +851,7 @@ syādetat — kiṃ tat pakṣasapakṣayoḥ sāmānyaṃ yena samānaḥ sapak
 [98,ii]
 
 ko'sapakṣa ityāha —
-("na sapakṣo'sapakṣaḥ ॥ 8 ॥") (NB 2.8)
+("na sapakṣo'sapakṣaḥ ॥ 8 ॥")(NB 2.8)
 
 [98,iii]
 
@@ -863,7 +863,7 @@ na sapakṣo'sapakṣaḥ । sapakṣo yo na bhavati so'sapakṣaḥ ॥
 
 kaśca sapakṣo na bhavati ?
 <99>
-("tato'nyastadviruddhastadabhāvaśceti ॥ 9 ॥") (NB 2.9)
+("tato'nyastadviruddhastadabhāvaśceti ॥ 9 ॥")(NB 2.9)
 
 [99,i]
 
@@ -879,7 +879,7 @@ tato'bhāvaḥ sākṣāt sapakṣābhāvarūpaḥ pratīyate । anyaviruddhau 
 
 [100,ii]
 
-("trirūpāṇi ca trīṇyeva liṅgāni ॥ 10 ॥") (NB 2.10)
+("trirūpāṇi ca trīṇyeva liṅgāni ॥ 10 ॥")(NB 2.10)
 
 [100,iii]
 
@@ -890,7 +890,7 @@ uktena trairūpyeṇa trirūpāṇi ca trīṇyeva liṅgāni iti । cakāro va
 [100,iv]
 
 kāni punastānītyāha —
-("anupalabdhiḥ svabhāvaḥ kāryaṃ ceti ॥ 11 ॥") (NB 2.11)
+("anupalabdhiḥ svabhāvaḥ kāryaṃ ceti ॥ 11 ॥")(NB 2.11)
 
 [100,v]
 
@@ -903,7 +903,7 @@ pratiṣedhyasya sādhyasyānupalabdhistrirūpā । vidheyasya sādhyasya svabh
 [101,i]
 
 anupalabdhimudāharttumāha —
-("tatrānupalabdhiryathā — na pradeśaviśeṣe kvacid ghaṭaḥ, upalabdhilakṣaṇaprāptasyānupalabdheriti ॥ 12 ॥") (NB 2.12)
+("tatrānupalabdhiryathā — na pradeśaviśeṣe kvacid ghaṭaḥ, upalabdhilakṣaṇaprāptasyānupalabdheriti ॥ 12 ॥")(NB 2.12)
 
 [101,ii]
 
@@ -924,7 +924,7 @@ yāvaddhi ekajñānasaṃsargi vastu na niścitam, tajjñānaṃ ca, na tāvad d
 [103,i]
 
 kā punarupalabdhilakṣaṇaprāptirityāha —
-("upalabdhilakṣaṇaprāptirupalambhapratyayāntarasākalyaṃ svabhāvaviśeṣaśca ॥ 13 ॥") (NB 2.13)
+("upalabdhilakṣaṇaprāptirupalambhapratyayāntarasākalyaṃ svabhāvaviśeṣaśca ॥ 13 ॥")(NB 2.13)
 
 [103,ii]
 
@@ -937,7 +937,7 @@ upalabdhilakṣaṇaprāptiḥ — upalabdhilakṣaṇaprāptatvaṃ ghaṭasya 
 [104,i]
 
 kīdṛśaḥ svabhāvaviśeṣa ityāha —
-("yaḥ svabhāvaḥ satsvanyeṣūpalambhapratyayeṣu san pratyakṣa eva bhavati sa svabhāvaviśeṣaḥ ॥ 14 ॥") (NB 2.14)
+("yaḥ svabhāvaḥ satsvanyeṣūpalambhapratyayeṣu san pratyakṣa eva bhavati sa svabhāvaviśeṣaḥ ॥ 14 ॥")(NB 2.14)
 
 [104,ii]
 
@@ -950,7 +950,7 @@ satsvityādi । upalambhasya yāni ghaṭād dṛśyād pratyayāntarāṇi te�
 [106,i]
 
 anupalabdhimudāhṛtya svabhāvamudāharttumāha —
-("svabhāvaḥ svasattāmātrabhāvini sādhyadharme hetuḥ ॥ 15 ॥") (NB 2.15)
+("svabhāvaḥ svasattāmātrabhāvini sādhyadharme hetuḥ ॥ 15 ॥")(NB 2.15)
 
 [106,ii]
 
@@ -961,7 +961,7 @@ svabhāva ityādi । svabhāvo heturiti sambandhaḥ । kīdṛśo hetuḥ sā
 [106,iii]
 
 udāharaṇam —
-("yathā vṛkṣo'yaṃ śiṃśapātvāditi ॥ 16 ॥") (NB 2.16)
+("yathā vṛkṣo'yaṃ śiṃśapātvāditi ॥ 16 ॥")(NB 2.16)
 
 [106,iv]
 
@@ -972,7 +972,7 @@ yatheti । ayam iti dharmo । vṛkṣa iti sādhyam । śiṃśapātvāditi 
 [107,i]
 
 kāryamudāharttumāha —
-("kāryaṃ yathā vahniratra dhūmāditi ॥ 17 ॥") (NB 2.17)
+("kāryaṃ yathā vahniratra dhūmāditi ॥ 17 ॥")(NB 2.17)
 
 [107,ii]
 
@@ -985,7 +985,7 @@ vahniriti sādhyam । atreti dharmī । dhūmāditi hetuḥ । kāryakāraṇ
 [108,i]
 
 nanu trirūpatvādekameva liṅgaṃ yuktam । atha prakārabhedādbhedaḥ । evaṃ sati svabhāvahetorekasyānantaprakāratvāt tritvamayuktamityāha —
-("atra dvau vastusādhanau । ekaḥ pratiṣedhahetuḥ ॥ 18 ॥") (NB 2.18)
+("atra dvau vastusādhanau । ekaḥ pratiṣedhahetuḥ ॥ 18 ॥")(NB 2.18)
 
 [108,ii]
 
@@ -1002,7 +1002,7 @@ tadayamarthaḥ — hetuḥ sādhyasiddhyarthatvāt sādhyāṅgam, sādhyaṃ p
 [109,ii]
 
 kasmāt punastrayāṇāṃ hetutvam, kasmāccānyeṣāmahetutvamityāśaṅkya yathā trayāṇāmeva hetutvamanyeṣāṃ cāhetutvaṃ tadubhyaṃ darśayitumāha —
-("svabhāvapratibandhe hi satyartho'rthaṃ gamayet ॥ 19 ॥") (NB 2.19)
+("svabhāvapratibandhe hi satyartho'rthaṃ gamayet ॥ 19 ॥")(NB 2.19)
 
 <110>
 
@@ -1015,7 +1015,7 @@ svabhāvapratibandha iti । svabhāvena pratibandhaḥ svabhāvapratibandhaḥ 
 [110,ii]
 
 kasmāt punaḥ svabhāvapratibandha eva sati gamyagamakabhāvo nānyathetyāha —
-("tadapratibaddhasya tadavyabhicāraniyamābhāvāt ॥ 20 ॥") (NB 2.20)
+("tadapratibaddhasya tadavyabhicāraniyamābhāvāt ॥ 20 ॥")(NB 2.20)
 
 [110,iii]
 
@@ -1030,7 +1030,7 @@ tadayamarthaḥ — na hi yo yatra svabhāvena na pratibaddhaḥ, sa tamapratiba
 [111,i]
 
 nanu ca parāyattasya pratibandho'parāyatte । tadiha sādhyasādhanayoḥ kasya kva pratibandha ityāha —
-("sa ca pratibandhaḥ sādhye'rthe liṅgasya ॥ 21 ॥") (NB 2.21)
+("sa ca pratibandhaḥ sādhye'rthe liṅgasya ॥ 21 ॥")(NB 2.21)
 
 <112>
 
@@ -1045,7 +1045,7 @@ sa ceti । sa ca svabhāvapratibandho liṅgasya sādhye'rthe । liṅgaṃ pa
 [113,i]
 
 kasmāt punaḥ svabhāvapratibandho liṅgasyetyāha —
-("vastutastādātmyāt tadutpatteśca ॥ 22 ॥") (NB 2.22)
+("vastutastādātmyāt tadutpatteśca ॥ 22 ॥")(NB 2.22)
 
 [113,ii]
 
@@ -1062,7 +1062,7 @@ yadi sādhyasvabhāvaṃ sādhanaṃ sādhyasādhanayorabhedāt pratijñārthaik
 [114,i]
 
 kasmānnimittadvayāt svabhāvapratibandho liṅgasya nānyasmādityāha —
-("atatsvabhāvasyātadutpatteśca tatrāpratibaddhasvabhāvatvāt ॥ 23 ॥") (NB 2.23)
+("atatsvabhāvasyātadutpatteśca tatrāpratibaddhasvabhāvatvāt ॥ 23 ॥")(NB 2.23)
 
 [114,ii]
 
@@ -1075,7 +1075,7 @@ atatsvabhāvasyeti । sa svabhāvo'sya so'yaṃ tatsvabhāvaḥ । na tatsvabh
 [116,i]
 
 bhavatu nāma tādātmyatadutpattibhyāmeva svabhāvapratibandhaḥ । kāryasvabhāvayoreva tugamakatvaṃ kathamityāha —
-("te ca tādātmyatadutpattī svabhāvakāryayoreveti tābhyāmeva vastusiddhiḥ ॥ 24 ॥") (NB 2.24)
+("te ca tādātmyatadutpattī svabhāvakāryayoreveti tābhyāmeva vastusiddhiḥ ॥ 24 ॥")(NB 2.24)
 
 [116,ii]
 
@@ -1086,7 +1086,7 @@ te ceti । itiḥ tasmādarthe । yasmāt svabhāve kārye eva ca tādātmyata
 [116,iii]
 
 atha pratiṣedhasiddhiradṛśyānupalambhādapi kasmānneṣṭetyāha —
-("pratiṣedhasiddhirapi yathoktāyā evānupalabdheḥ ॥ 25 ॥") (NB 2.25)
+("pratiṣedhasiddhirapi yathoktāyā evānupalabdheḥ ॥ 25 ॥")(NB 2.25)
 
 [116,iv]
 
@@ -1097,7 +1097,7 @@ pratiṣedhavyavahārasya siddhiryathoktā yā dṛśyānupalabdhistata eva bhav
 [116,v]
 
 tatastāvat kasmādbhavatītyāha —
-("sati vastuni tasyā asambhavāt ॥ 26 ॥") (NB 2.26)
+("sati vastuni tasyā asambhavāt ॥ 26 ॥")(NB 2.26)
 
 [116,vi]
 
@@ -1110,7 +1110,7 @@ sati tasmin pratiṣedhye vastuni, yasmād dṛśyānupalabdhirna sambhavati tas
 [117,i]
 
 atha tata eva kasmādityāha —
-("anyathā cānupalabdhilakṣaṇaprāpteṣu deśakālasvabhāvaviprakṛṣṭeṣvartheṣvātmapratyakṣanivṛtterabhāvaniścayābhāvāt ॥ 27 ॥") (NB 2.27)
+("anyathā cānupalabdhilakṣaṇaprāpteṣu deśakālasvabhāvaviprakṛṣṭeṣvartheṣvātmapratyakṣanivṛtterabhāvaniścayābhāvāt ॥ 27 ॥")(NB 2.27)
 
 [117,ii]
 
@@ -1135,7 +1135,7 @@ kasmānniścayābhāva ityāha — teṣu pratipatturātmano yat pratyakṣaṃ 
 [118,i]
 
 atheyaṃ dṛśyānupalabdhiḥ kasmin kāle pramāṇam, kiṃsvabhāvā, kiṃvyāpārā cetyāha —
-("amūḍhasmṛtisaṃskārasyātītasya varttamānasya ca pratipattṛpratyakṣasya nivṛttirabhāvavyavahārapravarttanī ॥ 28 ॥") (NB 2.28)
+("amūḍhasmṛtisaṃskārasyātītasya varttamānasya ca pratipattṛpratyakṣasya nivṛttirabhāvavyavahārapravarttanī ॥ 28 ॥")(NB 2.28)
 
 [118,ii]
 
@@ -1192,7 +1192,7 @@ kiñca । dṛśyānupalambhaniścayakaraṇasāmarthyādeva pūrvoktayā nīty
 [123,ii]
 
 kasmāt punaratīte varttamāne cānupalabdhirgamiketyāha —
-("tasyā evābhāvaniścayāt ॥ 29 ॥") (NB 2.29)
+("tasyā evābhāvaniścayāt ॥ 29 ॥")(NB 2.29)
 
 [123,iii]
 
@@ -1205,7 +1205,7 @@ tasyā eva yathoktakālāyā anupalabdherabhāvaniścayāt । anāgatā hyanupa
 [124,i]
 
 sampratyanupalabdheḥ prakārabhedaṃ darśayitumāha —
-("sā ca prayogabhedādekādaśaprakārā ॥ 30 ॥") (NB 2.30)
+("sā ca prayogabhedādekādaśaprakārā ॥ 30 ॥")(NB 2.30)
 
 [124,ii]
 
@@ -1220,7 +1220,7 @@ kutaḥ prakārabhedaḥ ? prayogabhedāt । prayogaḥ prayuktiḥ śabdasyāb
 [124,iv]
 
 prakārabhedān āha —
-("svabhāvānupalabdhiryathā — nātra dhūma upalabdhilakṣaṇaprāptasyānupalabdheriti ॥ 31 ॥") (NB 2.31)
+("svabhāvānupalabdhiryathā — nātra dhūma upalabdhilakṣaṇaprāptasyānupalabdheriti ॥ 31 ॥")(NB 2.31)
 
 <125>
 
@@ -1233,7 +1233,7 @@ svabhāvetyādi । pratiṣedhyasya yaḥ svabhāvastasyānupalabdhiryatheti �
 [125,ii]
 
 pratiṣedhyasya yat kāryaṃ tasyānupalabdhirudāhniyate —
-("kāryānupalabdhiryathā — nehāpratibaddhasāmarthyāni dhūmakāraṇāni santi, dhūmābhāvāditi ॥ 32 ॥") (NB 2.32)
+("kāryānupalabdhiryathā — nehāpratibaddhasāmarthyāni dhūmakāraṇāni santi, dhūmābhāvāditi ॥ 32 ॥")(NB 2.32)
 
 [125,iii]
 
@@ -1275,7 +1275,7 @@ na kevalamihaiva dṛśyādṛśyasamudāyo dharmī, api tvanyatrāpi । śabda
 
 pratiṣedhyasya vyāpyasya yo vyāpako dharmastasyānupalabdhirudāhniyate —
 <129>
-("vyāpakānupalabdhiryathā — nātra śiṃśapā, vṛkṣābhāvāditi ॥ 33 ॥") (NB 2.33)
+("vyāpakānupalabdhiryathā — nātra śiṃśapā, vṛkṣābhāvāditi ॥ 33 ॥")(NB 2.33)
 
 [129,i]
 
@@ -1289,7 +1289,7 @@ iyamapyanupalabdhirvyāpyasya śiṃśapātvasyā'dṛśyasyābhāve prayujyate 
 
 [129,iii]
 
-("svabhāvaviruddhopalabdhiryathā — nātra śītasparśo vahneriti ॥ 34 ॥") (NB 2.34)
+("svabhāvaviruddhopalabdhiryathā — nātra śītasparśo vahneriti ॥ 34 ॥")(NB 2.34)
 
 [129,iv]
 
@@ -1305,7 +1305,7 @@ tasmād yatra varṇaviśeṣād vahnirdṛśyaḥ, śītasparśo dūrasthatvāt
 
 [130,ii]
 
-("viruddhakāryopalabdhiryathā — nātra śītasparśo dhūmāditi ॥ 35 ॥") (NB 2.35)
+("viruddhakāryopalabdhiryathā — nātra śītasparśo dhūmāditi ॥ 35 ॥")(NB 2.35)
 
 [130,iii]
 
@@ -1319,7 +1319,7 @@ tatra samastāpavarakasthaṃ śītaṃ nivarttayituṃ samarthasyāgneranumāpa
 
 [131,ii]
 
-("viruddhavyāptopalabdhiryathā — na dhruvabhāvī bhūtasyāpi bhāvasya vināśaḥ, hetvantarāpekṣaṇāditi ॥ 36 ॥") (NB 2.36)
+("viruddhavyāptopalabdhiryathā — na dhruvabhāvī bhūtasyāpi bhāvasya vināśaḥ, hetvantarāpekṣaṇāditi ॥ 36 ॥")(NB 2.36)
 
 [131,iii]
 
@@ -1335,7 +1335,7 @@ iha dhruvabhāvitvaṃ nityatvam, adhruvabhāvitvaṃ cānityatvam । nityatvā
 
 [134,i]
 
-("kāryaviruddhopalabdhiryathā — nehāpratibaddhasāmarthyāni śītakāraṇāni santi, vahneriti ॥ 37 ॥") (NB 2.37)
+("kāryaviruddhopalabdhiryathā — nehāpratibaddhasāmarthyāni śītakāraṇāni santi, vahneriti ॥ 37 ॥")(NB 2.37)
 
 [134,ii]
 
@@ -1351,7 +1351,7 @@ yatra śītakāraṇāni adṛśyāni, śītasparśo'pyadṛśyaḥ, tatrāyaṃ
 
 [135,i]
 
-("vyāpakaviruddhopalabdhiryathā — nātra tuṣārasparśo vahneriti ॥ 38 ॥") (NB 2.38)
+("vyāpakaviruddhopalabdhiryathā — nātra tuṣārasparśo vahneriti ॥ 38 ॥")(NB 2.38)
 
 [135,ii]
 
@@ -1365,7 +1365,7 @@ yatra vyāpyastuṣārasparśo vyāpakaśca śītasparśo na dṛśyastatrāya�
 
 [135,iv]
 
-("kāraṇānupalabdhiryathā — nātra dhūmo vahāyabhāvāditi ॥ 39 ॥") (NB 2.39)
+("kāraṇānupalabdhiryathā — nātra dhūmo vahāyabhāvāditi ॥ 39 ॥")(NB 2.39)
 
 [135,v]
 
@@ -1377,7 +1377,7 @@ pratiṣedhyasya yat kāraṇaṃ tasyānupalabdherudāharaṇaṃ yatheti । a
 
 [137,i]
 
-("kāraṇaviruddhopaladhiryathā — nāsya romaharṣādiviśeṣāḥ, sannihitadahanaviśeṣatvāditi ॥ 40 ॥") (NB 2.40)
+("kāraṇaviruddhopaladhiryathā — nāsya romaharṣādiviśeṣāḥ, sannihitadahanaviśeṣatvāditi ॥ 40 ॥")(NB 2.40)
 
 [137,ii]
 
@@ -1387,7 +1387,7 @@ pratiṣedhyasya yat kāraṇaṃ tasya yadviruddhaṃ tasyopalabdherudāharaṇ
 
 [138,i]
 
-("kāraṇaviruddhakāryopalabdhiryathā — na romaharṣādiviśeṣayuktapuruṣavānayaṃ pradeśaḥ, dhūmāditi ॥ 41 ॥") (NB 2.41)
+("kāraṇaviruddhakāryopalabdhiryathā — na romaharṣādiviśeṣayuktapuruṣavānayaṃ pradeśaḥ, dhūmāditi ॥ 41 ॥")(NB 2.41)
 
 [138,ii]
 
@@ -1406,7 +1406,7 @@ romaharṣādiviśeṣasya pratyakṣatve dṛśyānupalabdhiḥ । kāraṇasy
 [140,i]
 
 yadyekaḥ pratiṣedhaheturuktaḥ kathamekādaśā'bhāvahetava ityāha —
-("ise sarve kāryānupaladhyādayo daśānupalabdhiprayogāḥ svabhāvānupalabdhau saṅgrahamupayānti ॥ 42 ॥") (NB 2.42)
+("ise sarve kāryānupaladhyādayo daśānupalabdhiprayogāḥ svabhāvānupalabdhau saṅgrahamupayānti ॥ 42 ॥")(NB 2.42)
 
 [140,ii]
 
@@ -1427,7 +1427,7 @@ te svabhāvānupalabdhau saṅgrahaṃ tādātmyena gacchanti । svabhāvānupa
 [141,ii]
 
 nanu ca svabhāvānupalabdhiprayogād bhidyante kāryānupalabdhyādayaḥ । tat kathamantarbhavanti ? ityāha —
-("pāramparyeṇārthāntaravidhipratipedhābhyāṃ prayogabhede'pi ॥ 43 ॥") (NB 2.43)
+("pāramparyeṇārthāntaravidhipratipedhābhyāṃ prayogabhede'pi ॥ 43 ॥")(NB 2.43)
 
 [141,iii]
 
@@ -1442,7 +1442,7 @@ etaduktaṃ bhavati — na sākṣādete prayogā dṛśyānupalabdhimabhidadhat
 [142,ii]
 
 yadi prayogabhedādeṣa bhedaḥ; parārthānumāne vaktavya eṣaḥ । śabdabhedo hi prayogabhedaḥ । śabdaśca parārthānumānamityāśaṅkyāha —
-("prayogadarśanābhyāsāt svayamapyevaṃ vyavacchedapratītirbhavatīti svārthe'pyanumāne'syāḥ prayoganirdeśaḥ ॥ 44 ॥") (NB 2.44)
+("prayogadarśanābhyāsāt svayamapyevaṃ vyavacchedapratītirbhavatīti svārthe'pyanumāne'syāḥ prayoganirdeśaḥ ॥ 44 ॥")(NB 2.44)
 
 [142,iii]
 
@@ -1461,7 +1461,7 @@ tadayamarthaḥ — yasmāt svayamapyevamanenopāyena pratipadyate prayogābhyā
 [144,i]
 
 nanu ca kāryānupalabdhyādiṣu kāraṇādīnāmadṛśyānāmeva niṣedhaḥ, dṛśyaniṣedhe svabhāvānupalabdhiprayogaprasaṅgāt । tathā ca sati na teṣāṃ dṛśyānupalabdherniṣedhaḥ । tat kathameṣāṃ prayogāṇāṃ dṛśyānupalabdhāvantarbhāva ityāha —
-("sarvatra cāsyāmabhāvavyavahārasādhanyāmanupalabdhau yeṣāṃ svabhāvaviruddhādīnāmupalabdhyā kāraṇādīnāmanupalabdhyā ca pratiṣedha uktasteṣāmupaladhilakṣaṇaprāptānāmevopalabdhiranupalabdhiśca veditavyā ॥ 45 ॥") (NB 2.45)
+("sarvatra cāsyāmabhāvavyavahārasādhanyāmanupalabdhau yeṣāṃ svabhāvaviruddhādīnāmupalabdhyā kāraṇādīnāmanupalabdhyā ca pratiṣedha uktasteṣāmupaladhilakṣaṇaprāptānāmevopalabdhiranupalabdhiśca veditavyā ॥ 45 ॥")(NB 2.45)
 
 [144,ii]
 
@@ -1486,7 +1486,7 @@ bahuṣu codyeṣu prakrānteṣu parihārasamuccayārthaścakāro hetvartho bha
 [145,ii]
 
 kasmāt punaḥ pratiṣedhyānāṃ viruddhādīnāmupalabdhyanupalabdhī veditavye ityāha —
-("anyeṣāṃ virodhakāryakāraṇabhāvābhāvāsiddheḥ ॥ 46 ॥") (NB 2.46)
+("anyeṣāṃ virodhakāryakāraṇabhāvābhāvāsiddheḥ ॥ 46 ॥")(NB 2.46)
 
 [145,iii]
 
@@ -1513,7 +1513,7 @@ viruddhavidhinā, kāraṇādiniṣedhena ca yato dṛśyānupalabdhirākṣipt�
 [148,i]
 
 uktā dṛśyānupalabdhirabhāve, abhāvavyavahāre ca sādhye pramāṇam । adṛśyānupalabdhistu kiṃsvabhāvā, kiṃvyāpārā cetyāha —
-("viprakṛṣṭaviṣayā punaranupalabdhiḥ pratyakṣānumānanivṛttilakṣaṇā saṃśayahetuḥ ॥ 47 ॥") (NB 2.47)
+("viprakṛṣṭaviṣayā punaranupalabdhiḥ pratyakṣānumānanivṛttilakṣaṇā saṃśayahetuḥ ॥ 47 ॥")(NB 2.47)
 
 [148,ii]
 
@@ -1526,7 +1526,7 @@ viprakṛṣṭetyādi । viprakṛṣṭastribhirdeśakālasvabhāvaviprakar�
 [149,i]
 
 nanu ca pramāṇāt prameyasattāvyavasthā । tataḥ pramāṇābhābāt prameyābhāvapratittiryuktetyāha —
-("pramāṇanivṛttāvapyarthābhāvāsiddheriti ॥ 48 ॥") (NB 2.48)
+("pramāṇanivṛttāvapyarthābhāvāsiddheriti ॥ 48 ॥")(NB 2.48)
 
 <॥ svārthānumānaparicchedo dvitīyaḥ samāptaḥ ॥>
 
@@ -1547,7 +1547,7 @@ pramāṇanivṛttāvapītyāha । kāraṇaṃ vyāpakaṃ ca nivartamānaṃ 
 [150,i]
 
 svārthaparārthānumānayoḥ svārthaṃ vyākhyāya parārtha vyākhyātukāma āha —
-("trirūpaliṅgākhyānaṃ parārthamanumānam ॥ 1 ॥") (NB 3.1)
+("trirūpaliṅgākhyānaṃ parārthamanumānam ॥ 1 ॥")(NB 3.1)
 
 [150,ii]
 
@@ -1558,7 +1558,7 @@ trirūpaliṅgākhyānamiti । trīṇi rūpāṇi — anvayavyatirekapakṣadh
 [150,iii]
 
 nanu ca samyagjñānātmakamanumānamuktam । tat kimarthaṃ saṃprati vacanātmakamanumānamucyata ityāha —
-("kāraṇe kāryopacārāt ॥ 2 ॥") (NB 3.2)
+("kāraṇe kāryopacārāt ॥ 2 ॥")(NB 3.2)
 
 [150,iv]
 
@@ -1569,7 +1569,7 @@ kāraṇe kāryopacārāditi । trirūpaliṅgābhidhānāt trirūpaliṅgasm�
 [151,i]
 
 parārthānumānasya prakārabhedaṃ darśayitumāha —
-("tad dvividham ॥ 3 ॥") (NB 3.3)
+("tad dvividham ॥ 3 ॥")(NB 3.3)
 
 <152>
 
@@ -1582,7 +1582,7 @@ tad dvividhamiti । taditi parārthānumānam । dvau vidhau prakārau yasya t
 [152,ii]
 
 kuto dvividhamityāha —
-("prayogabhedāt ॥ 4 ॥") (NB 3.4)
+("prayogabhedāt ॥ 4 ॥")(NB 3.4)
 
 [152,iii]
 
@@ -1593,7 +1593,7 @@ prayogasya śabdavyāpārasya bhedāt । prayuktiḥ prayogorthābhidhānam ।
 [152,iv]
 
 tadevābhidhānavyāpāranibandhanaṃ dvaividhyaṃ darśayitumāha —
-("sādharmyavadvaidharmyavacceti ॥ 5 ॥") (NB 3.5)
+("sādharmyavadvaidharmyavacceti ॥ 5 ॥")(NB 3.5)
 
 [152,v]
 
@@ -1604,7 +1604,7 @@ sādharmyavadvaidharmmavacceti । samāno dharmo'sya so'yaṃ sadharmā । tas
 [152,vi]
 
 yadyanayoḥ prayogayorabhidheyaṃ bhinnaṃ kathaṃ tarhi trirūpaṃ liṅgamabhinnaṃ prakāśyamityāha —
-("nānayorarthataḥ kaścidbhedaḥ ॥ 6 ॥") (NB 3.6)
+("nānayorarthataḥ kaścidbhedaḥ ॥ 6 ॥")(NB 3.6)
 
 [152,vii]
 
@@ -1617,7 +1617,7 @@ nānayorarthata iti arthaḥ prayojanam । yat prayojanaṃ prakāśayitavyaṃ
 [153,i]
 
 abhidheyabhedo'pi tarhi na syādityāha —
-("anyatra prayogabhedāt ॥ 7 ॥") (NB 3.7)
+("anyatra prayogabhedāt ॥ 7 ॥")(NB 3.7)
 
 [153,ii]
 
@@ -1633,7 +1633,7 @@ etaduktaṃ bhavati । anyadabhidheyamanyat prakāśyaṃ prayojanam । tatrā
 
 [154,i]
 
-("tatra sādharmyavatprogaḥ — yadupalabdhilakṣaṇaprāptaṃ sannopalabhyate so'sadvyavahāraviṣayaḥ siddhaḥ । yathā'nyaḥ kaśrid dṛṣṭaḥ śaśaviṣāṇādiḥ । nopalabhyate ca kvacit pradeśaviśeṣa upalabdhilakṣaṇaprāpto ghaṭa ityanupalabdhiprayogaḥ ॥ 8 ॥") (NB 3.8)
+("tatra sādharmyavatprogaḥ — yadupalabdhilakṣaṇaprāptaṃ sannopalabhyate so'sadvyavahāraviṣayaḥ siddhaḥ । yathā'nyaḥ kaśrid dṛṣṭaḥ śaśaviṣāṇādiḥ । nopalabhyate ca kvacit pradeśaviśeṣa upalabdhilakṣaṇaprāpto ghaṭa ityanupalabdhiprayogaḥ ॥ 8 ॥")(NB 3.8)
 
 [154,ii]
 
@@ -1648,7 +1648,7 @@ saṃprati vyāptiṃ kathayitvā dṛśyānupalambhasya pakṣadharmatvaṃ dar
 [156,i]
 
 svabhāvahetoḥ sādharmyavantaṃ prayogaṃ darśayitumāha —
-("tathā svabhāvahetoḥ prayogaḥ — yat sat tat sarvamanityam, yathā ghaṭādi riti śuddhasya svabhāvahetoḥ prayogaḥ ॥ 9 ॥") (NB 3.9)
+("tathā svabhāvahetoḥ prayogaḥ — yat sat tat sarvamanityam, yathā ghaṭādi riti śuddhasya svabhāvahetoḥ prayogaḥ ॥ 9 ॥")(NB 3.9)
 
 [156,ii]
 
@@ -1659,7 +1659,7 @@ tatheti । yathā'nupalabdhestathā svabhāvahetoḥ sādharmyavān prayoga ity
 [157,i]
 
 saviśeṣaṇaṃ darśayitumāha — 
-("yadutpattimat tadanityamiti svabhāvabhūtadharmabhedena svabhāvasya prayogaḥ ॥ 10 ॥") (NB 3.10)
+("yadutpattimat tadanityamiti svabhāvabhūtadharmabhedena svabhāvasya prayogaḥ ॥ 10 ॥")(NB 3.10)
 
 [157,ii]
 
@@ -1673,7 +1673,7 @@ svabhāvaṃ bhūtaḥ tadātmako dharmaḥ । tasya bhedena । bhedaṃ hetū
 
 [158,i]
 
-("yat kṛtakaṃ tadanityamityupādhibhedena ॥ 11 ॥") (NB 3.11)
+("yat kṛtakaṃ tadanityamityupādhibhedena ॥ 11 ॥")(NB 3.11)
 
 [158,ii]
 
@@ -1690,7 +1690,7 @@ iha kadācicchuddha evārtha ucyate, kadācidavyatiriktena viśeṣaṇena viśi
 [159,i]
 
 nanu ca citraguśabde vyatiriktasya viśeṣaṇasya vācakaścitraśabdo gośabdaścāsti । kṛtakaśabde tu nirviśeṣaṇavācinaḥ śabdasya prayogostītyāśaṅkyāha —
-("apekṣitaparavyāpāro hi bhāvaḥ svabhāvaniṣpattau kṛtaka iti ॥ 12 ॥") (NB 3.12)
+("apekṣitaparavyāpāro hi bhāvaḥ svabhāvaniṣpattau kṛtaka iti ॥ 12 ॥")(NB 3.12)
 
 [159,ii]
 
@@ -1704,7 +1704,7 @@ kvacittu pratīyamānaṃ viśeṣaṇaṃ yathā kṛta ityukte hatubhirityatat
 
 [159,iv]
 
-("evaṃ pratyayabhedabheditvādayo'pi draṣṭavyāḥ ॥ 13 ॥") (NB 3.13)
+("evaṃ pratyayabhedabheditvādayo'pi draṣṭavyāḥ ॥ 13 ॥")(NB 3.13)
 
 [159,v]
 
@@ -1728,14 +1728,14 @@ evamarthaṃ caitadākhyātam — vācakabhedānmā bhūt kasyacitsvabhāvahetā
 
 [160,iii]
 
-("sannutpattimān kṛtako vā śabda iti pakṣadharmopadarśanam ॥ 14 ॥") (NB 3.14)
+("sannutpattimān kṛtako vā śabda iti pakṣadharmopadarśanam ॥ 14 ॥")(NB 3.14)
 
 {3.15}
 
 [160,iv]
 
 atha kimete svabhāvahetavaḥ siddhasambandhe svabhāve sādhye prayoktavyā āhosvidasiddhasambandha ityāśaṅkya siddhasambandhe prayoktavyā iti darśayitumāha —
-("sarva ete sādhanadharmā yathāsvaṃ pramāṇauḥ siddhasādhanadharmamātrānuvandha eva sādhyadharme'vagantavyāḥ ॥ 15 ॥") (NB 3.15)
+("sarva ete sādhanadharmā yathāsvaṃ pramāṇauḥ siddhasādhanadharmamātrānuvandha eva sādhyadharme'vagantavyāḥ ॥ 15 ॥")(NB 3.15)
 
 [160,v]
 
@@ -1760,7 +1760,7 @@ tatra sāmānyasmaraṇaṃ liṅgajñānam । viśiṣṭasya tu śabdagatak�
 [162,iii]
 
 yadyevaṃ sambandho niścetavyaḥ sādhyasya sādhanena saha । sādhanadharmamātrānubandhastu sādhyasya kasmānniścito mṛgyata ityāha —
-("tasyaiva tatsvabhāvatvāt ॥ 16 ॥") (NB 3.16)
+("tasyaiva tatsvabhāvatvāt ॥ 16 ॥")(NB 3.16)
 
 [162,iv]
 
@@ -1771,7 +1771,7 @@ tasyaiveti siddhasādhanadharmamātrānubandhasya । tatsvabhāvatvāditi sādh
 [162,v]
 
 bhavatu īdṛśa eva svabhāvaḥ । svabhāva eva tu sādhye kasmāddhetuprayogaḥ ?
-("svabhāvasya ca hetutvāt ॥ 17 ॥") (NB 3.17)
+("svabhāvasya ca hetutvāt ॥ 17 ॥")(NB 3.17)
 
 [162,vi]
 
@@ -1782,7 +1782,7 @@ svabhāvasya ca hetutvāt । svabhāva eva iha hetuḥ prakrāntaḥ । tasmā
 [162,vii]
 
 yadi sādhyadharmaḥ sādhanasya svabhāvaḥ syāt pratijñārthaikadeśastarhi hetuḥ syādityāha —
-("vastutastayostādātmyam ॥ 18 ॥") (NB 3.18)
+("vastutastayostādātmyam ॥ 18 ॥")(NB 3.18)
 
 [162,viii]
 
@@ -1793,7 +1793,7 @@ vastuta iti । vastutaḥ paramārthataḥ sādhyasādhanayostādātmyam । sa
 [163,i]
 
 kasmāt punaḥ sādhanadharmamātrānubandhyeva sādhyaḥ svabhāvo nānya ityāha —
-("tanniṣpattāvaniṣpannasya tatsvabhāvatvābhāvāt ॥ 19 ॥") (NB 3.19)
+("tanniṣpattāvaniṣpannasya tatsvabhāvatvābhāvāt ॥ 19 ॥")(NB 3.19)
 
 [163,ii]
 
@@ -1808,7 +1808,7 @@ kiñca paścādutpadyamānaṃ pūrvaniṣpannādbhinnahetukam । hetubhedapūr
 [163,iv]
 
 mā bhūt paścānniṣpannaḥ pūrvajasya svabhāvaḥ । sādhyastu kasmānna bhavatītyāha —
-("vyabhicārasaṃbhavācca ॥ 20 ॥") (NB 3.20)
+("vyabhicārasaṃbhavācca ॥ 20 ॥")(NB 3.20)
 
 [163,v]
 
@@ -1818,7 +1818,7 @@ vyabhicāretyādi । pūrvajena paścānniṣpannasya vyabhicāraḥ parityāgo
 
 [164,i]
 
-("kāryahetoḥ prayogaḥ — yatra dhūmastatrāgniḥ । yathā mahānasādau । asti ceha dhūma iti ॥ 21 ॥") (NB 3.21)
+("kāryahetoḥ prayogaḥ — yatra dhūmastatrāgniḥ । yathā mahānasādau । asti ceha dhūma iti ॥ 21 ॥")(NB 3.21)
 
 [164,ii]
 
@@ -1836,7 +1836,7 @@ asti ceheti sādhyadharmiṇi pakṣadharmopasaṃhāraḥ ॥
 
 [164,v]
 
-("ihāpi siddha eva kāryakāraṇabhāve kāraṇe sādhye kāryaheturvaktavyaḥ ॥ 22 ॥") (NB 3.22)
+("ihāpi siddha eva kāryakāraṇabhāve kāraṇe sādhye kāryaheturvaktavyaḥ ॥ 22 ॥")(NB 3.22)
 
 [164,vi]
 
@@ -1849,7 +1849,7 @@ ihāpīti । na kevalaṃ svabhāvahetāvihāpi kāryahetau । siddha eveti ni
 [165,i]
 
 sādharmyavānsvabhāvakāryānupalambhānāṃ prayogo darśitaḥ । vaidharmyavantaṃ darśayitumāha —
-("vaidharmyavataḥ prayogaḥ — yat sadupalabdhilakṣaṇaprāptaṃ tadupalabhyata eva । yathā nīlādiviśeṣaḥ । na caivamihopalabdhilakṣaṇaprāptasya sata upalabdhirghaṭasyetyanupalabdhiprayogaḥ ॥ 23 ॥") (NB 3.23)
+("vaidharmyavataḥ prayogaḥ — yat sadupalabdhilakṣaṇaprāptaṃ tadupalabhyata eva । yathā nīlādiviśeṣaḥ । na caivamihopalabdhilakṣaṇaprāptasya sata upalabdhirghaṭasyetyanupalabdhiprayogaḥ ॥ 23 ॥")(NB 3.23)
 
 [165,ii]
 
@@ -1862,7 +1862,7 @@ vaidharmyavata iti yat sadupalabdhilakṣaṇaprāptamiti yat sat dṛśyamityas
 [166,i]
 
 svabhāvahetorvaidharmyaprayogamāha —
-("asatyanityatve nāstyeva sattvamutpattimattvaṃ kṛtakatvaṃ vā । saṃśca śabda utpattimān kṛtako veti svabhāvahetoḥ prayogaḥ ॥ 24 ॥") (NB 3.24)
+("asatyanityatve nāstyeva sattvamutpattimattvaṃ kṛtakatvaṃ vā । saṃśca śabda utpattimān kṛtako veti svabhāvahetoḥ prayogaḥ ॥ 24 ॥")(NB 3.24)
 
 [166,ii]
 
@@ -1873,7 +1873,7 @@ asatyanityatva iti । ihānityatvasya sādhyasyābhāvo hetorabhāve niyata ucy
 [166,iii]
 
 kāryahetorvaidha rmyavatprayogamāha —
-("asatyagnau na bhavatyeva dhūmaḥ । atra cāsti dhūma iti kāryahetoḥ prayogaḥ ॥ 25 ॥") (NB 3.25)
+("asatyagnau na bhavatyeva dhūmaḥ । atra cāsti dhūma iti kāryahetoḥ prayogaḥ ॥ 25 ॥")(NB 3.25)
 
 [166,iv]
 
@@ -1885,7 +1885,7 @@ asatyagnāviti । ihāpi vahnyabhāvo dhūmābhāvena vyāpta uktaḥ । asti 
 
 nanu ca sādharmyavati vyatireko noktaḥ । vaidharmyavati cānvayaḥ । tat kathametat trirūpaliṅgākhyānamityāha —
 <167>
-("sādharmyeṇāpi hi prayoge'rthādvadharmyagatiriti ॥ 26 ॥") (NB 3.26)
+("sādharmyeṇāpi hi prayoge'rthādvadharmyagatiriti ॥ 26 ॥")(NB 3.26)
 
 [167,i]
 
@@ -1900,7 +1900,7 @@ yadi nāma vyatireko'nvayavatā noktastathāpi anvayavacanasāmarthyādevāvasī
 [167,iii]
 
 katham ?
-("asati tasmin sādhyena hetoranvayābhāvāt ॥ 27 ॥") (NB 3.27)
+("asati tasmin sādhyena hetoranvayābhāvāt ॥ 27 ॥")(NB 3.27)
 
 [167,iv]
 
@@ -1910,7 +1910,7 @@ asati tasmin vyatirekebuddhyādhyavasite sādhyena hetoranvayasya buddhyādhyava
 
 [168,i]
 
-("tathā vaidharmyeṇāpyanvayagatiḥ ॥ 28 ॥") (NB 3.28)
+("tathā vaidharmyeṇāpyanvayagatiḥ ॥ 28 ॥")(NB 3.28)
 
 [168,ii]
 
@@ -1921,7 +1921,7 @@ tatheti । yathā'nvayavākye tathā'rthādeva vaidharmyeṇa prayoge'nvayasyā
 [168,iii]
 
 katham ?
-("asati tasmin sādhyābhāve hetvabhāvasyāsiddheḥ ॥ 29 ॥") (NB 3.29)
+("asati tasmin sādhyābhāve hetvabhāvasyāsiddheḥ ॥ 29 ॥")(NB 3.29)
 
 [168,iv]
 
@@ -1934,7 +1934,7 @@ asati tasmin anvaye buddhigṛhīte sādhyābhāve hetvabhāvasyāsiddheranavas�
 [169,i]
 
 yadi nāmākāśādau sādhyābhāve sādhanābhāvastathāpi kimiti hetusaṃbhave sādhyasaṃbhava ityāha —
-("na hi svabhāvapratibandhe'satyekasya nivṛttāvaparasya niyamena nivṛttiḥ ॥ 30 ॥") (NB 3.30)
+("na hi svabhāvapratibandhe'satyekasya nivṛttāvaparasya niyamena nivṛttiḥ ॥ 30 ॥")(NB 3.30)
 
 [169,ii]
 
@@ -1944,7 +1944,7 @@ nahīti । svabhāvena pratibandho yastasminnasatyekasya sādhyasya nivṛttyā
 
 [169,iii]
 
-("sa ca dviprakāraḥ sarvasya । tādātmyalakṣaṇastadutpattilakṣaṇaścetyuktam ॥ 31 ॥") (NB 3.31)
+("sa ca dviprakāraḥ sarvasya । tādātmyalakṣaṇastadutpattilakṣaṇaścetyuktam ॥ 31 ॥")(NB 3.31)
 
 <170>
 
@@ -1956,7 +1956,7 @@ sa ca svabhāvapratibandho dviprakāraḥ sarvasya pratibaddhasya । tādātmya
 
 [170,ii]
 
-("tenaṃ hi nivṛttiṃ kathayatā pratibandho darśanīyaḥ । tasmāt nivṛttivacanamākṣiptapratibandhopadarśanabheva bhavati । yacca pratibandhopadarśanaṃ tadevānvayavacanamityekenāpi vākyenānvayamukhena vyatirekamukhena vā prayuktena sapakṣāsapakṣayorliṅgasya sadasattvakhyāpanaṃ kṛtaṃ bhavatīti nāvaśyaṃ vākyadvayaprayogaḥ ॥ 32 ॥") (NB 3.32)
+("tenaṃ hi nivṛttiṃ kathayatā pratibandho darśanīyaḥ । tasmāt nivṛttivacanamākṣiptapratibandhopadarśanabheva bhavati । yacca pratibandhopadarśanaṃ tadevānvayavacanamityekenāpi vākyenānvayamukhena vyatirekamukhena vā prayuktena sapakṣāsapakṣayorliṅgasya sadasattvakhyāpanaṃ kṛtaṃ bhavatīti nāvaśyaṃ vākyadvayaprayogaḥ ॥ 32 ॥")(NB 3.32)
 
 [170,iii]
 
@@ -1974,7 +1974,7 @@ arthagatyartho hi śabdaprayogaḥ । arthaścedavagataḥ, kiṃ śabdaprayoge
 
 [171,iii]
 
-("anupalabdhāvapi — yat sad uparlābdhalakṣaṇaprāptaṃ tad upalabhyata evetyukte — anupalabhyamānaṃ tādṛśamasaditi pratīteranvayasiddhiḥ ॥ 33 ॥") (NB 3.33)
+("anupalabdhāvapi — yat sad uparlābdhalakṣaṇaprāptaṃ tad upalabhyata evetyukte — anupalabhyamānaṃ tādṛśamasaditi pratīteranvayasiddhiḥ ॥ 33 ॥")(NB 3.33)
 
 <172>
 
@@ -1986,7 +1986,7 @@ anupalabdhāvapi vyatirekeṇo ktenānvayagatiḥ । yat sad upalabdhilakṣa�
 
 [172,ii]
 
-("dvayorapyanayoḥ prayogayornāvaśyaṃ pakṣanirdeśaḥ ॥ 34 ॥") (NB 3.34)
+("dvayorapyanayoḥ prayogayornāvaśyaṃ pakṣanirdeśaḥ ॥ 34 ॥")(NB 3.34)
 
 [172,iii]
 
@@ -1999,7 +1999,7 @@ yataśca sādhanaṃ sādhyadharmapratibaddhaṃ tādātmyatadutpattibhyāṃ pr
 [174,i]
 
 enamevārthamanupalabdhiprayoge darśayati —
-("yasmāt sādharmyavatprayoge'pi — yadupalabdhilakṣaṇaprāptaṃ sannopalabhyate so'sadvyavahāraviṣayaḥ । nopalabhyate cātropalabdhilakṣaṇaprāpto ghaṭa ityukte sāmarthyādeva neha ghaṭa iti bhavati ॥ 35 ॥") (NB 3.35)
+("yasmāt sādharmyavatprayoge'pi — yadupalabdhilakṣaṇaprāptaṃ sannopalabhyate so'sadvyavahāraviṣayaḥ । nopalabhyate cātropalabdhilakṣaṇaprāpto ghaṭa ityukte sāmarthyādeva neha ghaṭa iti bhavati ॥ 35 ॥")(NB 3.35)
 
 [174,ii]
 
@@ -2013,7 +2013,7 @@ kiṃ punastat sāmarthyamityāha — yadupalabdhilakṣaṇaprāptaṃ sannopal
 
 [175,i]
 
-("tathā vaidharmyavatprayoge'pi — yaḥ sadvyavahāraviṣaya upalabdhilakṣaṇaprāptaḥ, sa upalabhyata eva । na tathā'tra tādṛśo ghaṭa upalabhyata ityukte sāmarthyādeva neha sadvyavahāraviṣaya iti bhavati ॥ 36 ॥") (NB 3.36)
+("tathā vaidharmyavatprayoge'pi — yaḥ sadvyavahāraviṣaya upalabdhilakṣaṇaprāptaḥ, sa upalabhyata eva । na tathā'tra tādṛśo ghaṭa upalabhyata ityukte sāmarthyādeva neha sadvyavahāraviṣaya iti bhavati ॥ 36 ॥")(NB 3.36)
 
 [175,ii]
 
@@ -2027,14 +2027,14 @@ sāmarthya darśayitumāha — yaḥ sadvyavahāraviṣaya iti vidyamānaḥ ।
 
 [176,i]
 
-("kīdṛśaḥ punaḥ pakṣa iti nirdeśyaḥ ? ॥ 37 ॥") (NB 3.37)
+("kīdṛśaḥ punaḥ pakṣa iti nirdeśyaḥ ? ॥ 37 ॥")(NB 3.37)
 
 {3.38}
 
 [176,ii]
 
 kīdṛśaḥ purararthaḥ pakṣa iti — anenaśabdena nirdeśyo vaktavyaḥ ? ityāha —
-("svarūpeṇaiva svayamiṣṭo'nirākṛtaḥ pakṣa iti ॥ 38 ॥") (NB 3.38)
+("svarūpeṇaiva svayamiṣṭo'nirākṛtaḥ pakṣa iti ॥ 38 ॥")(NB 3.38)
 
 [176,iii]
 
@@ -2049,7 +2049,7 @@ atha yadi pakṣo na nirdeśyaḥ, kathamanirdeśyasya lakṣaṇamuktam ? na s�
 [176,v]
 
 svarūpeṇeṣṭa ityasya vivaraṇama —
-("svarūpeṇeti sādhyatveneṣṭaḥ ॥ 39 ॥") (NB 3.39)
+("svarūpeṇeti sādhyatveneṣṭaḥ ॥ 39 ॥")(NB 3.39)
 
 [176,vi]
 
@@ -2060,7 +2060,7 @@ sādhyatveneṣṭa iti । pakṣasya sādhyatvānnāparamasti rūpam । ata�
 [176,vii]
 
 evaśabdaṃ vivaritumāha —
-("svarūpeṇaiveti sādhyatvenaiveṣṭo na sādhanatvenāpi ॥ 40 ॥") (NB 3.40)
+("svarūpeṇaiveti sādhyatvenaiveṣṭo na sādhanatvenāpi ॥ 40 ॥")(NB 3.40)
 
 [176,viii]
 
@@ -2071,7 +2071,7 @@ svarūpeṇaiveti । nanu caivaśabdaḥ kevala eva pratyavamarṣṭavyastat k
 [177,i]
 
 tadudāharati —
-("yathā śabdasyānityatve sādhye cākṣuṣatvaṃ hetuḥ, śabde'siddhatvāt sādhyam । na punastadiha sādhyatvenaiveṣṭam, sādhanatvenābhidhānāt ॥ 41 ॥") (NB 3.41)
+("yathā śabdasyānityatve sādhye cākṣuṣatvaṃ hetuḥ, śabde'siddhatvāt sādhyam । na punastadiha sādhyatvenaiveṣṭam, sādhanatvenābhidhānāt ॥ 41 ॥")(NB 3.41)
 
 [177,ii]
 
@@ -2086,7 +2086,7 @@ tad iti cākṣuṣatvam । iheti śabde । sādhyatvenaiveṣṭam — iti s�
 [177,iv]
 
 svayamityanena svayaṃśabdaṃ vyākhyeyamupakṣipya tasyārthamāha —
-("svayamiti vādinā ॥ 42 ॥") (NB 3.42)
+("svayamiti vādinā ॥ 42 ॥")(NB 3.42)
 
 [177,v]
 
@@ -2099,7 +2099,7 @@ vādineti । svayaṃśabdo nipāta ātmana iti ṣaṣṭhyantasyātmaneti ca 
 [178,i]
 
 kaḥ punarasau vādītyāha —
-("yastadā sādhanamāha ॥ 43 ॥") (NB 3.43)
+("yastadā sādhanamāha ॥ 43 ॥")(NB 3.43)
 
 [178,ii]
 
@@ -2114,7 +2114,7 @@ yadyevaṃ vādina iṣṭaḥ sādhyaḥ — ityuktam । etena ca kimuktena ? 
 [178,iv]
 
 atha kasmin satyanyadharmasādhyatvasya sambhavo yannivṛttyarthaṃ tad vaktavyamityāha —
-("etena yadyapi kvacicchāstre sthitaḥ sādhanamāha, tacchāstrakāreṇa tasmin dharmiṇyanekadharmābhyupagame'pi yastadā tena vādinā dharmaḥ svayaṃ sādhayitu<179>miṣṭaḥ, sa eva sādhyo netara ityuktaṃ bhavati ॥ 44 ॥") (NB 3.44)
+("etena yadyapi kvacicchāstre sthitaḥ sādhanamāha, tacchāstrakāreṇa tasmin dharmiṇyanekadharmābhyupagame'pi yastadā tena vādinā dharmaḥ svayaṃ sādhayitu<179>miṣṭaḥ, sa eva sādhyo netara ityuktaṃ bhavati ॥ 44 ॥")(NB 3.44)
 
 [179,i]
 
@@ -2129,7 +2129,7 @@ nanu ca śāstrānapekṣaṃ vastubalapravṛttaṃ liṅgam । ato'napekṣa�
 [179,iii]
 
 iṣṭa itīṣṭaśabdamupakṣipya vyācaṣṭe —
-("iṣṭa iti yatrārthe vivādena sādhanamupanyastaṃ tasya siddhimicchatā so 'nukto'pi vacanena sādhyaḥ ॥ 45 ॥") (NB 3.45)
+("iṣṭa iti yatrārthe vivādena sādhanamupanyastaṃ tasya siddhimicchatā so 'nukto'pi vacanena sādhyaḥ ॥ 45 ॥")(NB 3.45)
 
 [179,iv]
 
@@ -2146,7 +2146,7 @@ yadyapi parārthānumāna ukta eva sādhyo yuktaḥ, anuktopi tu vacanena sādhy
 [180,i]
 
 kuta etadityāha —
-("tadadhikaraṇatvādvivādasya ॥ 46 ॥") (NB 3.46)
+("tadadhikaraṇatvādvivādasya ॥ 46 ॥")(NB 3.46)
 
 [180,ii]
 
@@ -2161,7 +2161,7 @@ etaduktaṃ bhavati — yasmādvivādaṃ nirākarttumicchatā vādinā sādhana
 [180,iv]
 
 anuktamapi parārthānumāne sādhyamiṣṭam । tadudāharati —
-("yathā parārthāścakṣurādayaḥ saṃghātatvācchayanāsanādyaṅgavaditi । atrātmārthā ityanuktāvapyātmārthatā sādhyā । tena noktamātrameva sādhyam — ityuktaṃ bhavati ॥ 47 ॥") (NB 3.47)
+("yathā parārthāścakṣurādayaḥ saṃghātatvācchayanāsanādyaṅgavaditi । atrātmārthā ityanuktāvapyātmārthatā sādhyā । tena noktamātrameva sādhyam — ityuktaṃ bhavati ॥ 47 ॥")(NB 3.47)
 
 [180,v]
 
@@ -2187,7 +2187,7 @@ parasyārthakāri vijñānaṃ setsyatīti sāmarthyādātmārthatvaṃ sidhyati
 
 [182,i]
 
-("anirākṛta iti — etallakṣaṇayoge'pi yaḥ sādhayitumiṣṭo'pyarthaḥ pratyakṣānumānapratītisvavacanairnirākriyate, na sa pakṣa iti pradarśanārtham ॥ 48 ॥") (NB 3.48)
+("anirākṛta iti — etallakṣaṇayoge'pi yaḥ sādhayitumiṣṭo'pyarthaḥ pratyakṣānumānapratītisvavacanairnirākriyate, na sa pakṣa iti pradarśanārtham ॥ 48 ॥")(NB 3.48)
 
 [182,ii]
 
@@ -2201,7 +2201,7 @@ kīdṛśo'rtho na pakṣaḥ sādhayitumiṣṭo'pītyāha — yaḥ sādhayitu
 
 [182,iv]
 
-("tatra pratyakṣanirākṛto yathā — aśrāvaṇaḥ śabda iti ॥ 49 ॥") (NB 3.49)
+("tatra pratyakṣanirākṛto yathā — aśrāvaṇaḥ śabda iti ॥ 49 ॥")(NB 3.49)
 
 [182,v]
 
@@ -2217,7 +2217,7 @@ tatreti । teṣu caturṣu pratyakṣādinirākṛteṣu pratyakṣanirākṛt
 
 [183,i]
 
-("anumānanirākṛto yathā — nityaḥ śabda iti ॥ 50 ॥") (NB 3.50)
+("anumānanirākṛto yathā — nityaḥ śabda iti ॥ 50 ॥")(NB 3.50)
 
 [183,ii]
 
@@ -2227,7 +2227,7 @@ anumānanirākṛto yathā nityaḥ śabda iti । śabdasya pratijñātaṃ nit
 
 [183,iii]
 
-("pratītinirākṛto yathā — acandraḥ śaśīti ॥ 51 ॥") (NB 3.51)
+("pratītinirākṛto yathā — acandraḥ śaśīti ॥ 51 ॥")(NB 3.51)
 
 [183,iv]
 
@@ -2239,7 +2239,7 @@ pratītyā nirākṛtaḥ acandra iti candraśabdavācyo na bhavati śaśīti pr
 
 [185,i]
 
-("svavacananirākṛto yathā — nānumānaṃ pramāṇam ॥ 52 ॥") (NB 3.52)
+("svavacananirākṛto yathā — nānumānaṃ pramāṇam ॥ 52 ॥")(NB 3.52)
 
 [185,ii]
 
@@ -2273,7 +2273,7 @@ kiñca । yathā — anumānamanicchan vahnyavyabhicāritvaṃ dhūmasya na pra
 
 [187,iii]
 
-("iti catvāraḥ pakṣābhāsā nirākṛtā bhavanti ॥ 53 ॥") (NB 3.53)
+("iti catvāraḥ pakṣābhāsā nirākṛtā bhavanti ॥ 53 ॥")(NB 3.53)
 
 [187,iv]
 
@@ -2285,7 +2285,7 @@ evaṃca sati — anirākṛtagrahaṇenānantaroktāścatvāraḥ pakṣavadāb
 
 samprati pakṣalakṣaṇapadāni yeṣāṃ vyavacchedakāni teṣāṃ vyavachedena yādṛśaḥ pakṣārtho labhyate taṃ darśayituṃ vyavacchedyān saṃkṣipya darśayati —
 <188>
-("evaṃ siddhasya, asiddhasyāpi sādhanatvenābhimatasya, svayaṃ vādinā tadā sādhayitumaniṣṭasya, uktamātrasya nirākṛtasya ca viparyayeṇa sādhyaḥ । tenaiva svarūpeṇābhimato vādina iṣṭo'nirākṛtaḥ pakṣa iti pakṣalakṣaṇamanavadyaṃ darśitaṃ bhavati ॥ 54 ॥") (NB 3.54)
+("evaṃ siddhasya, asiddhasyāpi sādhanatvenābhimatasya, svayaṃ vādinā tadā sādhayitumaniṣṭasya, uktamātrasya nirākṛtasya ca viparyayeṇa sādhyaḥ । tenaiva svarūpeṇābhimato vādina iṣṭo'nirākṛtaḥ pakṣa iti pakṣalakṣaṇamanavadyaṃ darśitaṃ bhavati ॥ 54 ॥")(NB 3.54)
 
 [188,i]
 
@@ -2300,7 +2300,7 @@ yaścāyaṃ pañcabhirvyavacchedyai rahito'rtho'siddho'sādhanaṃ vādinaḥ s
 [188,iii]
 
 trirūpaliṅgākhyānaṃ parisamāpayya prasaṅgāgataṃ ca pakṣalakṣaṇamabhidhāya hetvābhāsān vaktukāmasteṣāṃ prastāvaṃ racayati trirūpetyādinā —
-("trirūpaliṅgākhyānaṃ parārthānumānamityuktam । tatra trayāṇāṃ rūpāṇāmekasyāpi rūpasyānuktau sādhanābhāsaḥ ॥ 55 ॥") (NB 3.55)
+("trirūpaliṅgākhyānaṃ parārthānumānamityuktam । tatra trayāṇāṃ rūpāṇāmekasyāpi rūpasyānuktau sādhanābhāsaḥ ॥ 55 ॥")(NB 3.55)
 
 [188,iv]
 
@@ -2314,7 +2314,7 @@ tatreti tasmin sati । trirūpaliṅgākhyāne parārthānumāne satītyartha�
 
 [189,ii]
 
-("uktāvapyasiddhau sandehe vā pratipādyapratipādakayoḥ ॥ 56 ॥") (NB 3.56)
+("uktāvapyasiddhau sandehe vā pratipādyapratipādakayoḥ ॥ 56 ॥")(NB 3.56)
 
 [189,iii]
 
@@ -2326,7 +2326,7 @@ na kevalamanuktāvuktāvapyasiddhau sandehe vā । kasyetyāha — pratipādyas
 
 atha kasyaikasyārūpasyāsiddhau sandehe vā kiṃsaṃjñako hetvābhāsa ityāha —
 <190>
-("ekasya rūpasya dharmisambandhasyāsiddhau sandehe vā'siddho hetvābhāsaḥ ॥ 57 ॥") (NB 3.57)
+("ekasya rūpasya dharmisambandhasyāsiddhau sandehe vā'siddho hetvābhāsaḥ ॥ 57 ॥")(NB 3.57)
 
 [190,i]
 
@@ -2337,7 +2337,7 @@ ekasya rūpasyeti । dharmiṇā saha sambandhaḥ dharmisambandhaḥ । dharm
 [190,ii]
 
 udāharaṇamāha —
-("yathā — anityaḥ śabda iti sādhye cākṣuṣatvamubhayāsiddham ॥ 58 ॥") (NB 3.58)
+("yathā — anityaḥ śabda iti sādhye cākṣuṣatvamubhayāsiddham ॥ 58 ॥")(NB 3.58)
 
 [190,iii]
 
@@ -2347,7 +2347,7 @@ yathetyādi । anityaḥ śabda ityanityatvaviśiṣṭe śabde sādhye cākṣ
 
 [190,iv]
 
-("cetanāstarava iti sādhye sarvatvagapaharaṇe maraṇaṃ prativādyasiddham, vijñānendriyāyurnirodhalakṣaṇasya maraṇasyānenābhyupagamāt, tasya ca taruṣvasambhavāt ॥ 59 ॥") (NB 3.59)
+("cetanāstarava iti sādhye sarvatvagapaharaṇe maraṇaṃ prativādyasiddham, vijñānendriyāyurnirodhalakṣaṇasya maraṇasyānenābhyupagamāt, tasya ca taruṣvasambhavāt ॥ 59 ॥")(NB 3.59)
 
 [190,v]
 
@@ -2375,7 +2375,7 @@ digambarastu sādhyena vyāptamavyāptaṃ vā maraṇamavivicya maraṇamātra�
 
 [192,i]
 
-("acetanāḥ sukhādaya iti sādhya utpattimatvam anityatvaṃ vā sāṃkhyasya svayaṃ vādino'siddham ॥ 60 ॥") (NB 3.60)
+("acetanāḥ sukhādaya iti sādhya utpattimatvam anityatvaṃ vā sāṃkhyasya svayaṃ vādino'siddham ॥ 60 ॥")(NB 3.60)
 
 [192,ii]
 
@@ -2386,7 +2386,7 @@ acetanāḥ sukhādaya iti — sukhamādiryeṣāṃ duḥkhādīnāṃ te sukh�
 [192,iii]
 
 saṃdigdhāsiddhaṃ darśayitumāha —
-("tathā svayaṃ tadāśrayaṇasya vā saṃdehe'siddhaḥ ॥ 61 ॥") (NB 3.61)
+("tathā svayaṃ tadāśrayaṇasya vā saṃdehe'siddhaḥ ॥ 61 ॥")(NB 3.61)
 
 [192,iv]
 
@@ -2397,7 +2397,7 @@ svayamiti hetorātmanaḥ sandehe'siddhaḥ । tadāśrayaṇasya veti — tasy
 [193,i]
 
 ātmanā sandihyamānamudāharttumāha —
-("yathā bāṣpādibhāvena saṃdihyamāno bhūtasaṅghāto'gnisiddhāvupadiśyamānaḥsaṃdigdhāsiddhaḥ ॥ 62 ॥") (NB 3.62)
+("yathā bāṣpādibhāvena saṃdihyamāno bhūtasaṅghāto'gnisiddhāvupadiśyamānaḥsaṃdigdhāsiddhaḥ ॥ 62 ॥")(NB 3.62)
 
 [193,ii]
 
@@ -2412,7 +2412,7 @@ etaduktaṃ bhavati — yadā dhūmo'pi bāṣpāditvena saṃdigdho bhavati tad
 [193,iv]
 
 āśrayaṇāsiddhamudāharati —
-("yatheha nikuñje mayūraḥ kekāyitāditi ॥ 63 ॥") (NB 3.63)
+("yatheha nikuñje mayūraḥ kekāyitāditi ॥ 63 ॥")(NB 3.63)
 
 [193,v]
 
@@ -2425,7 +2425,7 @@ yatheti । iha nikuñja iti dharmī । parvatoparibhāgena tiryaṅnirgatena p
 [194,i]
 
 kathamayamāśrayaṇāsiddha ityāha —
-("tadāpātadeśavibhrame ॥ 64 ॥") (NB 3.64)
+("tadāpātadeśavibhrame ॥ 64 ॥")(NB 3.64)
 
 [194,ii]
 
@@ -2436,7 +2436,7 @@ tadāpāta iti । tasya kekāyitasyāpāta āgamanaṃ tasya deśaḥ sa ucyate
 [194,iii]
 
 dharmiṇo'siddhāvapyasiddhatvamudāharati —
-("dharmyasiddhāvapyasiddhaḥ — yathā sarvagata ātmeti sādhye sarvatropalabhyamānaguṇatvam ॥ 65 ॥") (NB 3.65)
+("dharmyasiddhāvapyasiddhaḥ — yathā sarvagata ātmeti sādhye sarvatropalabhyamānaguṇatvam ॥ 65 ॥")(NB 3.65)
 
 [194,iv]
 
@@ -2456,7 +2456,7 @@ tadevamekasya rūpasya dharmisambaddhasyāsiddhāvasiddho hetvābhāsaḥ ॥
 
 [195,ii]
 
-("tathaikasya rūpasyāsapakṣe'sattvasyāsiddhāvanaikāntiko hetvābhāsaḥ ॥ 66 ॥") (NB 3.66)
+("tathaikasya rūpasyāsapakṣe'sattvasyāsiddhāvanaikāntiko hetvābhāsaḥ ॥ 66 ॥")(NB 3.66)
 
 [195,iii]
 
@@ -2473,7 +2473,7 @@ eko'nta ekānto niścayaḥ । sa prayojanamasyetyaikāntikaḥ । naikāntiko
 [196,i]
 
 tamudāharati —
-("yathā śabdasyānityatvādike dharme sādhye prameyatvādiko dharmaḥ sapakṣavipakṣayoḥ sarvatraikadeśe vā varttamānaḥ ॥ 67 ॥") (NB 3.67)
+("yathā śabdasyānityatvādike dharme sādhye prameyatvādiko dharmaḥ sapakṣavipakṣayoḥ sarvatraikadeśe vā varttamānaḥ ॥ 67 ॥")(NB 3.67)
 
 [196,ii]
 
@@ -2509,7 +2509,7 @@ asya caturvidhasya pakṣadharmasyāsattvamasiddhaṃ vipakṣe । tato'naikān
 
 [197,ii]
 
-("tathā — asyaiva rūpasya saṃdehe'pyanaikāntika eva ॥ 68 ॥") (NB 3.68)
+("tathā — asyaiva rūpasya saṃdehe'pyanaikāntika eva ॥ 68 ॥")(NB 3.68)
 
 [197,iii]
 
@@ -2520,7 +2520,7 @@ yathā cāsya rūpasyāsiddhāvanaikāntikastathā asyaiva vipakṣe'sattvākhya
 [197,iv]
 
 tamudāharati —
-("yathā'sarvajñaḥ kaścidvivakṣitaḥ puruṣo rāgādimān veti sādhye vaktṛtvādiko dharmaḥ sandigdhavipakṣavyāvṛttikaḥ ॥ 69 ॥") (NB 3.69)
+("yathā'sarvajñaḥ kaścidvivakṣitaḥ puruṣo rāgādimān veti sādhye vaktṛtvādiko dharmaḥ sandigdhavipakṣavyāvṛttikaḥ ॥ 69 ॥")(NB 3.69)
 
 [197,v]
 
@@ -2535,7 +2535,7 @@ sandigdhā vipakṣā vyāvṛttiryasya sa tathoktaḥ । asarvajñatve sādhye
 [197,vii]
 
 nanu ca sarvajño vaktā nopalabhyate tatkathaṃ vacanaṃ sarvajñe sandigdham ? ata eva
-("sarvajño vaktā nopalabhyate ityevaṃprakārasyānupalambhasyādṛśyātmaviṣayatvonasaṃdehahetutvād । tato'sarvajñaviparyayādvaktṛtvādervyāvṛttiḥ sandigdhā ॥ 70 ॥") (NB 3.70)
+("sarvajño vaktā nopalabhyate ityevaṃprakārasyānupalambhasyādṛśyātmaviṣayatvonasaṃdehahetutvād । tato'sarvajñaviparyayādvaktṛtvādervyāvṛttiḥ sandigdhā ॥ 70 ॥")(NB 3.70)
 
 [197,viii]
 
@@ -2545,7 +2545,7 @@ nanu ca sarvajño vaktā nopalabhyate tatkathaṃ vacanaṃ sarvajñe sandigdham
 
 [198,i]
 
-("vaktṛtvasarvajñatvayorvirodhābhāvācca yaḥ sarvajñaḥ sa vaktā na bhavatītyadarśanepi vyatireko na sidhyati, saṃdehāt ॥ 71 ॥") (NB 3.71)
+("vaktṛtvasarvajñatvayorvirodhābhāvācca yaḥ sarvajñaḥ sa vaktā na bhavatītyadarśanepi vyatireko na sidhyati, saṃdehāt ॥ 71 ॥")(NB 3.71)
 
 [198,ii]
 
@@ -2560,7 +2560,7 @@ vyāptimantaṃ vyatirekaṃ darśayati — yaḥ sarvajña iti । sādhyābhā
 [198,iv]
 
 kathaṃ virodhābhāvaḥ ?
-("dvividho hi padārthānāṃ virodhaḥ ॥ 72 ॥") (NB 3.72)
+("dvividho hi padārthānāṃ virodhaḥ ॥ 72 ॥")(NB 3.72)
 
 [198,v]
 
@@ -2571,7 +2571,7 @@ hīti yasmād dvividha eva virodho nānyaḥ, tasmānna vaktṛtvasarvaṃjñatv
 [198,vi]
 
 kaḥ punarasau dvividho virodha ityāha —
-("avikalakāraṇasya bhavato'nyabhāve'bhāvād virodhagatiḥ ॥ 73 ॥") (NB 3.73)
+("avikalakāraṇasya bhavato'nyabhāve'bhāvād virodhagatiḥ ॥ 73 ॥")(NB 3.73)
 
 [198,vii]
 
@@ -2620,7 +2620,7 @@ ye tvāhurna virodho vāstava iti ta idaṃ vaktavyāḥ — yathā na niṣpann
 [203,i]
 
 udāharaṇamāha —
-("śītoṣṇasparśavat ॥ 74 ॥") (NB 3.74)
+("śītoṣṇasparśavat ॥ 74 ॥")(NB 3.74)
 
 [203,ii]
 
@@ -2631,7 +2631,7 @@ udāharaṇamāha —
 [203,iii]
 
 dvitīyamapi virodhaṃ darśayitumāha —
-("parasparaparihārasthitalakṣaṇatayā vā bhāvāmāvavat ॥ 75 ॥") (NB 3.75)
+("parasparaparihārasthitalakṣaṇatayā vā bhāvāmāvavat ॥ 75 ॥")(NB 3.75)
 
 [203,iv]
 
@@ -2665,7 +2665,7 @@ tato bhinnavyāpārau virodhau । ekena virodhena śītoṣṇasparśayorekatva
 
 [207,ii]
 
-("sa ca dvividho'pi virodho vaktṛtvasarvajñatvayorna sambhavati ॥ 76 ॥") (NB 3.76)
+("sa ca dvividho'pi virodho vaktṛtvasarvajñatvayorna sambhavati ॥ 76 ॥")(NB 3.76)
 
 <208>
 
@@ -2685,7 +2685,7 @@ syādetat — yadi nāstyeva virodho ghaṭapaṭayoriva syādapi tayoḥ sahāv
 
 [208,iv]
 
-("na cāviruddhavidheranupalabdhāvapyabhāvagatiḥ ॥ 77 ॥") (NB 3.77)
+("na cāviruddhavidheranupalabdhāvapyabhāvagatiḥ ॥ 77 ॥")(NB 3.77)
 
 <209>
 
@@ -2698,7 +2698,7 @@ na cāviruddhavidheriti anupalabdhāvapi nāyaṃ viruddhavidhiḥ yadyapi sahā
 [209,ii]
 
 tathā na vaktṛtvād rāgādimattvagatiḥ । yato yadi vacanādi rāgādīnāṃ kāryaṃ syādvacanāde rāgādigatiḥ syāt । rāgādinivṛttau vacanādinivṛttiḥ syāt । na ca kāryam । kutaḥ —
-("rāgādīnāṃ vacanādeśca kāryakāraṇabhāvāsiddheḥ ॥ 78 ॥") (NB 3.78)
+("rāgādīnāṃ vacanādeśca kāryakāraṇabhāvāsiddheḥ ॥ 78 ॥")(NB 3.78)
 
 [209,iii]
 
@@ -2709,7 +2709,7 @@ rāgādīnāṃ vacanādeśca kāryakāraṇabhāvasyā'siddheḥ kāraṇānna 
 [209,iv]
 
 mā bhūdrāgādikāryaṃ vacanaṃ sahacāri tu bhavati । tato rāgādau sahacāriṇi nivṛtte nivarttaṃte vacanamityāśaṅkyāha —
-("arthāntarasya cākāraṇasya nivṛttau na vacanādernivṛttiḥ ॥ 79 ॥") (NB 3.79)
+("arthāntarasya cākāraṇasya nivṛttau na vacanādernivṛttiḥ ॥ 79 ॥")(NB 3.79)
 
 [209,v]
 
@@ -2719,7 +2719,7 @@ arthāntarasya cākāraṇasya nivṛttau sahacāritvadarśanamātreṇa nānyas
 
 [209,vi]
 
-("iti sandigdha vyatireko'naikāntiko vacanādiḥ ॥ 80 ॥") (NB 3.80)
+("iti sandigdha vyatireko'naikāntiko vacanādiḥ ॥ 80 ॥")(NB 3.80)
 
 <210>
 
@@ -2732,7 +2732,7 @@ iti śabdastasmādarthe । tasmādasarvajñatvaviparyayād vipakṣātsarvajña
 [210,ii]
 
 evamekaikarūpādisiddhisandehe hetudoṣān ākhyāya dvayordvayo rūpayorasiddhisandehe hetudoṣān vaktukāma āha —
-("dvayo rūpayorviparyayasiddhau viruddhaḥ ॥ 81 ॥") (NB 3.81)
+("dvayo rūpayorviparyayasiddhau viruddhaḥ ॥ 81 ॥")(NB 3.81)
 
 [210,iii]
 
@@ -2743,7 +2743,7 @@ dvayoriti । dvayo rūpayorviparyayasiddhau sattyāṃ viruddhaḥ ॥
 [210,iv]
 
 trīṇi ca rūpāṇi santi । tato viśeṣajñāpanārthamāha —
-("kayordvayoḥ ? ॥ 82 ॥") (NB 3.82)
+("kayordvayoḥ ? ॥ 82 ॥")(NB 3.82)
 
 [210,v]
 
@@ -2754,7 +2754,7 @@ kayordvayoriti ॥
 [210,vi]
 
 viśiṣṭe rūpe darśayati —
-("sapakṣe satvasya, asapakṣe cāsatvasya । yathā kṛtakatvaṃ prayatnānantarīya katvaṃ ca nityatve sādhye viruddho hetvābhāsaḥ ॥ 83 ॥") (NB 3.83)
+("sapakṣe satvasya, asapakṣe cāsatvasya । yathā kṛtakatvaṃ prayatnānantarīya katvaṃ ca nityatve sādhye viruddho hetvābhāsaḥ ॥ 83 ॥")(NB 3.83)
 
 [210,vii]
 
@@ -2771,7 +2771,7 @@ etau hetū nityatve sādhye viruddhau hetvābhāsau ॥
 [211,ii]
 
 kasmāt punaretau viruddhāvityāha —
-("anayoḥ sapakṣe'satvam, asapakṣe ca satvamiti viparyayasiddhiḥ ॥ 84 ॥") (NB 3.84)
+("anayoḥ sapakṣe'satvam, asapakṣe ca satvamiti viparyayasiddhiḥ ॥ 84 ॥")(NB 3.84)
 
 [211,iii]
 
@@ -2782,7 +2782,7 @@ anayoriti । sapakṣe hi nitye katakatvaprayatnānantarīyakatvayorasattvameva
 [211,iv]
 
 kasmāt punarviparyayasiddhāvapyetau viruddhāvityāha —
-("etau ca sādhyaviparyayasādhanādviruddhau ॥ 85 ॥") (NB 3.85)
+("etau ca sādhyaviparyayasādhanādviruddhau ॥ 85 ॥")(NB 3.85)
 
 [211,v]
 
@@ -2793,7 +2793,7 @@ etau ca sādhyasya nityatvasya viparyayam — anityatvaṃ sādhayataḥ । tat
 [211,vi]
 
 yadi sādhyaviparyayasādhanādviruddhāvetau, uktaṃ ca parārthānumāne sādhyam, na tvanuktam; iṣṭaṃ ca anuktam । ato'nya iṣṭavighātakṛdābhyāmiti darśayannāha —
-("nanu ca tṛtīyo'pīṣṭavighātakṛd viruddhaḥ ॥ 86 ॥") (NB 3.86)
+("nanu ca tṛtīyo'pīṣṭavighātakṛd viruddhaḥ ॥ 86 ॥")(NB 3.86)
 
 [211,vii]
 
@@ -2804,7 +2804,7 @@ nanu ca tṛtīyo'pi viruddha uktaḥ । uktaviparyayasādhanau dvau । tṛt�
 [211,viii]
 
 tamudāharati —
-("yathā parārthāścakṣurādayaḥ saṅghātatvācchayanāsanādyaṅgavaditi ॥ 87 ॥") (NB 3.87)
+("yathā parārthāścakṣurādayaḥ saṅghātatvācchayanāsanādyaṅgavaditi ॥ 87 ॥")(NB 3.87)
 
 <212>
 
@@ -2817,7 +2817,7 @@ yatheti । cakṣurādaya iti dharmī । paro'rthaḥ prayojanaṃ parārtha�
 [212,ii]
 
 kathamayamiṣṭavighātakṛdityāha —
-("tadiṣṭāsaṃhatapārārthyaviparyayasādhanādviruddhaḥ ॥ 88 ॥") (NB 3.88)
+("tadiṣṭāsaṃhatapārārthyaviparyayasādhanādviruddhaḥ ॥ 88 ॥")(NB 3.88)
 
 [212,iii]
 
@@ -2834,14 +2834,14 @@ tadiṣṭāsaṃhatapārārthyaviparyayasādhanāditi । asaṃhate viṣaye p
 [213,i]
 
 ayaṃ ca viruddha ācāryadiṅ nāgenoktaḥ —
-("sa iha kasmānnoktaḥ ॥ 89 ॥") (NB 3.89)
+("sa iha kasmānnoktaḥ ॥ 89 ॥")(NB 3.89)
 
 {3.90}
 
 [213,ii]
 
 sa kasmād vārttikakāreṇa satā tvayā noktaḥ ? itara āha —
-("anayorevāntarbhāvāt ॥ 90 ॥") (NB 3.90)
+("anayorevāntarbhāvāt ॥ 90 ॥")(NB 3.90)
 
 [213,iii]
 
@@ -2852,7 +2852,7 @@ anayoreva sādhyaviparyayasādhanayorantarbhāvāt ।
 [213,iv]
 
 nanu coktaviparyapaṃ na sādhayati । tat kathamuktaviparyayasādhanayorevāntarbhāva ityāha —
-("na hyayamābhyāṃ sādhyaviparyayasādhanatvena bhidyate ॥ 91 ॥") (NB 3.91)
+("na hyayamābhyāṃ sādhyaviparyayasādhanatvena bhidyate ॥ 91 ॥")(NB 3.91)
 
 [213,v]
 
@@ -2863,7 +2863,7 @@ na hyayamiti । hīti yasmādarthe । yasmād ayamiṣṭavidhātakṛdābhyā
 [213,vi]
 
 nanu coktameva sādhyaṃ tat kathaṃ sādhyaviparyayasādhanatvenābheda ityāha —
-("nahīṣṭoktayoḥ sādhyatvena kaścidviśeṣa iti ॥ 92 ॥") (NB 3.92)
+("nahīṣṭoktayoḥ sādhyatvena kaścidviśeṣa iti ॥ 92 ॥")(NB 3.92)
 
 [213,vii]
 
@@ -2877,7 +2877,7 @@ prativādino hi yajjijñāsitaṃ tat prakaraṇāpannam । yacca prakaraṇāp
 
 [213,ix]
 
-("dvayo rūpayorekasyāsiddhāvaparasya ca sandehe'naikāntikaḥ ॥ 93 ॥") (NB 3.93)
+("dvayo rūpayorekasyāsiddhāvaparasya ca sandehe'naikāntikaḥ ॥ 93 ॥")(NB 3.93)
 
 [213,x]
 
@@ -2890,7 +2890,7 @@ dvayo rūpayo rviparyayasiddhau viruddha uktaḥ । tayostu dvayormadhya ekasy�
 [214,i]
 
 kīdṛśo'sāvityāha —
-("yathā vītarāgaḥ kaścit sarvajño vā, vaktṛtvāditi । vyatireko'trāsiddhaḥ । sandigdho'nvayaḥ ॥ 94 ॥") (NB 3.94)
+("yathā vītarāgaḥ kaścit sarvajño vā, vaktṛtvāditi । vyatireko'trāsiddhaḥ । sandigdho'nvayaḥ ॥ 94 ॥")(NB 3.94)
 
 [214,ii]
 
@@ -2901,7 +2901,7 @@ yatheti । vigato rāgo yasya sa vītarāga ityekaṃ sādhyam । sarvajño ve
 [214,iii]
 
 kuta ityāha —
-("sarvajñavītarāgayorviprakarṣādvacanādestatra sattvamasattvaṃ vā sandigdham ॥ 95 ॥") (NB 3.95)
+("sarvajñavītarāgayorviprakarṣādvacanādestatra sattvamasattvaṃ vā sandigdham ॥ 95 ॥")(NB 3.95)
 
 [214,iv]
 
@@ -2912,7 +2912,7 @@ sapakṣabhūtayoḥ sarvajñavītarāgayorviprakarṣādityatīndriyatvād vaca
 [214,v]
 
 samprati dvayoreva sandehe'naikāntikaṃ vaktumāha —
-("anayoreva dvayo rūpayoḥ sandehe'naikāntikaḥ ॥ 96 ॥") (NB 3.96)
+("anayoreva dvayo rūpayoḥ sandehe'naikāntikaḥ ॥ 96 ॥")(NB 3.96)
 
 [214,vi]
 
@@ -2923,7 +2923,7 @@ anayoreva — anvayavyatirekarūpayoḥ sandehāt saṃśayahetuḥ ।
 [214,vii]
 
 udāharaṇam —
-("yathā sātmakaṃ jīvaccharīraṃ prāṇādimatvāditi ॥ 97 ॥") (NB 3.97)
+("yathā sātmakaṃ jīvaccharīraṃ prāṇādimatvāditi ॥ 97 ॥")(NB 3.97)
 
 [214,viii]
 
@@ -2940,7 +2940,7 @@ prāṇāḥ śvāsādaya ādiryasyonmeṣanimeṣādeḥ prāṇidharmasya sa p
 [215,i]
 
 ayamasādhāraṇaḥ saṃśayaheturupapādayitavyaḥ । pakṣadharmasya ca dvābhyāṃ kāraṇābhyāṃ saṃśayahetutvam । saṃśayaviṣayau yāvākārau tābhyāṃ sarvasya vastunaḥ saṃgrahāt । tayośca vyāpakayorākārayorekatrāpi vṛttyaniścayāt । yābhyāṃ hyākārābhyāṃ sarvaṃ vastu na saṃgṛhyate tayorākārayorna saṃśayaḥ । prakārāntarasambhave hi pakṣadharmo dharmiṇamaviyuktaṃ dvayorekena dharmeṇa darśayituṃ na śaknuyāt । ato na saṃśayahetuḥ syāt । dvayordharmayoraniyataṃ bhāvaṃ darśayan saṃśayahetuḥ । dvayostvaniyatamapi bhāvaṃ darśayitumaśakto'pratipattihetuḥ । niyataṃ tu bhāvaṃ darśayan samyag heturviruddho vā syāt । tasmād yābhyāṃ sarvaṃ vastu saṃgṛhyate tayoḥ saṃśayaheturyadi tayorekatrāpi sadbhāvaniścayo na syāt । sadbhāvaniścaye tu yadyekatra niyatasattāniścayo heturviruddho vā syāt । aniyatasattāniścaye tu sādhāraṇānaikāntikaḥ, sandigdhavipakṣa<216>vyāvṛttikaḥ, sandigdhānvayo'siddhavyatireko vā syāt । ekatrāpi tu vṛttyaniścayādasādhāraṇānaikāntiko bhavati । tato'sādhāraṇānaikāntikasyānaikāntikatve hetudvayaṃ darśayitumāha —
-("na hi sātmakanirātmakābhyāmanyo rāśirasti yatrāyaṃ prāṇādirvarttate(rvarteta) ॥ 98 ॥") (NB 3.98)
+("na hi sātmakanirātmakābhyāmanyo rāśirasti yatrāyaṃ prāṇādirvarttate(rvarteta) ॥ 98 ॥")(NB 3.98)
 
 [216,i]
 
@@ -2951,7 +2951,7 @@ nahīti । sahātmanā varttate sātmakaḥ । niṣkrānta ātmā yasmāt sa 
 [216,ii]
 
 kasmādanyarāśyabhāva ityāha —
-("ātmano vṛtivyavacchedābhyāṃ sarvasaṃgrahāt ॥ 99 ॥") (NB 3.99)
+("ātmano vṛtivyavacchedābhyāṃ sarvasaṃgrahāt ॥ 99 ॥")(NB 3.99)
 
 [216,iii]
 
@@ -2964,7 +2964,7 @@ kasmādanyarāśyabhāva ityāha —
 [217,i]
 
 prakārābhyāṃ sarvavastusaṅgrahaṃ pratipādya dvitīyamāha —
-("nāpyanayorekatra vṛttiniścayaḥ ॥ 100 ॥") (NB 3.100)
+("nāpyanayorekatra vṛttiniścayaḥ ॥ 100 ॥")(NB 3.100)
 
 [217,ii]
 
@@ -2975,7 +2975,7 @@ nāpyanayoḥ sātmakānātmakayormadhya ekatra sātmake'nātmake vā vṛtteḥ
 [217,iii]
 
 tadāha —
-("sātmakatvenā'nātmakatvena vā prasiddhe prāṇāderasiddheḥ ॥ 101 ॥") (NB 3.101)
+("sātmakatvenā'nātmakatvena vā prasiddhe prāṇāderasiddheḥ ॥ 101 ॥")(NB 3.101)
 
 [217,iv]
 
@@ -2992,7 +2992,7 @@ tadevamasādhāraṇasya dharmasyānaikāntikatve kāraṇadvayamabhihitam ॥
 [218,i]
 
 pakṣadharmaśca bhavan sarvaḥ sādhāraṇo'sādhāraṇo vā bhavatyanaikāntikaḥ । tasmādupasaṃhāravyājena pakṣadharmatvaṃ darśayati —
-("tasmājjīvaccharīrasambandhī prāṇādiḥ sātmakādanātmakācca sarvasmād vyāvṛttatvonāsiddhestābhyāṃ na vyatiricyate ॥ 102 ॥") (NB 3.102)
+("tasmājjīvaccharīrasambandhī prāṇādiḥ sātmakādanātmakācca sarvasmād vyāvṛttatvonāsiddhestābhyāṃ na vyatiricyate ॥ 102 ॥")(NB 3.102)
 
 [218,ii]
 
@@ -3009,7 +3009,7 @@ vastudhame hi sarvavastuvyāpinoḥ prakārayorekatra niyatasadbhāvo niścita�
 [219,i]
 
 yadyevamanvayo'stu tayorniścita ityāha —
-("na tatrānveti ॥ 103 ॥") (NB 3.103)
+("na tatrānveti ॥ 103 ॥")(NB 3.103)
 
 [219,ii]
 
@@ -3020,7 +3020,7 @@ na tatra sātmake'nātmake vā'rthenveti — anvayavān prāṇādiḥ ॥
 [219,iii]
 
 kuta ityāha —
-("ekātmanyapyasiddheḥ ॥ 104 ॥") (NB 3.104)
+("ekātmanyapyasiddheḥ ॥ 104 ॥")(NB 3.104)
 
 [219,iv]
 
@@ -3031,7 +3031,7 @@ ekātmanyapīti । ekātmani sātmake'nātmake vā'siddheḥ kāraṇāt । va
 [219,v]
 
 nanu ca prativādino na kiñcat sātmakamasti । tato'sya hetorna sātmake'nvayo na vyatireka ityanvayavyatirekayorabhāvaniścayaḥ sātmake, na tu sadbhāvasaṃśaya ityāśaṅkyāha —
-("nāpi sātmakādanātmakācca tasyānvayavyatirekayorabhāvaniścayaḥ ॥ 105 ॥") (NB 3.105)
+("nāpi sātmakādanātmakācca tasyānvayavyatirekayorabhāvaniścayaḥ ॥ 105 ॥")(NB 3.105)
 
 <220>
 
@@ -3044,7 +3044,7 @@ nāpi sātmakād vastunaḥ tasya prāṇāderanvayavyatirekayorabhāvaniścaya�
 [220,ii]
 
 kathamanvayavyatirekayornābhāvaniścaya ityāha —
-("ekābhāvaniścayasyāpara bhāvaniścayanāntarīyakatvāt ॥ 106 ॥") (NB 3.106)
+("ekābhāvaniścayasyāpara bhāvaniścayanāntarīyakatvāt ॥ 106 ॥")(NB 3.106)
 
 [220,iii]
 
@@ -3055,7 +3055,7 @@ ekasyānvayasya vyatirekasya vā yo'bhāvaniścayaḥ so'parasya dvitīyasya bh�
 [220,iv]
 
 kasmāt punarekasyābhāvaniścayo'parasadbhāvaniścayā'vyabhicārītyāha —
-("anvayavyatirekayoranyonyavyavacchedarūpatvāt । tata evānvayavyatirekayoḥ sandehādanaikāntikaḥ ॥ 107 ॥") (NB 3.107)
+("anvayavyatirekayoranyonyavyavacchedarūpatvāt । tata evānvayavyatirekayoḥ sandehādanaikāntikaḥ ॥ 107 ॥")(NB 3.107)
 
 [220,v]
 
@@ -3098,7 +3098,7 @@ yadi tu kvacida pyanvayavyatirekayorekasyāpyabhāvaniścayaḥ syāt, sa eva dv
 [222,i]
 
 kasmādanaikāntika ityāha —
-("sādhyetarayorato niścayābhāvāt ॥ 108 ॥") (NB 3.108)
+("sādhyetarayorato niścayābhāvāt ॥ 108 ॥")(NB 3.108)
 
 [222,ii]
 
@@ -3111,7 +3111,7 @@ sādhyasya, itarasya ca viruddhasya ataḥ — sandigdhānvayayatirekānniścay�
 [224,i]
 
 trayāṇāṃ rūpāṇāmasiddhau sandehe ca hetudoṣānupapādyopasaṃharannāha —
-("evameṣāṃ trayāṇāṃ rūpāṇāmekaikasya rdvayordvayorvā rūpayorasiddhau saṃdehe vā yathāyogamasiddhaviruddhānaikāntikāsrayo hetvābhāsāḥ ॥ 109 ॥") (NB 3.109)
+("evameṣāṃ trayāṇāṃ rūpāṇāmekaikasya rdvayordvayorvā rūpayorasiddhau saṃdehe vā yathāyogamasiddhaviruddhānaikāntikāsrayo hetvābhāsāḥ ॥ 109 ॥")(NB 3.109)
 
 [224,ii]
 
@@ -3121,7 +3121,7 @@ evamityanantaroktena krameṇa । eṣāṃ madhya ekaikaṃ rūpaṃ yadā'sid
 
 [224,iii]
 
-("viruddhāvyabhicāryapi saṃśayaheturuktaḥ । sa iha kasmānnoktaḥ ? ॥ 110 ॥") (NB 3.110)
+("viruddhāvyabhicāryapi saṃśayaheturuktaḥ । sa iha kasmānnoktaḥ ? ॥ 110 ॥")(NB 3.110)
 
 [224,iv]
 
@@ -3134,7 +3134,7 @@ nanu cā''cāryeṇa viruddhāvyabhicāryapi saṃśayaheturuktaḥ । hetvanta
 [225,i]
 
 satyam । ukta ācāryeṇa । mayā tviha noktaḥ । kasmādityāha —
-("anumānaviṣaye'sambhavāt ॥ 111 ॥") (NB 3.111)
+("anumānaviṣaye'sambhavāt ॥ 111 ॥")(NB 3.111)
 
 [225,ii]
 
@@ -3145,7 +3145,7 @@ anumānasya viṣayaḥ pramāṇasiddhaṃ trairūpyam । yato hi anumānasamb
 [225,iii]
 
 kasmādasaṃbhava ityāha —
-("na hi sambhavo'sti kāryasvabhāvayoruktalakṣaṇayoranupalambhasya ca viruddhatāyāḥ ॥ 112 ॥") (NB 3.112)
+("na hi sambhavo'sti kāryasvabhāvayoruktalakṣaṇayoranupalambhasya ca viruddhatāyāḥ ॥ 112 ॥")(NB 3.112)
 
 [225,iv]
 
@@ -3162,7 +3162,7 @@ kāryasya kāraṇājjanmalakṣaṇaṃ tattvam । svamāvasya ca sādhyavyāp
 [226,ii]
 
 syādetat — etebhyo'nyo bhaviṣyatītyāha —
-("na cānyo'vyabhicārī ॥ 113 ॥") (NB 3.113)
+("na cānyo'vyabhicārī ॥ 113 ॥")(NB 3.113)
 
 [226,iii]
 
@@ -3173,7 +3173,7 @@ na cānya etebhyo'vyabhicārī tribhyaḥ । ata evaiṣveva hetutvam ॥
 [226,iv]
 
 kva tarhyācāryadignāgenāyaṃ hetudopa ukta ityāha —
-("tasmādavastudarśanabalapravṛttamāgamāśrayamanumānamāśritya tadarthavicāreṣu virudvāvyabhicārī sādhanadoṣa uktaḥ ॥ 114 ॥") (NB 3.114)
+("tasmādavastudarśanabalapravṛttamāgamāśrayamanumānamāśritya tadarthavicāreṣu virudvāvyabhicārī sādhanadoṣa uktaḥ ॥ 114 ॥")(NB 3.114)
 
 [226,v]
 
@@ -3194,7 +3194,7 @@ tat tarhyanumāna māgamasiddha trairūpyaṃ kvādhikṛtamityāha — tadarthe
 [227,ii]
 
 kasmāt punarāgamāśraye pyanumāne sambhava ityāha —
-("śāstrakārāṇāmartheṣu bhrāntyā viparītasvabhāvo pasaṃhārasambhavāt ॥ 115 ॥") (NB 3.115)
+("śāstrakārāṇāmartheṣu bhrāntyā viparītasvabhāvo pasaṃhārasambhavāt ॥ 115 ॥")(NB 3.115)
 
 [227,iii]
 
@@ -3205,7 +3205,7 @@ kasmāt punarāgamāśraye pyanumāne sambhava ityāha —
 [227,iv]
 
 yadi śāstrakṛto'pi bhrāntāḥ, anyeṣvapi puruṣeṣu ka āśvāsa ityāha —
-("na hyasya sambhavo yathāvasthitavastusthitiṣvātmakāryānupalambheṣu ॥ 116 ॥") (NB 3.116)
+("na hyasya sambhavo yathāvasthitavastusthitiṣvātmakāryānupalambheṣu ॥ 116 ॥")(NB 3.116)
 
 [227,v]
 
@@ -3221,7 +3221,7 @@ avasthitaṃ paramārthasadvastu tadanatikrāntā yathāvasthitā vastusthitirvy
 
 tatra viruddhāvyabhicāriṇyudāharaṇam —
 <228>
-("tatrodāharaṇam — yat sarvadeśāvasthitaiḥ svasambandhibhiryugapadabhisambadhyate tat sarvagatam । yathā''kāśam । abhisambadhyate ca sarvādeśāvasthitaiḥ svasambandhibhiryugapat sāmānyamiti ॥ 117 ॥") (NB 3.117)
+("tatrodāharaṇam — yat sarvadeśāvasthitaiḥ svasambandhibhiryugapadabhisambadhyate tat sarvagatam । yathā''kāśam । abhisambadhyate ca sarvādeśāvasthitaiḥ svasambandhibhiryugapat sāmānyamiti ॥ 117 ॥")(NB 3.117)
 
 [228,i]
 
@@ -3236,7 +3236,7 @@ iha sāmānyaṃ kaṇādamaharṣiṇā niṣkriyaṃ dṛśyamekaṃ coktam �
 [229,i]
 
 asya svabhāvahetutvaṃ yojayitumāha —
-("tatsambandhisvabhāvamātrānubandhinī taddeśasannihitasvabhāvatā ॥ 118 ॥") (NB 3.118)
+("tatsambandhisvabhāvamātrānubandhinī taddeśasannihitasvabhāvatā ॥ 118 ॥")(NB 3.118)
 
 [229,ii]
 
@@ -3253,7 +3253,7 @@ kāsāvityāha — taddeśasaṃnnihitasvabhāvatā । teṣāṃ sambandhinā�
 [230,i]
 
 nanu ca gavāṃ sambandhī svāmī । na ca godeśe sannihitasvabhāvaḥ । tat karthaṃ tatsambandhitvāt taddeśatvamityāha —
-("na hi yo yatra nāsti taddeśamātmanā vyāpnotīti svabhāvahetuprayogaḥ ॥ 119 ॥") (NB 3.119)
+("na hi yo yatra nāsti taddeśamātmanā vyāpnotīti svabhāvahetuprayogaḥ ॥ 119 ॥")(NB 3.119)
 
 [230,ii]
 
@@ -3282,7 +3282,7 @@ tadayamarthaḥ — taddeśasthavastuvyāpanaṃ taddeśasattayā vyāptam । t
 [231,iv]
 
 paiṭharaprayogaṃ darśayannāha —
-("dvitīyo'pi prayogaḥ — yadupalabdhilakṣaṇaprāptaṃ sannopalabhyate na tat tatrāsti । tadyathā — kkacidavidyamāno ghaṭaḥ । nopalabhyate copalabdhilakṣaṇaprāptaṃ sāmānyaṃ vyaktayantarāleṣviti । ayamanupalambhaḥ svabhāvaśca parasparaviruddhārthasādhanādekatra saṃśayaṃ janayataḥ ॥ 120 ॥") (NB 3.120)
+("dvitīyo'pi prayogaḥ — yadupalabdhilakṣaṇaprāptaṃ sannopalabhyate na tat tatrāsti । tadyathā — kkacidavidyamāno ghaṭaḥ । nopalabhyate copalabdhilakṣaṇaprāptaṃ sāmānyaṃ vyaktayantarāleṣviti । ayamanupalambhaḥ svabhāvaśca parasparaviruddhārthasādhanādekatra saṃśayaṃ janayataḥ ॥ 120 ॥")(NB 3.120)
 
 [231,v]
 
@@ -3303,7 +3303,7 @@ ayamanupalambhaḥ pūrvoktaśca svabhāvaḥ parasparasya viruddhau yāvarthau 
 [233,i]
 
 nanu ca sādhanāvayavatvād yathā hetava uktāstatprasaṅgena ca hetvābhāsāḥ, tathā sādhanāvayavatvād dṛṣṭāntā vaktavyāstatprasaṅgena ca dṛṣṭāntābhāsāḥ । tat kathaṃ noktā ityāha —
-("trirūpo heturuktaḥ । tāvatā cārthapratītiriti na pṛthagdṛṣṭānto nāma sādhanāvayavaḥ kaścit । tena nāsya lakṣaṇaṃ pṛthagucyate gatārthatvāt ॥ 121 ॥") (NB 3.121)
+("trirūpo heturuktaḥ । tāvatā cārthapratītiriti na pṛthagdṛṣṭānto nāma sādhanāvayavaḥ kaścit । tena nāsya lakṣaṇaṃ pṛthagucyate gatārthatvāt ॥ 121 ॥")(NB 3.121)
 
 <234>
 
@@ -3330,7 +3330,7 @@ yadyevaṃ hetūpayogino'pi lakṣaṇaṃ vaktavyamevetyāha — gatārthatvāt
 [235,ii]
 
 kathaṃ gatārthatvamityāha —
-("hetoḥ sapakṣa eva sattvamasapakṣācca sarvato vyāvattī rūpamuktamabhedena । punarviśeṣeṇa kāryasvabhāvayoruktalakṣaṇayorjanmatanmātrānubandhau darśanīyāvaktau । tacca darśayatā — yatra dhūmastatrāgniḥ, asatyagnau na kvacid dhūmo yathā mahānasetarayoḥ; yatra kṛtakatvaṃ tatrānityatvam, anityatvābhāvo kṛtakatvā'sambhavo yathā ghaṭākāśayoḥ — iti darśanīyam । na hayanyathā sapakṣavipakṣayoḥ sadasatve yathoktaprakāre śakye darśayitum । tatkāryatāniyamaḥ kāryaliṅgasya, svabhāvaliṅgasya ca svabhāvena vyāptiḥ । asmiṃścārthe darśite darśita eva dṛṣṭānto bhavati । etāvanmātrarūpatvāt tasyeti ॥ 122 ॥") (NB 3.122)
+("hetoḥ sapakṣa eva sattvamasapakṣācca sarvato vyāvattī rūpamuktamabhedena । punarviśeṣeṇa kāryasvabhāvayoruktalakṣaṇayorjanmatanmātrānubandhau darśanīyāvaktau । tacca darśayatā — yatra dhūmastatrāgniḥ, asatyagnau na kvacid dhūmo yathā mahānasetarayoḥ; yatra kṛtakatvaṃ tatrānityatvam, anityatvābhāvo kṛtakatvā'sambhavo yathā ghaṭākāśayoḥ — iti darśanīyam । na hayanyathā sapakṣavipakṣayoḥ sadasatve yathoktaprakāre śakye darśayitum । tatkāryatāniyamaḥ kāryaliṅgasya, svabhāvaliṅgasya ca svabhāvena vyāptiḥ । asmiṃścārthe darśite darśita eva dṛṣṭānto bhavati । etāvanmātrarūpatvāt tasyeti ॥ 122 ॥")(NB 3.122)
 
 [235,iii]
 
@@ -3378,7 +3378,7 @@ asmiṃścārthe darśite darśita eva dṛṣṭānto bhavati । yo'yamartho v
 
 [239,ii]
 
-("etenaiva dṛṣṭāntadoṣā api nirastā bhavanti ॥ 123 ॥") (NB 3.123)
+("etenaiva dṛṣṭāntadoṣā api nirastā bhavanti ॥ 123 ॥")(NB 3.123)
 
 [239,iii]
 
@@ -3391,7 +3391,7 @@ etenaiva ca heturūpākhyānād dṛṣṭāntatvapradarśanena dṛṣṭāntad
 [240,i]
 
 dṛṣṭāntābhāsāmudāharati —
-("yathā nityaḥ śabdo'mūrttatvāt । karmavat paramāṇuvad ghaṭavaditi । ete dṛṣṭāntābhāsāḥ sādhyasādhanadharmobhayavikalāḥ ॥ 124 ॥") (NB 3.124)
+("yathā nityaḥ śabdo'mūrttatvāt । karmavat paramāṇuvad ghaṭavaditi । ete dṛṣṭāntābhāsāḥ sādhyasādhanadharmobhayavikalāḥ ॥ 124 ॥")(NB 3.124)
 
 [240,ii]
 
@@ -3401,7 +3401,7 @@ yathā nityaḥ śabda iti śabdasya nityatve sādhye'mūrtatvāditi hetuḥ ।
 
 [240,iii]
 
-("tathā sandigdhasādhyadharmādayaśca । yathā rāgādimānayaṃ vacanādrathyāpuruṣavat । maraṇadharmā'yaṃ puruṣo rāgādimatvādrathyāpuruṣavat । asarvajño'yaṃ rāgādimatvādrathyāpuruṣavaditi ॥ 125 ॥") (NB 3.125)
+("tathā sandigdhasādhyadharmādayaśca । yathā rāgādimānayaṃ vacanādrathyāpuruṣavat । maraṇadharmā'yaṃ puruṣo rāgādimatvādrathyāpuruṣavat । asarvajño'yaṃ rāgādimatvādrathyāpuruṣavaditi ॥ 125 ॥")(NB 3.125)
 
 [240,iv]
 
@@ -3417,7 +3417,7 @@ udāharaṇam — rāgādimāniti rāgādimattvaṃ sādhyam । vacanād iti he
 
 [241,ii]
 
-("tathā'nanvayo'pradarśitānvayaśca । yathā — yo vaktā sa rāgādimān, iṣṭapuruṣavat । anityaḥ śabdaḥ kṛtakatvād ghaṭavaditi ॥ 126 ॥") (NB 3.126)
+("tathā'nanvayo'pradarśitānvayaśca । yathā — yo vaktā sa rāgādimān, iṣṭapuruṣavat । anityaḥ śabdaḥ kṛtakatvād ghaṭavaditi ॥ 126 ॥")(NB 3.126)
 
 [241,iii]
 
@@ -3441,7 +3441,7 @@ iha yadyapi kṛtakatvena ghaṭasadṛśaḥ śabdastathāpi nānityatvenāpi s
 
 [243,i]
 
-("tathā viparītānvayaḥ — yadanityaṃ tat kṛtakamiti ॥ 127 ॥") (NB 3.127)
+("tathā viparītānvayaḥ — yadanityaṃ tat kṛtakamiti ॥ 127 ॥")(NB 3.127)
 
 [243,ii]
 
@@ -3461,7 +3461,7 @@ tasmād viparītānvayo'pi vakturaparādhāt, na vastutaḥ (naḥ) । parārth
 
 [244,iii]
 
-("sādharmyeṇa dṛṣṭāntadoṣāḥ ॥ 128 ॥") (NB 3.128)
+("sādharmyeṇa dṛṣṭāntadoṣāḥ ॥ 128 ॥")(NB 3.128)
 
 [244,iv]
 
@@ -3472,7 +3472,7 @@ sādharmyeṇa nava dṛṣṭāntadoṣā uktāḥ ॥
 [244,v]
 
 vaidharmyeṇāpi dṛṣṭāntadoṣān vaktumāha —
-("vaidharmyeṇāpi — paramāṇuvat karmavad ākāśavaditi sādhyādyavyatirekiṇaḥ ॥ 129 ॥") (NB 3.129)
+("vaidharmyeṇāpi — paramāṇuvat karmavad ākāśavaditi sādhyādyavyatirekiṇaḥ ॥ 129 ॥")(NB 3.129)
 
 [244,vi]
 
@@ -3489,7 +3489,7 @@ sādhyamādiryeṣāṃ tāni sādhyādīni sādhyasādhanobhayāni । teṣām
 [245,ii]
 
 aparānudāharttumāha —
-("tathā saṃdigdhasādhyavyatirekādayaḥ । yathā'sarvajñāḥ kapilādayo'nāptā vā avidyamānasarvajñatāptatāliṅgabhūtapramāṇātiśayaśāsanatvāditi । atra vaidharmyodāharaṇam — yaḥ sarvajña āpto vā sa jyotirjñānādikamupadiṣṭavān । yathā — ṛṣabhavardhamānādiriti । tatrāsarvajñatānāptatayoḥ sādhyadharmayoḥ saṃdigdho vyatirekaḥ ॥ 130 ॥") (NB 3.130)
+("tathā saṃdigdhasādhyavyatirekādayaḥ । yathā'sarvajñāḥ kapilādayo'nāptā vā avidyamānasarvajñatāptatāliṅgabhūtapramāṇātiśayaśāsanatvāditi । atra vaidharmyodāharaṇam — yaḥ sarvajña āpto vā sa jyotirjñānādikamupadiṣṭavān । yathā — ṛṣabhavardhamānādiriti । tatrāsarvajñatānāptatayoḥ sādhyadharmayoḥ saṃdigdho vyatirekaḥ ॥ 130 ॥")(NB 3.130)
 
 [245,iii]
 
@@ -3509,7 +3509,7 @@ atra pramāṇe vaidharmyodāharaṇam । yaḥ sarvajña āpto vā sa jyotirj�
 
 [247,i]
 
-("sandigdhasādhanavyatireko yathā — na trayīvidā brāhmaṇena grāhyavacanaḥ kaścid vivakṣitaḥ puruṣo rāgādimattvāditi । atra vaidharmyodāharaṇam — ye grāhyavacanā na te rāgādimantaḥ । tadyathā gautamādayo dharmaśāstrāṇāṃ praṇetāra iti । gautamādibhyo rāgādimattavasya sādhanadharmasya vyāvṛttiḥ sandigdhā ॥ 131 ॥") (NB 3.131)
+("sandigdhasādhanavyatireko yathā — na trayīvidā brāhmaṇena grāhyavacanaḥ kaścid vivakṣitaḥ puruṣo rāgādimattvāditi । atra vaidharmyodāharaṇam — ye grāhyavacanā na te rāgādimantaḥ । tadyathā gautamādayo dharmaśāstrāṇāṃ praṇetāra iti । gautamādibhyo rāgādimattavasya sādhanadharmasya vyāvṛttiḥ sandigdhā ॥ 131 ॥")(NB 3.131)
 
 [247,ii]
 
@@ -3523,7 +3523,7 @@ atra pramāṇe vaidharmyodāharaṇam — sādhyābhāvaḥ sādhanābhāvena y
 
 [247,iv]
 
-("sandigdhobhayavyatireko yathā — avītarāgāḥ kapilādayaḥ, parigrahāgraha yogāditi । atra vaidharmyeṇodāharaṇam — yo vītarāgo na tasya parigrahāgrahaḥ । <248> yatharṣabhāderiti । ṛṣabhāderavītarāgatvaparigrahagrahayogayoḥ sādhyasādhanadharmayoḥ sandigdho vyatirekaḥ ॥ 132 ॥") (NB 3.132)
+("sandigdhobhayavyatireko yathā — avītarāgāḥ kapilādayaḥ, parigrahāgraha yogāditi । atra vaidharmyeṇodāharaṇam — yo vītarāgo na tasya parigrahāgrahaḥ । <248> yatharṣabhāderiti । ṛṣabhāderavītarāgatvaparigrahagrahayogayoḥ sādhyasādhanadharmayoḥ sandigdho vyatirekaḥ ॥ 132 ॥")(NB 3.132)
 
 [248,i]
 
@@ -3534,7 +3534,7 @@ sandigdha ubhayorvyatireko yasmin sa tathoktaḥ । tamudāharati yatheti । a
 [248,ii]
 
 aparānapi trīnudāharttumāha —
-("avyatireko yathā — avītarāgo'yaṃ vaktṛtvāt । vaidharmyeṇodāharaṇam — yatrā'vītarāgatvaṃ nāsti, na sa vaktā । yathā — upalakhaṇḍa iti । yadyapyupalakhaṇḍādubhayaṃ vyāvṛttaṃ tathāpi sarvo vītarāgo na vakteti vyāptyā vyatirekāsiddheravyatirekaḥ ॥ 133 ॥") (NB 3.133)
+("avyatireko yathā — avītarāgo'yaṃ vaktṛtvāt । vaidharmyeṇodāharaṇam — yatrā'vītarāgatvaṃ nāsti, na sa vaktā । yathā — upalakhaṇḍa iti । yadyapyupalakhaṇḍādubhayaṃ vyāvṛttaṃ tathāpi sarvo vītarāgo na vakteti vyāptyā vyatirekāsiddheravyatirekaḥ ॥ 133 ॥")(NB 3.133)
 
 <249>
 
@@ -3554,7 +3554,7 @@ kīdṛśī punarvyāptirityāha — sarvo vītarāga iti sādhyābhāvānuvāda
 
 [249,iv]
 
-("apradarśitavyatireko yathā — anityaḥ śabdaḥ, kṛtakatvādākāśavaditi vadharmyeṇa ॥ 134 ॥") (NB 3.134)
+("apradarśitavyatireko yathā — anityaḥ śabdaḥ, kṛtakatvādākāśavaditi vadharmyeṇa ॥ 134 ॥")(NB 3.134)
 
 <250>
 
@@ -3570,7 +3570,7 @@ iha parārthānumāne parasmādarthaḥ pratipattavyaḥ । sa śuddho'pi svato
 
 [251,i]
 
-("viparītavyatireko yathā — yadakṛtakaṃ tannityaṃ bhavatīti ॥ 135 ॥") (NB 3.135)
+("viparītavyatireko yathā — yadakṛtakaṃ tannityaṃ bhavatīti ॥ 135 ॥")(NB 3.135)
 
 [251,ii]
 
@@ -3587,7 +3587,7 @@ tato'yamarthaḥ — akṛtako nitya eva । tathā ca sati akṛtakatvaṃ nity
 [253,i]
 
 dṛṣṭāntadoṣānudāhṛtya duṣṭatvanibandhanatvaṃ darśayitumāha —
-("na hyebhirdṛṣṭāntābhāsairhetoḥ sāmānyalakṣaṇaṃ sapakṣa eva satvaṃ vipakṣe ca sarvatrāsatvameva niścayena śakyaṃ darśayituṃ viśeṣalakṣaṇaṃ vā । tadarthāpatyaiṣāṃ nirāso draṣṭavyaḥ ॥ 136 ॥") (NB 3.136)
+("na hyebhirdṛṣṭāntābhāsairhetoḥ sāmānyalakṣaṇaṃ sapakṣa eva satvaṃ vipakṣe ca sarvatrāsatvameva niścayena śakyaṃ darśayituṃ viśeṣalakṣaṇaṃ vā । tadarthāpatyaiṣāṃ nirāso draṣṭavyaḥ ॥ 136 ॥")(NB 3.136)
 
 [253,ii]
 
@@ -3604,7 +3604,7 @@ nanu ca sāmānyalakṣaṇaṃ viśeṣaniṣṭhameva pratipattavyaṃ na svat
 [254,i]
 
 dūṣaṇaṃ vaktumāha —
-("dūṣaṇā nyūnatādyuktiḥ ॥ 137 ॥") (NB 3.137)
+("dūṣaṇā nyūnatādyuktiḥ ॥ 137 ॥")(NB 3.137)
 
 [254,ii]
 
@@ -3615,7 +3615,7 @@ dūṣaṇā kā draṣṭavyā ? nyūnatādīnāmuvitaḥ । ucyate'nayetyuvit
 [254,iii]
 
 dūṣaṇaṃ vivarītumāha —
-("ye pūrvaṃ nyūnatādāyaḥ sādhanadoṣā uktāsteṣāmudbhāvanaṃ dūṣaṇam । tena pareṣṭārthasiddhipratibandhāt ॥ 138 ॥") (NB 3.138)
+("ye pūrvaṃ nyūnatādāyaḥ sādhanadoṣā uktāsteṣāmudbhāvanaṃ dūṣaṇam । tena pareṣṭārthasiddhipratibandhāt ॥ 138 ॥")(NB 3.138)
 
 [254,iv]
 
@@ -3631,7 +3631,7 @@ nanu ca nyūnatādayo na viparyayasādhanāḥ । tat kathaṃ dūṣaṇamity�
 
 [255,i]
 
-("dūṣaṇābhāsāstu jātayaḥ ॥ 139 ॥") (NB 3.139)
+("dūṣaṇābhāsāstu jātayaḥ ॥ 139 ॥")(NB 3.139)
 
 [255,ii]
 
@@ -3642,7 +3642,7 @@ dūṣaṇābhāsā iti । dūṣaṇavadābhāsanta iti dūṣaṇābhāsāḥ
 [255,iii]
 
 tadevottarasādṛśyamuttarasthānaprayuktvena darśayitumāha —
-("abhūtadoṣodbhāvanāni jātyuttarāṇīti ॥ 140 ॥") (NB 3.140)
+("abhūtadoṣodbhāvanāni jātyuttarāṇīti ॥ 140 ॥")(NB 3.140)
 
 <॥ nyāyabinduḥ samāptaḥ ॥ laghudharmottarasūtraṃ samāptamiti ॥>
 
