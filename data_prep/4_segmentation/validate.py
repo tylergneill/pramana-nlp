@@ -105,12 +105,16 @@ def validate_content(raw_input_text, verbose=False):
 
 	# remove deletable brackets and their contents, iteratively in case nested
 	# leave behind only text content
-	while bool( re.search(full_deletable_bracket_pair_regex, content) ) == True:
-		content = re.sub(full_deletable_bracket_pair_regex, '', content)
+	# and check twice in case of lots of nesting
 
-	# keep content of keepable brackets
-	while bool( re.search(full_keepable_bracket_pair_regex, content) ) == True:
-		content = re.sub(full_keepable_bracket_pair_regex, '\\1', content)
+	for i in range(2):
+
+		while bool( re.search(full_deletable_bracket_pair_regex, content) ) == True:
+			content = re.sub(full_deletable_bracket_pair_regex, '', content)
+
+		# keep content of keepable brackets
+		while bool( re.search(full_keepable_bracket_pair_regex, content) ) == True:
+			content = re.sub(full_keepable_bracket_pair_regex, '\\1', content)
 
 	# clean up extra whitespace
 	regex_replacements = [
