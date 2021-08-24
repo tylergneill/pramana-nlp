@@ -83,6 +83,8 @@ tatra ādyā sadvyavahāraniṣedhopayogāt pramāṇam uktā / na tu vyatirekad
 
 {I.2.a dṛśyānupabdhiphalam 3–15}
 
+[005,06]
+
 sā ca prayogabhedāt
 
 [005,07]
@@ -201,6 +203,8 @@ sa tasya vyatireko na niścita iti vipakṣe vṛttir āśaṅkyeta / vyatirekas
 na hy asati pratibandhe 'nvayavyatirekaniścayo 'sti / tena tam eva darśayan niścayam āha / tatra anvayasya niścayena viruddhatat pakṣyāṇāṃ nirāsaḥ / vyatirekasya anaikāntikasya tatpakṣasya ca śeṣavadādeḥ / dvayor ity ekasiddhapratiṣedhaḥ / prasiddhavacanena sandigdhayoḥ śeṣavadasādhāraṇayoḥ sapakṣavipakṣayor api /
 
 {I.2.b vyāpticintā 16–38}
+
+[011,05]
 
 anyathā hy asati pratibandhe 'darśanamātreṇa vyatireke /
 
@@ -411,6 +415,8 @@ iti saṃgrahaślokau / kathaṃ tarhi idānīṃ bhinnāt sahakāriṇaḥ kār
 iti saṃgrahaślokaḥ / tasmāt sakṛd api darśanādarśanābhyāṃ kāryakāraṇabhāvasiddher bhavati tatas tatpratipattiḥ / na anyathā / anvayavyatirekayor niḥśeṣadarśanādarśanāyattatvāt / kvacid amūrtatve nityatvadarśane 'py anyatra anyathā adṛṣṭeḥ / kvacin nityatvābhāve 'py adṛṣṭasya punar dṛṣṭer iti 
 
 {I.3. sāmānyacintā 39–184}
+
+[024,07]
 
 bhavatu kāryasya kāraṇena avinābhāvas tadutpatteḥ / svabhāva idānīṃ katham avinābhāvaḥ /
 
@@ -1545,6 +1551,8 @@ so 'yam ahrīkaḥ kvacid apy ekam ākāraṃ pratiniyatam apaśyan vibhāgābh�
 
 {I.4. śabdacintā 185–212}
 
+[092,08]
+
 api ca / ayam abhāvam abhidheyaṃ bruvāṇaṃ prati pratividadhad abruvāṇaḥ kathaṃ pratividadhyāt / vacane vā asya katham abhāvo 'nuktaḥ / atha abhāvam eva na icchet / tena avacanam / tad eva idānīṃ katham abhāvo na asti iti / yat punar etad arthaniṣedhe 'narthakaśabdāprayogān nirviṣayasya naño 'prayoga ity atra uttaraṃ vakṣyate / tasmāt santy abhāveṣu śabdāḥ / teṣu kathaṃ svabhāvabheda iti / tatra api /
 
 [092,16]
@@ -1780,9 +1788,9 @@ kalpanāviṣayatvāc śabdārtha eva kalpitaḥ / tasya vastvāśrayānupalambh
 
 {I.5. āgamacintā 213–223}
 
-api ca /
+[107,19]
 
-[107,20]
+api ca /
 	nāntarīyakatā abhāvāc śabdānāṃ vastubhiḥ saha /
 	na arthasiddhis tatas te hi vaktrabhiprāyasūcakāḥ // 1.213 //
 
@@ -1831,6 +1839,8 @@ sarve eva āgamam anāgamaṃ vā pravṛttikāmo 'nveṣate prekṣāpūrvakār
 
 {I.5.a pauruṣeyatve 219–223}
 
+[110,06]
+
 puruṣaparīkṣayā tu pravṛttāv apravṛttir eva / tasya tathābhūtasya jñātum aśakyatvāt na aniṣṭeḥ / tādṛśām avitathābhidhānāt / tathā hi /
 
 [110,09]
@@ -1871,6 +1881,8 @@ mohaṃ doṣanidānam āhuḥ amūḍhasya doṣānutpatteḥ punar anyatra sat
 <I.6. apauruṣeyatva 224–258>
 
 {I.6.a vedaprāmāṇyanirāsaḥ 224–258}
+
+[112,06]
 
 mā bhūt puruṣāśrayaṃ vacanam āgamaḥ praṇetur duranvayatvāt /
 
@@ -2444,9 +2456,9 @@ ukto hi sambandhārthāntaravāde 'nekaprakāro doṣaḥ / tena eva sā śabda�
 
 {I.i. navyamimāmsā (bhāṭṭa) matanirāsaḥ 284–329}
 
-api ca /
+[150,11]
 
-[150,12]
+api ca /
 	na apauruṣeyam ity eva yathā arthajñānasādhanam /
 	dṛṣṭo 'nyathā api vahnyādir aduṣṭaḥ puruṣāgasā // 1.284 //
 

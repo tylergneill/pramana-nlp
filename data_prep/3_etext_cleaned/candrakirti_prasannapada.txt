@@ -197,7 +197,7 @@ api ca | ātmanastarkaśāstrātikauśalamātramāviścikīrṣayā aṅgīkṛt
 
 tathā —
 	bījasya sato yathāṅkuro na ca yo bīju sa caiva aṅkuro /
-	na ca anyu tato na caiva tadevamanucchedaaśāśvatadharmatā //
+	na ca anyu tato na caiva tadevamanuccheda aśāśvatadharmatā //
 
 [8,v]
 
@@ -1728,7 +1728,7 @@ samādhirājasūtre 'pi —
 	ekena sarvaṃ jānāti sarvamekena paśyati /
 	kiyadbahu pi bhāvetvā na tasyotpadyate madaḥ //
 iti |
-|| (4.9) ||
+(|| 4.9 ||)
 
 <ityācāryacandrakīrtipādoparacittāyāṃ prasannapadāyāṃ madhyamakavṛttau skandhaparīkṣā nāma caturtha prakaraṇam ||>
 
@@ -2066,7 +2066,7 @@ yāvatā —
 
 nāstyeva sa pṛthagbhāvaḥ sahabhāvānapekṣo yasmin pṛthagbhāve sati sahabhāvasiddhiḥ syādityasaṃbhāvayannāha —
 	katamasminpṛthagbhāve sahabhāvaṃ satīcchasi /
-|| (6.9) ||
+(|| 6.9 ||)
 
 {6.10}
 
@@ -2093,7 +2093,7 @@ yo rajyeta yatra vā rajyeta yena vā rajyeta, yo duṣyeta yatra vā duṣyeta 
 tathā —
 	ye rāgadoṣamadamohasabhāva jñātvā saṃkalpahetujanitaṃ vitathapravṛttam /
 	na vikalpayanti na virāgamapīha teṣām 〈āśu〉 sarvabhavabhāvavibhāvitānām //
-|| (6.10) ||
+(|| 6.10 ||)
 
 <ityācāryacandrakīrtipādoparacittāyāṃ prasannapadāyāṃ madhyamakavṛttau rāgaraktaparīkṣā nāma ṣaṣṭhaṃ prakaraṇam ||>
 
@@ -3180,7 +3180,7 @@ ata evoktaṃ bhagavatā āryasamādhirājabhaṭṭārake —
 	na ca dṛṣṭisthānagatiśuddhiriha na ca sattvacārasupaśāntagati //
 	anutpāda śānta animittapadaṃ sugatāna gocara jināna guṇā /
 	bala dhāraṇī daśabalāna balaṃ buddhāniyaṃ vṛṣamitā paramā //
-|| (9.12) ||
+(|| 9.12 ||)
 
 <ityācāryacandrakīrtipādoparacitāyāṃ prasannapadāyāṃ madhyamakavṛttau pūrvaparīkṣā nāma navamaṃ prakaraṇam ||>
 
@@ -3468,7 +3468,7 @@ tathā
 	imu īdṛśa dharmalakṣaṇā buddha dīpaṃkaradarśane tvayā /
 <ed_94>
 	anubuddha yatha tvayātmanā tatha bodhehi sadevamānuṣān //
-	viparītaabhūtakalpitai rāgadoṣaiḥ paridahyate jagat /
+	viparīta abhūtakalpitai rāgadoṣaiḥ paridahyate jagat /
 	kṛpameghaśamāmbuśītalāṃ muñca dhārāmamṛtasya nāyaka //
 iti vistaraḥ || (10.16) ||
 
@@ -4108,7 +4108,7 @@ iti | yathoktaṃ bhagavatā (upāliparipṛcchāyām)
 tathā —
 	bhāvitu mārga pavartitu jñāna śūnyaka dharma nirātmaka sarvi /
 	yena vibhāvita bhontimi dharmāstasya bhavetpratibhānamanantam //
-|| (14.8) ||
+(|| 14.8 ||)
 
 <ityācāryacandrakīrtipādoparacitāyāṃ prasannapadāyāṃ madhyamakavṛttau saṃsargaparīkṣā nāma caturdaśamaṃ prakaraṇam ||>
 
@@ -4527,7 +4527,7 @@ tathā āryasamādhirājabhaṭṭārake —
 tathā —
 	nirodhasatyaṃ supinaṃ yathaiva svapnasvabhāvāmatha nirvṛtiṃ ca /
 	yeneha vācottari bodhisattvo ayaṃ khu so vuccati vācasaṃvaraḥ //
-|| (16.4) ||
+(|| 16.4 ||)
 
 <ed_127>
 
@@ -4870,7 +4870,7 @@ sa cāyamavipraṇāśaḥ prahāṇato na praheyaḥ | pārthagjanikāni karmā
 
 yataścaivamavipraṇāśaḥ karmavināśe 'pi na naśyati, karmaprahāṇe 'pi na prahīyate,
 	tasmādavipraṇāśena jāyate karmaṇāṃ phalam // 17.15 //
-|| (17.15) ||
+(|| 17.15 ||)
 
 <ed_138>
 

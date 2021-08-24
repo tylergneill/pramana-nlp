@@ -1,6 +1,6 @@
 {0}
 
-bhaṭṭajayantaviracitā nyāyakalikā |
+<bhaṭṭajayantaviracitā nyāyakalikā>
 
 [maṅgalam]
 surāsuraśiroratnamarīcikhacitāṅghraye |
@@ -198,6 +198,8 @@ vedavad āgamāntarāṇy api tanmūlatvād āptapraṇītatvād vā pramāṇam
 arthāpattyādipramāṇāntarāṇāṃ yathāsaṃbhavam eṣv evāntarbhāvāc catvāry eva pramāṇāni.
 
 {2}
+
+[2.0]
 <prameyam>
 
 pramāṇaviṣayo 'rthaḥ prameyam. ānantye 'pi prameyasya dravyāder dvādaśavidham ihātmādi prameyaṃ nirdiśyate yan mithyājñānaviṣayīkṛtaṃ saṃsārāya samyagjñānaviṣayīkṛtaṃ tv apavargāya kalpate.
