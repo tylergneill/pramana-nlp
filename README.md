@@ -4,6 +4,8 @@ A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along w
 
 Update (Oct 2021): The repo is now current to reflect latest text input and modeling output (and now in Python 3). See the above Zenodo link for the archived version corresponding to the 2019 paper.
 
+More importantly, now you can see this data hard at work in the intertextuality search interface [vatayana.info](https://www.vatayana.info).
+
 Repo Overview:
 
 1. text_original: downloaded source files (`.htm` GRETIL, `.xml` SARIT, `.doc` etc. private collections)
