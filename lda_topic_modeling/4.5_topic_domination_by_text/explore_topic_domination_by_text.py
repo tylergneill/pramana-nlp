@@ -9,7 +9,7 @@ from collections import Counter
 from tqdm import tqdm
 
 n = 1000
-k = 50
+k = 75
 url = "http://localhost:3737/topic/%s/%s"
 topic_search_terms = [str(x+1) for x in range(k)]
 doc_search_depth = str(n)

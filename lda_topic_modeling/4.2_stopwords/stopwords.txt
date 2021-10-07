@@ -231,7 +231,7 @@ iti, na, ca, api, eva, tad, tvāt, tat, hi, ādi, tu, vā
 
 ****
 
-for words to exclude during manual interpretation of phi data
+for words to exclude during manual interpretation of phi data (e.g. in word clouds)
 
 from original top 200 list
 

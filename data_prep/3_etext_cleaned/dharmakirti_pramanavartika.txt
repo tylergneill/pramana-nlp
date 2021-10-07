@@ -192,7 +192,7 @@
 [2.083cd]	jalavat sūtavad dhemni nādṛṣṭer asad eva vā  //
 [2.084ab]	pāṇyādikampe sarvasya kampaprāpter virodhinaḥ /
 [2.084cd]	ekasmin karmaṇo 'yogāt syāt pṛthak siddhir anyathā  //
-[2.085ab]	ekasya cāvṛttau sarvasyāvṛttiḥ syād anāvṛttau /
+[2.085ab]	ekasya cāvṛtau sarvasyāvṛtiḥ syād anāvṛtau /
 [2.085cd]	dṛśyeta rakte caikasmin rāgo 'raktasya vā gatiḥ  //
 [2.086ab]	nāsty ekasamudāyo 'smād anekatve 'pi pūrvavat /
 [2.086cd]	aviśeṣād aṇutvāc ca na gatiś cen na sidhyati  //

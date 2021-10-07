@@ -2,7 +2,7 @@
 
 A corpus of Sanskrit pramāṇa texts ready for use in NLP applications, along with data and results for an experiment in LDA topic modeling. See also the corresponding [paper](https://www.aclweb.org/anthology/W19-7505/) presented at the [6th ISCLS](https://iscls.github.io), for which the citable repo snapshot is at: [![DOI](https://zenodo.org/badge/187706215.svg)](https://zenodo.org/badge/latestdoi/187706215)
 
-Update (Jan 2021): I'm currently working on version 2 (= re-cleaned and additional text data, Python 3, new experimentation in similarity calculation). See the above Zenodo link for the archive of version 1.
+Update (Oct 2021): The repo is now current to reflect latest text input and modeling output (and now in Python 3). See the above Zenodo link for the archived version corresponding to the 2019 paper.
 
 Repo Overview:
 
@@ -20,7 +20,7 @@ Data Source | 1\_text\_original | 2.1\_text\_metadata | 2.4\_text\_cleaned | 3\_
 private collections  | ([some](./1_text_original/files_from_private_collections.txt)) | y | ([some](./1_text_original/files_from_private_collections.txt)) | y |
 
 Tools Used:
-* Python 2.7 (>> 3.8)
+* Python 3.8
 * XSL Transforms: [lxml](https://lxml.de/index.html) library
 * Word Segmentation: [Sanskrit Sandhi and Compound Splitter](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp), based on [DCS](http://www.sanskrit-linguistics.org/dcs/index.php)
 * Transliteration: [skrutable](https://github.com/tylergneill/Skrutable)

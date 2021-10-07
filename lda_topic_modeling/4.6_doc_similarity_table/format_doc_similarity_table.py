@@ -47,11 +47,11 @@ text_rank = {}
 for id in priority_ranking:
 	if id not in hits_by_text.keys(): continue
 	prioritized_hits[id] = hits_by_text[id]
-	hits_by_text.pop(id)
+	# hits_by_text.pop(id)
 	text_rank[id] = len(prioritized_hits)
 for k in hits_by_text.keys():
 	prioritized_hits[k] = hits_by_text[k]
-	hits_by_text.pop(k)
+	# hits_by_text.pop(k)
 	text_rank[k] = len(prioritized_hits)
 
 output_lines = []
@@ -65,5 +65,5 @@ for j, (id_name, hits) in enumerate(prioritized_hits.items()):
 		output_lines[rank][j+1] = id_location
 
 f_out = open('doc_similarity_table_%s_%d.tsv' % (query_id, n), 'w')
-f_out.write( '\n'.join( [''.join(o_l) for o_l in output_lines] ).encode('utf-8') )
+f_out.write( '\n'.join( [''.join(o_l) for o_l in output_lines] ) )
 f_out.close()
